@@ -17,6 +17,7 @@ po-learning-journal/
 │       └── digital-product-leadership/   Um curso
 │           └── 01-fundamentos-de-product-management.md   Nota do módulo
 ├── projetos-projects/         Um projeto prático para cada módulo concluído
+├── mapa-de-estudos.md         Mapa do que foi estudado e skills desbloqueadas
 ├── glossario-glossary.md      Termos de produto em português e inglês
 ├── templates/                 Modelos (história de usuário, critérios de aceite, etc.)
 └── exemplos-examples/         Exercícios e artefatos que eu fiz praticando
@@ -33,6 +34,8 @@ Algumas pastas só aparecem no GitHub quando recebem o primeiro arquivo.
 **Regra de confidencialidade:** aqui só entram conteúdos de cursos e exercícios de prática. Nunca publico materiais pagos na íntegra, nomes de colegas, dados de empresas reais nem informações internas de onde eu trabalho.
 
 ## Progresso
+
+🗺️ **[Mapa de estudos e skills](mapa-de-estudos.md):** o que já vi, o que falta e as skills que cada módulo desbloqueia.
 
 | Escola | Curso | Módulo | Situação |
 | --- | --- | --- | --- |
@@ -80,6 +83,7 @@ I write down, in my own words, what I learn in each course, organized by the sch
 | Folder or file | What it contains |
 | --- | --- |
 | `cursos-courses/` | Courses, grouped by school, then by course, with one note per module |
+| [`mapa-de-estudos.md`](mapa-de-estudos.md) | Study map and unlocked skills |
 | [`glossario-glossary.md`](glossario-glossary.md) | Product terms in Portuguese and English |
 | `templates/` | Templates (user story, acceptance criteria, etc.) |
 | `projetos-projects/` | One practice project per completed module |
