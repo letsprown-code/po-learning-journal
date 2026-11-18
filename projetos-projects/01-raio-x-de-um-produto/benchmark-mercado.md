@@ -89,7 +89,7 @@
 
 ## 3. Gaps encontrados / Gaps found
 
-> 🇧🇷 Leitura minha a partir dos dados, usando as ferramentas do módulo. São **hipóteses de oportunidade** para investigar, não conclusões nem críticas. Todos os players resolvem a maior parte das reclamações que recebem; os gaps mostram onde ainda há espaço para melhorar a experiência de quem viaja.
+> 🇧🇷 Leitura minha a partir dos dados, usando as ferramentas do módulo. São **hipóteses de oportunidade** para investigar, não conclusões nem críticas. Todos os players com reputação calculada no Reclame Aqui resolvem a maior parte das reclamações que recebem (de 60,8% a 94,1%); os gaps mostram onde ainda há espaço para melhorar a experiência de quem viaja.
 
 **Gap 1 · O dinheiro de volta é a maior dor de quem vende passagem.**
 "Estorno do valor pago" é o problema nº 1 em Decolar, 123milhas, MaxMilhas e Quero Passagem, e o nº 2 na Vai de Promo. "Não consigo cancelar" aparece no top 5 de 6 dos 10 players. A dor não está na compra: está no **pós-venda** (cancelar, remarcar, receber o dinheiro).
