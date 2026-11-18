@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-labelledby="t d" font-family="Inter, sans-serif">
+  <title id="t">Visão, estratégia e tática</title>
+  <desc id="d">Três degraus. Visão: onde queremos chegar, o futuro do usuário (Slack: comunicação no trabalho mais simples, agradável e produtiva). Estratégia: o que atacar, escolhas e prioridades (Slack: adoção num nicho de times pequenos, integrações e freemium). Tática: como executar, ações de curto prazo como features e roadmap (Slack: onboarding até o momento aha, campanhas e tutoriais).</desc>
+  <rect width="900" height="640" fill="#FFFFFF"/>
+  <text x="60" y="58" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">Visão, estratégia e tática</text>
+  <text x="60" y="88" font-size="14" font-weight="700" letter-spacing="1.6" fill="#5E5E5E">VISION · STRATEGY · TACTICS</text>
+
+  <!-- stairs -->
+  <!-- Tática (base) -->
+  <rect x="60" y="440" width="780" height="150" rx="12" fill="#F5F5F5" stroke="#0D0D0D" stroke-width="2"/>
+  <!-- Estratégia -->
+  <rect x="160" y="275" width="680" height="150" rx="12" fill="#F5F5F5" stroke="#0D0D0D" stroke-width="2"/>
+  <!-- Visão (topo) -->
+  <rect x="260" y="110" width="580" height="150" rx="12" fill="#0D0D0D"/>
+
+  <!-- Visão -->
+  <rect x="284" y="134" width="96" height="30" rx="3" fill="#DFFF00"/>
+  <text x="292" y="157" font-size="24" font-weight="900" letter-spacing="-0.5" fill="#0D0D0D">Visão</text>
+  <text x="396" y="157" font-size="15" font-weight="700" fill="#FFFFFF">Onde queremos chegar?</text>
+  <text x="292" y="190" font-size="14" fill="#C9C9C9">O futuro que o produto cria para o usuário. Sem o "como".</text>
+  <text x="292" y="226" font-size="13" font-weight="700" letter-spacing="1" fill="#DFFF00">SLACK</text>
+  <text x="352" y="226" font-size="14" fill="#FFFFFF">comunicação no trabalho mais simples, agradável e produtiva</text>
+
+  <!-- Estratégia -->
+  <text x="184" y="320" font-size="24" font-weight="900" letter-spacing="-0.5" fill="#0D0D0D">Estratégia</text>
+  <text x="320" y="320" font-size="15" font-weight="700" fill="#0D0D0D">O que vamos atacar?</text>
+  <text x="184" y="352" font-size="14" fill="#5E5E5E">Escolhas intencionais: quais problemas e quais alavancas priorizar.</text>
+  <text x="184" y="390" font-size="13" font-weight="700" letter-spacing="1" fill="#0D0D0D">SLACK</text>
+  <text x="244" y="390" font-size="14" fill="#0D0D0D">adoção num nicho (times pequenos) · integrações · freemium</text>
+
+  <!-- Tática -->
+  <text x="84" y="485" font-size="24" font-weight="900" letter-spacing="-0.5" fill="#0D0D0D">Tática</text>
+  <text x="178" y="485" font-size="15" font-weight="700" fill="#0D0D0D">Como vamos executar?</text>
+  <text x="84" y="517" font-size="14" fill="#5E5E5E">Ações de curto prazo: features, roadmap, campanhas, experimentos.</text>
+  <text x="84" y="555" font-size="13" font-weight="700" letter-spacing="1" fill="#0D0D0D">SLACK</text>
+  <text x="144" y="555" font-size="14" fill="#0D0D0D">onboarding até o "momento aha" · campanhas · tutoriais</text>
+
+  <!-- arrow -->
+  <line x1="40" y1="590" x2="40" y2="130" stroke="#A0B300" stroke-width="3"/>
+  <polygon points="40,114 32,132 48,132" fill="#A0B300"/>
+  <text x="28" y="360" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="1" fill="#5E5E5E" transform="rotate(-90 28 360)">DO CURTO PRAZO AO FUTURO</text>
+
+  <text x="840" y="620" text-anchor="end" font-size="12" fill="#5E5E5E">Tera · DPL 01 · O que é estratégia de produto</text>
+</svg>

@@ -28,3 +28,12 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Crescimento liderado pelo produto | Product-led growth | Quando o produto lidera o crescimento do negócio (em vez do marketing ou das vendas) · Growth led by the product | DPL 01 · Product Sense |
 | Escolha, troca | Trade-off | Escolher um caminho e abrir mão de outro (ex.: comprar ou construir?) · Choosing one path over another | DPL 01 · Pessoas de Produto / Product Sense |
 | Silo funcional | Functional silo | Quando cada área pensa só na sua parte, sem olhar o produto como um todo · Each area thinking only of its part | DPL 01 · Product Sense |
+| Estratégia de produto | Product strategy | Escolhas intencionais, diante de um contexto, sobre quais problemas atacar e o que priorizar; traduz a visão em decisões · Choices that turn vision into decisions | DPL 01 · Estratégia de produto |
+| Tática | Tactics | O como: ações de curto prazo (features, roadmap, campanhas, experimentos) alinhadas à estratégia · Short-term actions | DPL 01 · Estratégia de produto |
+| Fábrica de features, armadilha da construção | Feature factory, build trap | Time ocupado só em entregar funcionalidades, sem conexão com o problema · Shipping features disconnected from problems | DPL 01 · Estratégia de produto |
+| Time empoderado | Empowered team | Time dono dos resultados que gera, não das coisas que faz; medido por outcome · Owns outcomes, not outputs | DPL 01 · Estratégia de produto |
+| Entrega / resultado | Output / outcome | Output é a quantidade entregue; outcome é o valor gerado · Delivered vs value created | DPL 01 · Estratégia de produto |
+| Freemium | Freemium | Começar com uma versão gratuita, para reduzir a barreira de entrada, e convidar para a paga · Free tier leading to paid | DPL 01 · Estratégia de produto |
+| Integração inicial | Onboarding | Processo de receber e habilitar novos usuários · Welcoming and enabling new users | DPL 01 · Estratégia de produto |
+| Cancelamento | Churn | Clientes que cancelam ou deixam de usar o produto · Customers leaving | DPL 01 · Estratégia de produto |
+| Quadro de visão do produto | Product Vision Board | Framework de Roman Pichler em blocos: visão, público-alvo, necessidades, produto e alvos do negócio · Pichler's vision board | DPL 01 · Estratégia de produto |

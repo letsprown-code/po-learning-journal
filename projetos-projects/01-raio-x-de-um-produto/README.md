@@ -23,7 +23,9 @@ Cada etapa só entra depois que a aula correspondente estiver concluída. / Each
 | 7 | Meu **T-Shaped Product Manager**: largura e profundidade das minhas habilidades | Pessoas de Produto | ⬜ |
 | 8 | Provocação do TikTok aplicada ao produto: o que ele é olhando negócio, design e tecnologia? Que perguntas surgem além do viés de usuária? | Product Sense | ⬜ |
 | 9 | Perguntas do professor: usuário (qual problema, para quem e por quê) → trabalho a ser feito (por que e como) → objetivos e recursos | Product Sense | ⬜ |
-| 10+ | Estratégia, visão e proposta de valor | Aulas 8–12 (a fazer) | 🔒 |
+| 10 | Visão, estratégia e tática do produto (como no exemplo do Slack) e o seu **contexto, foco e sequenciamento** | O que é estratégia de produto | ⬜ |
+| 11 | Product Vision Board do produto: visão, público-alvo, necessidades, produto e alvos do negócio | O que é estratégia de produto | ⬜ |
+| 12+ | Estratégias claras, visão e proposta de valor | Aulas 9–12 (a fazer) | 🔒 |
 
 ## Entregável / Deliverable
 🇧🇷 Um documento `raio-x.md` nesta pasta, com uma seção por etapa. 🇺🇸 A `raio-x.md` file in this folder, one section per step.
