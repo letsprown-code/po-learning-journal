@@ -4,9 +4,14 @@
 |---|---|
 | Aplica / Applies | [Tera · DPL · Módulo 01: Fundamentos de Product Management](../../cursos-courses/tera/digital-product-leadership/01-fundamentos-de-product-management.md) |
 | Situação / Status | 🟡 Em andamento / In progress |
-| Produto analisado / Product | *(a escolher / to be chosen)* |
+| Tema / Theme | Viagens, passagens e milhas |
+| Produto analisado / Product | *(a escolher a partir do benchmark / to be chosen from the benchmark)* |
+| Benchmark | ✅ [Benchmark de mercado](benchmark-mercado.md) (18/11/2026) |
 
 🇧🇷 **Objetivo:** pegar um produto digital público que eu uso e analisá-lo com as ferramentas do Módulo 01. Uso só informações públicas (site, loja de apps, notícias) e minhas observações como usuária. 🇺🇸 Analyze a public digital product with Module 01 tools, using public information only.
+
+## Etapa 0 · Contexto de mercado ✅
+🇧🇷 Antes do raio-x, fizemos um [benchmark de mercado](benchmark-mercado.md) com 10 players de viagens, passagens e milhas (Reclame Aqui, consumidor.gov.br e Google Play) para achar gaps e escolher o produto.
 
 ## Etapas / Steps
 
