@@ -52,3 +52,16 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Comunicado de imprensa (como visão) | Press release | Formato de visão em que se escreve a notícia que gostaríamos de ler quando o produto tiver sucesso (ex.: Amazon S3) · Vision as a future news story | DPL 01 · Visão de produto |
 | Canvas de storytelling | Storytelling canvas | Estrutura a narrativa da visão: tema, objetivo, audiência, estado antes, preparação, mensagem principal, conclusão e estado depois · Story structure canvas | DPL 01 · Visão de produto |
 | Jornada do herói | Hero's journey | Estrutura de Joseph Campbell (*O Herói de Mil Faces*, 1949) que toda história segue; a etapa 12 é o retorno transformado · Campbell's story structure | DPL 01 · Visão de produto |
+| Encaixe problema-solução | Problem Solution Fit | Quando uma solução resolve um problema relevante e validado do público-alvo · A solution to a validated problem | DPL 01 · Proposta de valor |
+| Encaixe produto-mercado | Product Market Fit (PMF) | O encontro entre produto e mercado: o produto atende uma demanda relevante · Product meets a real market demand | DPL 01 · Proposta de valor |
+| Canvas de proposta de valor | Value Proposition Canvas | Perfil do cliente (tarefas, dores, ganhos) × mapa de valor (produtos e serviços, analgésicos, criadores de ganho) · Customer profile vs value map | DPL 01 · Proposta de valor |
+| Analgésicos | Pain relievers | No canvas, o que o produto oferece para aliviar as dores do cliente · What relieves customer pains | DPL 01 · Proposta de valor |
+| Criadores de ganho | Gain creators | No canvas, o que o produto oferece para gerar os ganhos do cliente · What creates customer gains | DPL 01 · Proposta de valor |
+| Lean Canvas | Lean Canvas | Versão resumida do Business Model Canvas: lado esquerdo produto, lado direito mercado, proposta de valor no meio · Lean business model canvas | DPL 01 · Proposta de valor |
+| TAM / SAM / SOM | TAM / SAM / SOM | Mercado total; mercado possível com o seu modelo de negócio; parte realisticamente capturável · Market sizing | DPL 01 · Proposta de valor |
+| Produto mínimo viável | MVP (Minimum Viable Product) | Versão que gera o máximo de aprendizado validado com o mínimo esforço; simples, não ruim · Max learning, min effort | DPL 01 · Proposta de valor |
+| Porta falsa | Fake door | MVP em que a funcionalidade aparece, mas ainda não funciona, para medir interesse · Feature shown before it exists | DPL 01 · Proposta de valor |
+| Concierge / Mágico de Oz | Concierge / Wizard of Oz | MVPs com um humano fazendo o trabalho por trás; no concierge o cliente sabe, no Mágico de Oz não · Human-powered MVPs | DPL 01 · Proposta de valor |
+| NPS | Net Promoter Score | Nota de 0 a 10 de recomendação: 9–10 promotores, 7–8 neutros, 0–6 detratores · Recommendation score | DPL 01 · Proposta de valor |
+| Regra dos 40% | 40% rule | Se 40% dos clientes ficariam "muito desapontados" sem o produto, pode haver PMF · PMF survey threshold | DPL 01 · Proposta de valor |
+| Valor do tempo de vida do cliente | CLTV (Customer Lifetime Value) | Valor (lucro médio) do cliente durante todo o tempo em que fica com você · Value over the customer's lifetime | DPL 01 · Proposta de valor |

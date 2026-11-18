@@ -45,7 +45,10 @@ Cada etapa só entra depois que a aula correspondente estiver concluída. / Each
 | 15 | Visão declarada da Smiles e da Decolar (o que for público): ela passa nas **7 características** de uma boa visão? | Visão de produto | ⬜ |
 | 16 | Escrever uma visão para cada produto com a **frase guiada** (Para… / que estão insatisfeitos com… / ao contrário de…) e depois resumir | Visão de produto | ⬜ |
 | 17 | Contar essa visão como **história** (Era uma vez… / Então um dia… / Quando, finalmente…) | Visão de produto | ⬜ |
-| 18+ | Proposta de valor e criação de valor | Aulas 11–12 (a fazer) | 🔒 |
+| 18 | **Canvas de proposta de valor** de cada produto, começando pelo perfil do cliente (tarefas, dores e ganhos) e depois o mapa de valor. A Smiles atende mais de um segmento? Então um canvas por segmento | Proposta de valor | ⬜ |
+| 19 | **Golden Circle** da proposta de valor: o quê, como e por quê de cada produto. A proposta "data" o produto ou deixa espaço para novos produtos? | Proposta de valor | ⬜ |
+| 20 | Que sinais públicos de **Product Market Fit** dá para observar (ex.: notas nas lojas, reclamações resolvidas do benchmark)? E que MVP eu usaria para testar uma melhoria? | Proposta de valor | ⬜ |
+| 21+ | Criação de valor | Aula 12 (a fazer) | 🔒 |
 
 ## Entregável / Deliverable
 🇧🇷 Um documento `raio-x.md` nesta pasta, com uma seção por etapa. 🇺🇸 A `raio-x.md` file in this folder, one section per step.

@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" role="img" aria-labelledby="t d" font-family="Inter, sans-serif">
+  <title id="t">Canvas de proposta de valor: exemplo Uber (passageiros)</title>
+  <desc id="d">Canvas em duas metades. À direita, o perfil do cliente, preenchido primeiro: tarefas (contratar um bom prestador de táxi, controlar o custo da corrida, esperar o táxi por tempo indeterminado, pagar a corrida), dores (baixa disponibilidade de carros, motoristas ruins, reservar com antecedência, problemas com pagamento) e ganhos (rastrear o carro, pedir e cancelar rápido, pagamento rápido, motorista confiável). À esquerda, o mapa de valor, preenchido depois: produtos e serviços (app com vários tipos de corrida), analgésicos (carros 24 por 7, avaliação do motorista, tempo estimado de chegada e duração, pagamento automatizado) e criadores de ganho (trajeto no mapa, detalhes da viagem numa plataforma, pagamento automático no cartão, sistema de avaliações).</desc>
+  <rect width="960" height="640" fill="#FFFFFF"/>
+  <text x="40" y="58" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">Canvas de</text>
+  <rect x="226" y="32" width="250" height="34" rx="3" fill="#DFFF00"/>
+  <text x="351" y="58" text-anchor="middle" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">proposta de valor</text>
+  <text x="40" y="88" font-size="14" font-weight="700" letter-spacing="1.6" fill="#5E5E5E">EXEMPLO DA AULA: UBER, SEGMENTO DE PASSAGEIROS (B2C)</text>
+
+  <!-- left: value map -->
+  <rect x="40" y="110" width="430" height="474" rx="12" fill="#FFFFFF" stroke="#0D0D0D" stroke-width="2"/>
+  <text x="60" y="140" font-size="13" font-weight="700" letter-spacing="1.4" fill="#5E5E5E">② MAPA DE VALOR · O PRODUTO (DEPOIS)</text>
+  <!-- right: customer profile -->
+  <rect x="490" y="110" width="430" height="474" rx="12" fill="#FFFFFF" stroke="#0D0D0D" stroke-width="2"/>
+  <text x="510" y="140" font-size="13" font-weight="700" letter-spacing="1.4" fill="#5E5E5E">① PERFIL DO CLIENTE · COMECE AQUI</text>
+
+  <g stroke="#E0E0E0" stroke-width="1.5" fill="#FFFFFF">
+    <rect x="56" y="154" width="398" height="128" rx="8"/>
+    <rect x="56" y="292" width="398" height="132" rx="8"/>
+    <rect x="56" y="434" width="398" height="134" rx="8"/>
+    <rect x="506" y="154" width="398" height="128" rx="8"/>
+    <rect x="506" y="292" width="398" height="132" rx="8"/>
+    <rect x="506" y="434" width="398" height="134" rx="8"/>
+  </g>
+
+  <g font-size="17" font-weight="900" fill="#0D0D0D">
+    <text x="72" y="180">Criadores de ganho</text>
+    <text x="72" y="318">Produtos e serviços</text>
+    <text x="72" y="460">Analgésicos</text>
+    <text x="522" y="180">Ganhos</text>
+    <text x="522" y="318">Tarefas do cliente</text>
+    <text x="522" y="460">Dores</text>
+  </g>
+  <g font-size="12" fill="#5E5E5E">
+    <text x="252" y="180">→ geram os ganhos</text>
+    <text x="252" y="318">→ atendem as tarefas</text>
+    <text x="198" y="460">→ aliviam as dores</text>
+  </g>
+
+  <g font-size="14" fill="#0D0D0D">
+    <text x="72" y="206">• Navegar pelo trajeto no mapa</text>
+    <text x="72" y="228">• Detalhes da viagem numa plataforma</text>
+    <text x="72" y="250">• Pagamento automático no cartão</text>
+    <text x="72" y="272">• Sistema de avaliações</text>
+
+    <text x="72" y="346">• App para passageiros com vários</text>
+    <text x="84" y="366">tipos de corrida</text>
+    <text x="84" y="388" fill="#5E5E5E">(ex.: Uber X, Uber Black)</text>
+
+    <text x="72" y="486">• Carros disponíveis 24/7/365</text>
+    <text x="72" y="508">• Avaliação do motorista</text>
+    <text x="72" y="530">• Tempo estimado de chegada e duração</text>
+    <text x="72" y="552">• Pagamento automatizado</text>
+
+    <text x="522" y="206">• Rastrear o carro</text>
+    <text x="522" y="228">• Pedir e cancelar rápido</text>
+    <text x="522" y="250">• Pagamento rápido</text>
+    <text x="522" y="272">• Motorista confiável</text>
+
+    <text x="522" y="346">• Contratar um bom prestador de táxi</text>
+    <text x="522" y="368">• Controlar o custo da corrida</text>
+    <text x="522" y="390">• Esperar o táxi por tempo indeterminado</text>
+    <text x="522" y="412">• Pagar a corrida</text>
+
+    <text x="522" y="486">• Baixa disponibilidade de carros</text>
+    <text x="522" y="508">• Motoristas ruins</text>
+    <text x="522" y="530">• Ter de reservar com antecedência</text>
+    <text x="522" y="552">• Problemas com pagamento</text>
+  </g>
+
+  <line x1="40" y1="604" x2="920" y2="604" stroke="#A0B300" stroke-width="1.5"/>
+  <text x="40" y="626" font-size="12" fill="#5E5E5E">Redesenho de estudo · Aula 11 · Proposta de valor (DPL · Tera) · Canvas: Strategyzer</text>
+</svg>

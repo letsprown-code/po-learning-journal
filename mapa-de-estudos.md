@@ -49,8 +49,8 @@ flowchart TD
     L15 --> B{{"🔒 Badge: Fundamentos de PM"}}
     classDef done fill:#d4edda,stroke:#155724,color:#155724
     classDef todo fill:#f8f9fa,stroke:#6c757d,color:#343a40
-    class L1,L2,L3,L4,L5,L6,L7,L8,L9,L10 done
-    class L11,L12,L13,L14,L15,B todo
+    class L1,L2,L3,L4,L5,L6,L7,L8,L9,L10,L11 done
+    class L12,L13,L14,L15,B todo
 ~~~
 
 ### Skills do módulo / Module skills
@@ -82,7 +82,11 @@ flowchart TD
 | Contextualizar a visão pelos **quatro prismas**: contexto (ciclo de vida), empresa, produto (solução, dor, oportunidade) e porquê | 10 Visão de produto | 🔓 |
 | Escrever e reescrever a visão com a **frase guiada** e o **canvas de visão** (Roman Pichler) | 10 Visão de produto | 🔓 |
 | Contar a visão como **narrativa** (Era uma vez… / storytelling canvas) | 10 Visão de produto | 🔓 |
-| Proposta de valor e criação de valor | 11 e 12 | 🔒 |
+| Explicar **proposta de valor** e diferenciar **Problem Solution Fit** e **Product Market Fit** | 11 Proposta de valor | 🔓 |
+| Validar problema (hipóteses, raiz, intensidade da dor) e solução (**desejável, viável, realizável**) | 11 Proposta de valor | 🔓 |
+| Preencher o **Canvas de proposta de valor** começando pelo perfil do cliente | 11 Proposta de valor | 🔓 |
+| Dimensionar mercado com **TAM/SAM/SOM**, escolher um **tipo de MVP** e medir o fit (NPS, regra dos 40%, métricas) | 11 Proposta de valor | 🔓 |
+| Criação de valor | 12 | 🔒 |
 
 ### Badge do módulo / Module badge
 🔒 **Fundamentos de PM:** todas as 15 aulas ✅ + Projeto 01 ✅.
