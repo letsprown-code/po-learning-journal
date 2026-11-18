@@ -8,6 +8,8 @@
 | Fontes | Reclame Aqui, consumidor.gov.br e Google Play (só dados públicos) |
 | Ferramentas do módulo usadas | "Conheça a concorrência" (aula 6), métricas de negócio, cliente e produto (aula 6), contexto e foco (aula 8) |
 
+> 🇧🇷 **Postura:** este benchmark não é uma crítica às empresas. É um exercício de estudo para enxergar **oportunidades de melhoria** no mercado. Os nomes das categorias de reclamação são os usados pelo próprio Reclame Aqui.
+
 > 🇧🇷 **Por que começar por aqui:** antes de olhar um produto por dentro, é preciso entender o **contexto** em que ele está (aula 8) e **conhecer a concorrência**, para não construir o que as pessoas já têm e acabar competindo só por preço (aula 6). Este benchmark usa só dados públicos. Nada aqui vem de informação interna de empresa.
 
 ## 1. Quem são os players / Who is who
@@ -87,7 +89,7 @@
 
 ## 3. Gaps encontrados / Gaps found
 
-> 🇧🇷 Leitura minha a partir dos dados, usando as ferramentas do módulo. São **hipóteses** para investigar, não conclusões.
+> 🇧🇷 Leitura minha a partir dos dados, usando as ferramentas do módulo. São **hipóteses de oportunidade** para investigar, não conclusões nem críticas. Todos os players resolvem a maior parte das reclamações que recebem; os gaps mostram onde ainda há espaço para melhorar a experiência de quem viaja.
 
 **Gap 1 · O dinheiro de volta é a maior dor de quem vende passagem.**
 "Estorno do valor pago" é o problema nº 1 em Decolar, 123milhas, MaxMilhas e Quero Passagem, e o nº 2 na Vai de Promo. "Não consigo cancelar" aparece no top 5 de 6 dos 10 players. A dor não está na compra: está no **pós-venda** (cancelar, remarcar, receber o dinheiro).
