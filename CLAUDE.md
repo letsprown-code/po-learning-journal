@@ -20,6 +20,10 @@ Diário de estudos de Product Owner da Letícia. Escrevemos em português (Brasi
 - Toda imagem com texto alternativo; nunca passar informação só por cor (usar também ✅ 🟡 ⬜ 🔒 🔓).
 - `mapa-de-estudos.md`: mapa do que foi visto e estudado, com as **skills** que cada aula desbloqueia e a **badge** de cada módulo (todas as aulas + projeto prático). Skills vêm dos objetivos de aprendizagem e checklists da plataforma. Atualizar a cada aula.
 
+## Materiais baixados
+- Slides, planilhas, PDFs e prints de tela da plataforma vão **só** para o repositório **privado** `letsprown-code/po-learning-materiais` (só ela usa). Nunca neste repositório público.
+- Baixar o material de cada aula junto com a aula.
+
 ## Projetos
 - Cada módulo concluído ganha um projeto prático em `projetos-projects/<número>-<nome>/`, aplicando só ferramentas e conceitos das aulas. As análises e opiniões dela ficam ali, nunca nas notas de curso.
 
