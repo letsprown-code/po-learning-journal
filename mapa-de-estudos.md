@@ -44,8 +44,8 @@ flowchart TD
     L1["✅ 1 Sua jornada no DPL"] --> L2["✅ 2 O ponto de partida de todo PM"] --> L3["✅ 3 Fundamentos de produto"]
     L3 --> L4["✅ 4 Pessoas de Produto"] --> L5["✅ 5 Q&A: Papéis e Fundamentos"] --> L6["✅ 6 Ciclo de Vida de Produto"]
     L6 --> L7["✅ 7 Product Sense"] --> L8["✅ 8 O que é estratégia de produto"] --> L9["✅ 9 Estratégias claras e ambiciosas"]
-    L9 --> L10["✅ 10 Visão de produto"] --> L11["⬜ 11 Proposta de valor"] --> L12["⬜ 12 Criação de valor"]
-    L12 --> L13["⬜ 13 Conclusão"] --> L14["⬜ 14 Ferramentas para PMs"] --> L15["⬜ 15 Desafio: Marketplace"]
+    L9 --> L10["✅ 10 Visão de produto"] --> L11["✅ 11 Proposta de valor"] --> L12["✅ 12 Criação de valor"]
+    L12 --> L13["🟡 13 Conclusão (teste dela)"] --> L14["⬜ 14 Ferramentas para PMs"] --> L15["⬜ 15 Desafio: Marketplace"]
     L15 --> B{{"🔒 Badge: Fundamentos de PM"}}
     classDef done fill:#d4edda,stroke:#155724,color:#155724
     classDef todo fill:#f8f9fa,stroke:#6c757d,color:#343a40
