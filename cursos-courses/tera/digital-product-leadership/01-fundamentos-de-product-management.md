@@ -602,6 +602,26 @@ flowchart LR
 
 **Para aprofundar (indicações da aula):** *Empowered* e *Inspired* (Marty Cagan).
 
+### Quiz comentado da aula 8 / Lesson 8 quiz
+**Resultado: 6 de 7 ✅** (18/11/2026)
+
+| # | Pergunta | Resposta certa | Por quê | Eu |
+|---|---|---|---|---|
+| 1 | Papel principal da estratégia de produto? | Traduzir a visão em decisões sobre quais problemas resolver | Lista de features e datas de roadmap são tática; descrever o futuro é a visão | ✅ |
+| 2 | "Focar na adoção num nicho e depois levar para a versão paga" (Slack) é...? | Estratégia | A visão é o destino; tática são as ações de curto prazo; métrica é um indicador | ✅ |
+| 3 | Os cinco elementos da estratégia (Cagan)? | Foco, insights, ação, gerenciamento e métricas | "Contexto, foco e sequenciamento" é o **outro** framework da aula | ✅ |
+| 4 | Time empoderado × time de features? | Dono dos resultados (outcome), não das coisas que faz (output) | Medir por entregas e PM focada em datas descrevem o time de features | ✅ |
+| 5 | Por que o redesenho da home não converteu? | O problema real era confiança no prazo de entrega e frete alto | Mudança cosmética: olhar a aparência repete o erro do time | ✅ |
+| 6 | "Features têm validade, problemas são atemporais"? | As soluções mudam, o problema (deslocar pessoas) continua | A aula não manda remover nem deixar de lançar features | ✅ |
+| 7 | O que é o sequenciamento? | **Definir a ordem das iniciativas (priorizar o que vem primeiro)** | Entender mercado e personas é o **contexto**; escolher o problema prioritário é o **foco**; medir a retenção é só um passo dentro da sequência | ❌ revisar |
+
+💡 🇧🇷 **Para lembrar (pergunta 7):** as três etapas respondem a três perguntas diferentes, nesta ordem:
+- **Contexto →** *onde estamos?* (mercado, concorrência, personas, o que o produto resolve)
+- **Foco →** *o que atacar agora?* (o problema prioritário; dizer não ao resto)
+- **Sequenciamento →** *em que ordem?* (ex.: Slack: onboarding simples → integrações → monitorar o uso; app de meditação: onboarding → lembretes → recomendações → medir retenção)
+
+Um truque: **sequência = ordem**. Se a resposta não fala de "primeiro isso, depois aquilo", não é sequenciamento.
+
 ---
 
 ## Para aprofundar (indicações das aulas 1 a 6) / Go deeper (from lessons 1–6)
