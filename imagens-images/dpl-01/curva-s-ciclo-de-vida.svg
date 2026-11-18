@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="t d" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+  <title id="t">Curva S do ciclo de vida de produto</title>
+  <desc id="d">Gráfico de vendas ou aquisição ao longo do tempo. A curva sobe devagar na introdução (foco em retenção), sobe rápido no crescimento (foco no que traz mais usuários), estabiliza na maturidade (foco em vazamentos do funil) e cai no declínio (foco na causa da queda). Entre a introdução e o crescimento fica o abismo, que separa os early adopters do mercado mainstream.</desc>
+  <rect width="900" height="560" fill="#ffffff"/>
+  <text x="450" y="40" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">Ciclo de vida do produto · Curva S</text>
+  <!-- axes -->
+  <line x1="90" y1="440" x2="860" y2="440" stroke="#374151" stroke-width="2"/>
+  <line x1="90" y1="440" x2="90" y2="80" stroke="#374151" stroke-width="2"/>
+  <text x="860" y="470" text-anchor="end" font-size="15" fill="#374151">tempo · time →</text>
+  <text x="40" y="260" text-anchor="middle" font-size="15" fill="#374151" transform="rotate(-90 40 260)">vendas / aquisição →</text>
+  <!-- phase separators -->
+  <g stroke="#9ca3af" stroke-dasharray="6 6" stroke-width="1.5">
+    <line x1="270" y1="80" x2="270" y2="440"/>
+    <line x1="480" y1="80" x2="480" y2="440"/>
+    <line x1="690" y1="80" x2="690" y2="440"/>
+  </g>
+  <!-- chasm -->
+  <rect x="232" y="360" width="38" height="80" fill="#fee2e2"/>
+  <text x="251" y="352" text-anchor="middle" font-size="13" fill="#991b1b">abismo</text>
+  <!-- curve -->
+  <path d="M 90 430 C 200 425, 240 400, 290 340 S 400 200, 520 192 S 640 186, 700 204 S 800 310, 850 370" fill="none" stroke="#2563eb" stroke-width="5" stroke-linecap="round"/>
+  <!-- phase labels -->
+  <g text-anchor="middle" fill="#111827">
+    <text x="180" y="110" font-size="19" font-weight="700">1 · Introdução</text>
+    <text x="185" y="134" font-size="14">busca de PMF</text>
+    <text x="375" y="110" font-size="19" font-weight="700">2 · Crescimento</text>
+    <text x="375" y="134" font-size="14">growth · escala</text>
+    <text x="585" y="110" font-size="19" font-weight="700">3 · Maturidade</text>
+    <text x="585" y="134" font-size="14">"vaca leiteira"</text>
+    <text x="775" y="110" font-size="19" font-weight="700">4 · Declínio</text>
+    <text x="775" y="134" font-size="14">inovação · disrupção</text>
+  </g>
+  <!-- focus boxes -->
+  <g font-size="14" text-anchor="middle" fill="#1f2937">
+    <text x="180" y="495" font-weight="700">Foco: retenção</text>
+    <text x="180" y="515">poucas pessoas usando muito</text>
+    <text x="375" y="495" font-weight="700">Foco: mais usuários</text>
+    <text x="375" y="515">topo do funil</text>
+    <text x="585" y="495" font-weight="700">Foco: vazamentos</text>
+    <text x="585" y="515">funil todo · simplificar</text>
+    <text x="775" y="495" font-weight="700">Foco: causa da queda</text>
+    <text x="775" y="515">testar novas apostas</text>
+  </g>
+  <text x="165" y="395" text-anchor="middle" font-size="13" fill="#6b7280">early adopters</text>
+  <text x="585" y="250" text-anchor="middle" font-size="13" fill="#6b7280">mercado mainstream</text>
+  <text x="450" y="548" text-anchor="middle" font-size="13" fill="#4b5563">Tera DPL 01, aula Ciclo de Vida de Produto</text>
+</svg>

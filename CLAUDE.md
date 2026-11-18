@@ -15,7 +15,7 @@ Diário de estudos de Product Owner da Letícia. Escrevemos em português (Brasi
 
 ## Visual e progresso
 - Usar fluxos e diagramas (Mermaid; C4 quando o assunto for arquitetura de sistemas) sempre que ajudarem a entender a aula. Diagramas também seguem a regra de conteúdo: só o que a aula diz.
-- Imagens de exemplo: preferir as que nós mesmas fazemos (diagramas, SVG). Prints ou GIFs da plataforma ou dos slides da Tera só com aprovação dela, porque o repositório é público e o material é pago.
+- Imagens: redesenhar os conceitos das aulas no nosso estilo (SVG em `imagens-images/<curso>-<módulo>/`, exportado em PNG com `rsvg-convert -w 1400`), conferir a renderização antes de publicar e embutir o PNG na nota. Nunca copiar slides ou prints da Tera de forma idêntica (o repositório é público e o material é pago); ela aprovou esse formato.
 - Toda imagem com texto alternativo; nunca passar informação só por cor (usar também ✅ 🟡 ⬜ 🔒 🔓).
 - `mapa-de-estudos.md`: mapa do que foi visto e estudado, com as **skills** que cada aula desbloqueia e a **badge** de cada módulo (todas as aulas + projeto prático). Skills vêm dos objetivos de aprendizagem e checklists da plataforma. Atualizar a cada aula.
 

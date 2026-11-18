@@ -67,12 +67,7 @@
 
 ### A cadeira de três pernas / The three-legged stool
 
-~~~mermaid
-flowchart TD
-    E[Experiência<br/>Experience] --- P((Sucesso do produto<br/>Product success))
-    N[Negócios<br/>Business] --- P
-    V[Viabilidade<br/>Feasibility] --- P
-~~~
+![Diagrama de três círculos sobrepostos: Experiência (desejável), Negócios (rentável) e Viabilidade (construir, manter e escalar). No centro, onde os três se encontram, está a gestão de produtos.](../../../imagens-images/dpl-01/cadeira-de-tres-pernas.png)
 
 🇧🇷 Sem uma das três pernas, a cadeira cai. No vídeo: **experiência** (UX, usabilidade) busca que o produto seja **desejável**; **negócios**, que seja **rentável**; **viabilidade/tecnologia**, que dê para construir, manter e escalar. A gestão de produtos fica no centro. Exemplo do dia a dia: a gente abandona apps porque a experiência piorou, porque ficaram caros demais para o que entregam, ou porque a empresa os desligou por serem difíceis de manter. 🇺🇸 Remove one leg and the stool falls: desirable, profitable, feasible.
 
@@ -246,6 +241,8 @@ flowchart LR
 | 4. Conheça a concorrência | se as pessoas já têm soluções iguais, você só compete por **preço**; ajuste a proposta de valor ao que a concorrência oferece |
 
 🇧🇷 Resumo das quatro dicas: **atingir o *product-market fit*** é uma das responsabilidades mais importantes.
+
+![Curva S: vendas ou aquisição ao longo do tempo. A curva sobe devagar na introdução (foco em retenção, early adopters), passa pelo abismo, sobe rápido no crescimento (foco em mais usuários), estabiliza na maturidade (foco em vazamentos do funil, mercado mainstream) e cai no declínio (foco na causa da queda).](../../../imagens-images/dpl-01/curva-s-ciclo-de-vida.png)
 
 ### Onde está o meu produto? Métricas / Where is my product? Metrics
 📏 🇧🇷 "O que não é metrificável é ingerenciável." As métricas seguem as três pernas da cadeira: **negócio**, **cliente** (experiência) e **produto** (tecnologia). Exemplo: aquisição baixa e custo alto = começo do ciclo; custo começa a baixar = meio; volta a subir de forma recorrente = talvez declínio.

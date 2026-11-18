@@ -16,6 +16,7 @@ po-learning-journal/
 │   └── tera/                  Tera
 │       └── digital-product-leadership/   Um curso
 │           └── 01-fundamentos-de-product-management.md   Nota do módulo
+├── imagens-images/            Diagramas e ilustrações que nós fazemos
 ├── projetos-projects/         Um projeto prático para cada módulo concluído
 ├── mapa-de-estudos.md         Mapa do que foi estudado e skills desbloqueadas
 ├── glossario-glossary.md      Termos de produto em português e inglês
