@@ -14,8 +14,9 @@ As notas são resumos próprios. Os materiais originais pertencem a cada escola,
 po-learning-journal/
 ├── cursos-courses/            Cursos, separados por escola ou plataforma
 │   └── tera/                  Tera
-│       └── <curso>/           Um curso
-│           └── 01-<modulo>.md     Nota de estudo do módulo
+│       └── digital-product-leadership/   Um curso
+│           └── 01-fundamentos-de-product-management.md   Nota do módulo
+├── projetos-projects/         Um projeto prático para cada módulo concluído
 ├── glossario-glossary.md      Termos de produto em português e inglês
 ├── templates/                 Modelos (história de usuário, critérios de aceite, etc.)
 └── exemplos-examples/         Exercícios e artefatos que eu fiz praticando
@@ -25,13 +26,28 @@ po-learning-journal/
 
 Algumas pastas só aparecem no GitHub quando recebem o primeiro arquivo.
 
+**Regra de conteúdo:** as notas registram só o que está na plataforma, com as minhas palavras. Nada é acrescentado ou alterado. O que for meu (análises, exercícios) fica na pasta de projetos.
+
+**Projetos práticos:** cada módulo concluído ganha um projeto em `projetos-projects/<número>-<nome>/` para aplicar o que foi aprendido, usando só as ferramentas e conceitos das aulas.
+
 **Regra de confidencialidade:** aqui só entram conteúdos de cursos e exercícios de prática. Nunca publico materiais pagos na íntegra, nomes de colegas, dados de empresas reais nem informações internas de onde eu trabalho.
 
 ## Progresso
 
 | Escola | Curso | Módulo | Situação |
 | --- | --- | --- | --- |
-| Tera | (a definir) | — | Começando |
+| Tera | Digital Product Leadership | 01. Fundamentos de Product Management: [nota](cursos-courses/tera/digital-product-leadership/01-fundamentos-de-product-management.md) · [projeto](projetos-projects/01-raio-x-de-um-produto/README.md) | Em andamento (6 de 15 aulas) |
+| Tera | Digital Product Leadership | 02. Métricas para Produtos Digitais | A fazer |
+| Tera | Digital Product Leadership | 03. Introdução a Product Discovery | A fazer |
+| Tera | Digital Product Leadership | 04. Product Delivery: construa a solução | A fazer |
+| Tera | Digital Product Leadership | 05. Liderança e Negociação | A fazer |
+| Tera | Digital Product Leadership | 06. (a confirmar) | A fazer |
+
+### Ordem de estudo na Tera
+
+1. **Digital Product Leadership**, módulos 01 a 06, na ordem da plataforma.
+2. **AI Product Manager**, módulos 01 e 02 (IA no ciclo de produto; discovery e delivery com IA).
+3. Trilha **Crie protótipos e produtos digitais com IA** (opcional, prática).
 
 ## Acessibilidade
 
@@ -66,7 +82,10 @@ I write down, in my own words, what I learn in each course, organized by the sch
 | `cursos-courses/` | Courses, grouped by school, then by course, with one note per module |
 | [`glossario-glossary.md`](glossario-glossary.md) | Product terms in Portuguese and English |
 | `templates/` | Templates (user story, acceptance criteria, etc.) |
+| `projetos-projects/` | One practice project per completed module |
 | `exemplos-examples/` | Exercises and artifacts I made while practicing |
+
+**Content rule:** notes record only what is on the platform, in my own words; nothing added or changed. My own analyses go in the projects folder.
 
 **Confidentiality rule:** only course content and practice exercises go here. I never publish paid materials in full, classmates' names, real company data or internal information from where I work.
 
