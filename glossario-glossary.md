@@ -80,3 +80,5 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Canvas de experimento | Experiment canvas | Hipóteses testáveis, métricas de sucesso, execução e análise · Experiment design | DPL 01 · Ferramentas para PMs |
 | HEART | HEART framework | Happiness, engagement, adoption, retention, task success, com objetivos, sinais e métricas · UX metrics framework | DPL 01 · Ferramentas para PMs |
 | OKR | Objectives and Key Results | Objetivo que engaja + resultados-chave que medem o quão perto se está · Goal-setting method | DPL 01 · Ferramentas para PMs |
+| Suposição mãe | Core (mother) assumption | A suposição central: se ela não for verdade, todo o resto cai; seus riscos são os primeiros a mitigar · The assumption everything else depends on | DPL 01 · Desafio do mercado |
+| Cozinha fantasma | Dark kitchen | Cozinha só para delivery, citada como uma das suposições do desafio · Delivery-only kitchen | DPL 01 · Desafio do mercado |

@@ -51,6 +51,8 @@ Cada etapa só entra depois que a aula correspondente estiver concluída. / Each
 | 21 | **Preço × valor**: o que o cliente "leva para casa" em cada produto, além do preço da passagem ou das milhas? | Criação de valor | ⬜ |
 | 22 | **Segmento de clientes** (demográfico, geográfico, psicográfico) e 2 ou 3 **personas** por produto, com base em dados públicos | Criação de valor | ⬜ |
 | 23 | Os pilares de valor de cada produto (como no case Starbucks) e onde a experiência "cumpre ou não o prometido" (ligando ao benchmark) | Criação de valor | ⬜ |
+| 24 | **Matriz CSD** e **suposição mãe** de uma melhoria que eu proporia para a Smiles ou a Decolar (a partir dos gaps do benchmark), com os riscos começando pela desejabilidade | Desafio do mercado + Ferramentas | ⬜ |
+| 25 | Priorizar as melhorias com **impacto × esforço** ou **MoSCoW** e montar um **roadmap Now/Next/Later** | Ferramentas para PMs | ⬜ |
 
 ## Entregável / Deliverable
 🇧🇷 Um documento `raio-x.md` nesta pasta, com uma seção por etapa. 🇺🇸 A `raio-x.md` file in this folder, one section per step.
