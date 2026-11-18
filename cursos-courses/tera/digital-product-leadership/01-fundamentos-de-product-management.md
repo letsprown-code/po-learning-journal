@@ -789,6 +789,33 @@ flowchart TD
 
 **Para aprofundar (indicações da aula):** *Muito Além da Sorte* (Clayton Christensen); *Jogar para Vencer*; Product Strategy Stack (Reforge).
 
+### Quiz comentado da aula 9 / Lesson 9 quiz
+**Resultado: 5 de 7 ✅** (18/11/2026)
+
+| # | Pergunta | Resposta certa | Por quê | Eu |
+|---|---|---|---|---|
+| 1 | Novo head: por onde começar? | Diagnóstico estruturado, começando pelo cliente | Propor ideias logo é "pular para conclusões"; o concorrente não é o que mais importa; você pega o bonde andando, não reescreve do zero | ✅ |
+| 2 | Job de quem comprava milkshake de manhã cedo? | **Matar a fome e se distrair no trânsito a caminho do trabalho** | Sobremesa em família é o público do **fim do dia** (outro job); a aula não fala de sabor novo; "embalagem bonita" é o exemplo da **purpurina**, que não faria diferença | ❌ revisar |
+| 3 | Campos em branco no Canvas C>P>E>M? | Tudo bem: a lacuna também é diagnóstico | Não invalida o canvas, não se inventa resposta e não precisa estar 100% preenchido | ✅ |
+| 4 | O que NÃO está no 1-pager? | Cronograma de entregas | Os cinco pontos: business intent, NSM, público-alvo, JTBD/necessidades e proposta de valor; cronograma é *product delivery* | ✅ |
+| 5 | Por que a NSM mudou de "quantidade de clientes" para "total investido"? | **O contexto mudou** (público, proposta de valor, ciclo de vida e contribuição para a empresa) | Erro de cálculo, cópia da concorrência e "mais fácil de medir" não aparecem na aula | ❌ revisar |
+| 6 | Desafio da fase de crescimento? | Escalar mantendo a satisfação | PMF é da introdução; market share é da maturidade; desligar é saída do declínio | ✅ |
+| 7 | Público que "não gosta de volatilidade" sugere...? | Começar por renda fixa | App × site veio de outro dado (público tech-savvy); Sharpe contradiz "sem financês"; MVP exige escolhas | ✅ |
+
+💡 🇧🇷 **Para lembrar (pergunta 2):** o *job* depende do **momento e do contexto** de quem compra, não do produto. O mesmo milkshake tinha **dois jobs**:
+- **Manhã →** quem ia de carro para o trabalho: matar a fome e se distrair no trânsito (melhoria: embalagem que não derrama, canudo que funciona).
+- **Fim do dia →** pais com filhos: outro job, outro público.
+
+Truque: pergunte **"quem, quando e para quê?"** antes de pensar no produto.
+
+💡 🇧🇷 **Para lembrar (pergunta 5):** a NSM **acompanha o contexto**. No case, quatro coisas mudaram ao mesmo tempo:
+- **Público:** varejo → alta renda
+- **Proposta de valor:** guardar dinheiro → investir
+- **Ciclo de vida:** introdução → crescimento
+- **Contribuição para a empresa:** funding → funding + principalidade e receita
+
+Com o contexto novo, "quantidade de clientes" deixou de medir o valor entregue, e a NSM virou "total investido". Truque: **mudou o contexto, revise a NSM** (e, com ela, as prioridades).
+
 ---
 
 ## Para aprofundar (indicações das aulas 1 a 6) / Go deeper (from lessons 1–6)
