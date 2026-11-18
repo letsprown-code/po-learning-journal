@@ -11,6 +11,7 @@ Diário de estudos de Product Owner da Letícia. Escrevemos em português (Brasi
 ## Ritmo
 - Uma aula por vez. Antes de cada aula, perguntar se ela vai assistir ao vídeo.
 - Depois da aula: conversar sobre o conteúdo e fazer perguntas ou quiz comentado, no estilo do diário de QA. Só então atualizar a nota.
+- No quiz, a explicação de cada pergunta diz por que a certa está certa **e por que cada opção errada está errada**. Quando ela contar o que errou, explicar por que a opção que ela escolheu está errada e registrar isso no quiz comentado da nota.
 - Para ler as seções da aula é preciso clicar em "Avançar", o que marca progresso na conta dela. Avisar quando isso acontecer. Nunca responder avaliações, quizzes ou desafios da plataforma no lugar dela.
 
 ## Visual e progresso
