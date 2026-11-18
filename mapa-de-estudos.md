@@ -45,12 +45,12 @@ flowchart TD
     L3 --> L4["✅ 4 Pessoas de Produto"] --> L5["✅ 5 Q&A: Papéis e Fundamentos"] --> L6["✅ 6 Ciclo de Vida de Produto"]
     L6 --> L7["✅ 7 Product Sense"] --> L8["✅ 8 O que é estratégia de produto"] --> L9["✅ 9 Estratégias claras e ambiciosas"]
     L9 --> L10["✅ 10 Visão de produto"] --> L11["✅ 11 Proposta de valor"] --> L12["✅ 12 Criação de valor"]
-    L12 --> L13["🟡 13 Conclusão (teste dela)"] --> L14["⬜ 14 Ferramentas para PMs"] --> L15["⬜ 15 Desafio: Marketplace"]
+    L12 --> L13["🟡 13 Conclusão (teste dela)"] --> L14["✅ 14 Ferramentas para PMs"] --> L15["⬜ 15 Desafio: Marketplace"]
     L15 --> B{{"🔒 Badge: Fundamentos de PM"}}
     classDef done fill:#d4edda,stroke:#155724,color:#155724
     classDef todo fill:#f8f9fa,stroke:#6c757d,color:#343a40
-    class L1,L2,L3,L4,L5,L6,L7,L8,L9,L10,L11,L12 done
-    class L13,L14,L15,B todo
+    class L1,L2,L3,L4,L5,L6,L7,L8,L9,L10,L11,L12,L14 done
+    class L13,L15,B todo
 ~~~
 
 ### Skills do módulo / Module skills
@@ -88,6 +88,8 @@ flowchart TD
 | Dimensionar mercado com **TAM/SAM/SOM**, escolher um **tipo de MVP** e medir o fit (NPS, regra dos 40%, métricas) | 11 Proposta de valor | 🔓 |
 | Diferenciar **preço e valor** e explicar por que a criação de valor fideliza (diferencial, receita, sustentabilidade) | 12 Criação de valor | 🔓 |
 | Criar valor em passos: **segmento de clientes → persona → problema → solução → cumprir o prometido** | 12 Criação de valor | 🔓 |
+| Escolher a ferramenta certa para cada momento: **CSD, mapa de empatia, proto-persona/persona, jornada, stakeholders, BMC** | 14 Ferramentas | 🔓 |
+| Priorizar e planejar com **Now/Next/Later, impacto × esforço e MoSCoW**; medir com **canvas de experimento, HEART e OKR** | 14 Ferramentas | 🔓 |
 
 ### Badge do módulo / Module badge
 🔒 **Fundamentos de PM:** todas as 15 aulas ✅ + Projeto 01 ✅.

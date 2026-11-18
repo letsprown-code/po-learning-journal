@@ -69,3 +69,14 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Segmento de clientes | Customer segments | Primeiro bloco do Business Model Canvas: grupos de clientes por similaridade (demográfico, geográfico, psicográfico) · Groups of similar customers | DPL 01 · Criação de valor |
 | Persona | Persona | Representação semificcional do cliente ideal, baseada em dados reais · Semi-fictional, data-based customer profile | DPL 01 · Criação de valor |
 | Terceiro lugar | Third place | Ideia do Starbucks: depois da casa e do trabalho, o lugar onde a pessoa se sente em casa · Starbucks' "third place" | DPL 01 · Criação de valor |
+| Matriz CSD | CSD matrix | Certezas, suposições e dúvidas sobre o problema; os post-its mudam de coluna conforme se aprende · Certainties, assumptions, doubts | DPL 01 · Ferramentas para PMs |
+| Mapa de empatia | Empathy map | O que a pessoa vê, ouve, pensa e sente, fala e faz, suas dores e necessidades · What users see, hear, think, feel | DPL 01 · Ferramentas para PMs |
+| Mapa da jornada | Journey map | Antes, durante e depois de uma atividade: ações, pontos de contato, emoções e oportunidades · Touchpoints across a journey | DPL 01 · Ferramentas para PMs |
+| Mapa de stakeholders | Stakeholder map | Pessoas interessadas no projeto, internas ou externas, em primárias, secundárias e terciárias · Who to inform about what | DPL 01 · Ferramentas para PMs |
+| Business Model Canvas | Business Model Canvas (BMC) | Canvas de 2009 que mapeia o modelo de negócio em uma página; toda área preenchida precisa de validação · One-page business model | DPL 01 · Ferramentas para PMs |
+| Roadmap Now/Next/Later | Now/Next/Later roadmap | Agora (endereçar ativamente), próximo (refinar antes de executar), depois (aprofundar no futuro) · Simple roadmap format | DPL 01 · Ferramentas para PMs |
+| Matriz impacto × esforço | Impact × effort matrix | Priorização em quatro quadrantes; evitar baixo impacto com alto esforço · Prioritization quadrants | DPL 01 · Ferramentas para PMs |
+| MoSCoW | MoSCoW | Must, should, could e won't have (this time) para um release · Release prioritization | DPL 01 · Ferramentas para PMs |
+| Canvas de experimento | Experiment canvas | Hipóteses testáveis, métricas de sucesso, execução e análise · Experiment design | DPL 01 · Ferramentas para PMs |
+| HEART | HEART framework | Happiness, engagement, adoption, retention, task success, com objetivos, sinais e métricas · UX metrics framework | DPL 01 · Ferramentas para PMs |
+| OKR | Objectives and Key Results | Objetivo que engaja + resultados-chave que medem o quão perto se está · Goal-setting method | DPL 01 · Ferramentas para PMs |
