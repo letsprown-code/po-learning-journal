@@ -1052,6 +1052,33 @@ flowchart LR
 
 **Para aprofundar (indicações da aula):** artigo *Product Vision vs. Mission* (SVPG); artigo *Visão de Produto* (Joca Torres, Medium); Círculo Dourado (Simon Sinek); *Creating a Compelling Product Vision*, Ebi Atawodi no Lenny's Podcast; *Design a Better Business* (storytelling canvas); *O Herói de Mil Faces* (Joseph Campbell).
 
+### Quiz comentado da aula 10 / Lesson 10 quiz
+**Resultado: 5 de 7 ✅** (18/11/2026)
+
+| # | Pergunta | Resposta certa | Por quê | Eu |
+|---|---|---|---|---|
+| 1 | Missão × visão? | Missão = razão de existir; visão = destino no futuro | Inverter os conceitos é o erro clássico; não são a mesma coisa; a visão serve a todos, não só a investidores | ✅ |
+| 2 | O que NÃO é uma das 7 características? | Lista detalhada de funcionalidades | Curta, guia das decisões e "grande sem ser sem sentido" estão na lista; listar features leva ao controle remoto de 500 botões | ✅ |
+| 3 | Visão na fase de introdução? | Mais inspiracional: aonde chegar, não necessariamente como | Personas detalhadas = crescimento; produtividade e custos = maturidade; "por que me trocam?" = declínio | ✅ |
+| 4 | Creditas: qual é a **oportunidade**? | **Mais da metade da população tem carro ou casa (total ou parcialmente quitado)** | Juros altos no cheque especial são o contexto da **dor** do cliente; carteira digital é outra **solução**; "sem fins lucrativos" contradiz "não existe empresa caridosa" | ❌ revisar |
+| 5 | Squad de risco e o Círculo Dourado? | **Não chegaram ao porquê de primeira: o que → como → porquê** | "De primeira" é justamente o que não aconteceu; não copiaram a visão herdada (ela era longa e pouco específica, por isso reescreveram); não pararam no "como" | ❌ revisar |
+| 6 | Campo "Ao contrário de…"? | A alternativa de produto com que o cliente compara | Clientes-alvo = "Para…"; categoria = "Nosso produto é uma…"; característica-chave = "Nós montamos…" | ✅ |
+| 7 | Primeiro takeaway? | Força da visão = oportunidade de negócio + dor do cliente | Curta sem contexto fica rasa; a aula não diz que é só para empresas grandes; "bonita na parede" é o oposto da mensagem | ✅ |
+
+💡 🇧🇷 **Para lembrar (pergunta 4):** na tríade, cada ponta responde a uma pergunta diferente:
+- **Solução (produto) →** *o que entregamos?* Empréstimo com bem como garantia.
+- **Dor (pessoas) →** *que problema do cliente resolvemos?* Acesso ao crédito (crédito caro, cheque especial).
+- **Oportunidade (empresa) →** *por que isso é bom negócio para a empresa?* Muita gente tem carro ou casa que pode virar garantia.
+
+Truque: se a frase fala do **sofrimento do cliente**, é dor; se fala de **por que vale a pena para a empresa**, é oportunidade. "Não existe empresa caridosa."
+
+💡 🇧🇷 **Para lembrar (pergunta 5):** o Círculo Dourado se **escreve** de dentro para fora (por quê → como → o quê), mas o time da Creditas precisou **descobrir** na ordem inversa:
+1. **O que** fazemos? (relembrar com design, tecnologia e dados)
+2. **Como** fazemos? (melhor preço, rápido, fonte da verdade)
+3. **Por que** fazemos? → visão: *prover aos clientes a melhor decisão de risco de crédito, de forma sustentável, integrada, personalizada e atrativa.*
+
+Truque: **chegar ao porquê é difícil; tudo bem dar passos para trás.**
+
 ---
 
 ## Para aprofundar (indicações das aulas 1 a 6) / Go deeper (from lessons 1–6)
