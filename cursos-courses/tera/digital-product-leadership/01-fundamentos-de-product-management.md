@@ -451,6 +451,21 @@ flowchart TD
 
 **Para aprofundar (indicações da aula):** os 3 horizontes de crescimento da McKinsey (*Enduring Ideas: The three horizons of growth*); vídeo *FAIL ACADEMY: Top Reasons Startups Fail*; artigo *The only thing that matters* (Marc Andreessen); *Running Lean* (Ash Maurya); perfil de Shreyas Doshi; *Jobs to be Done: Theory to Practice* (Anthony W. Ulwick); *Continuous Discovery Habits* (Teresa Torres); *Product Sense Demystified* (Marty Cagan); *Como fracassar em quase tudo e ainda ser bem-sucedido* (Scott Adams).
 
+### Quiz comentado da aula 7 / Lesson 7 quiz
+**Resultado: 6 de 7 ✅** (18/11/2026)
+
+| # | Pergunta | Resposta certa | Por quê | Eu |
+|---|---|---|---|---|
+| 1 | O que é product sense? | Entender o que torna um produto excelente, olhando negócio, design e tecnologia | Frameworks ajudam, mas o fundamental é o senso de produto; excelente não é perfeito | ✅ |
+| 2 | Qual o papel da tecnologia entre os espaços do problema e da solução? | Reduzir a lacuna entre o que se descobriu e o que o negócio deve entregar | Ela permeia o discovery e o delivery | ✅ |
+| 3 | No exemplo da furadeira, o que a pessoa quer? | Pendurar o quadro (ou decorar, ou expor memórias) | Ame o problema, não a solução | ✅ |
+| 4 | O que é o viés do inovador? | Achar que tudo precisa ser novo ou abrir mercado | Às vezes o problema está escancarado e é só executar | ✅ |
+| 5 | Qual a ordem dos degraus da estrutura de perguntas? | **Usuário → trabalho a ser feito → objetivos e recursos → testar e avaliar** | Cada degrau depende do anterior: não dá para declarar o porquê e o como sem saber o problema e para quem; nem definir objetivos sem saber a intenção; nem testar sem saber aonde se quer chegar | ❌ revisar |
+| 6 | O que é foco, pela frase de Steve Jobs? | Dizer não para centenas de boas ideias | Dizer não exige justificativa: entender o que torna o produto excelente | ✅ |
+| 7 | O que diferencia os 10% melhores no modelo 10/30/50? | Senso analítico + execução + senso de produto | Por isso o raciocínio é avaliado antes da técnica | ✅ |
+
+💡 🇧🇷 **Para lembrar a ordem (pergunta 5):** a aula descreve como "descer degraus", do mais amplo ao mais concreto: **quem e qual dor** → **por que e como** (= estratégia) → **o que alcançar e com o quê** → **testar**. Pela própria aula, cada pergunta de cima responde à de baixo: "vai testar o quê, se não sabe aonde quer chegar? Vai ter que intenção, se não sabe o que as pessoas precisam ter resolvido?"
+
 ---
 
 ## Para aprofundar (indicações das aulas 1 a 6) / Go deeper (from lessons 1–6)
