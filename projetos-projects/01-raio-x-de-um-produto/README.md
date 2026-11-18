@@ -39,7 +39,9 @@ Cada etapa só entra depois que a aula correspondente estiver concluída. / Each
 | 9 | Perguntas do professor: usuário (qual problema, para quem e por quê) → trabalho a ser feito (por que e como) → objetivos e recursos | Product Sense | ⬜ |
 | 10 | Visão, estratégia e tática do produto (como no exemplo do Slack) e o seu **contexto, foco e sequenciamento** | O que é estratégia de produto | ⬜ |
 | 11 | Product Vision Board do produto: visão, público-alvo, necessidades, produto e alvos do negócio | O que é estratégia de produto | ⬜ |
-| 12+ | Estratégias claras, visão e proposta de valor | Aulas 9–12 (a fazer) | 🔒 |
+| 12 | **Canvas C>P>E>M** da Smiles e da Decolar (com o que for público; as lacunas também contam) | Desenvolvendo estratégias claras | ⬜ |
+| 13 | **1-pager** da estratégia de cada produto, como eu imagino que seja: business intent, NSM, público-alvo, JTBD e proposta de valor | Desenvolvendo estratégias claras | ⬜ |
+| 14+ | Visão e proposta de valor | Aulas 10–12 (a fazer) | 🔒 |
 
 ## Entregável / Deliverable
 🇧🇷 Um documento `raio-x.md` nesta pasta, com uma seção por etapa. 🇺🇸 A `raio-x.md` file in this folder, one section per step.

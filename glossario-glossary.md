@@ -37,3 +37,11 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Integração inicial | Onboarding | Processo de receber e habilitar novos usuários · Welcoming and enabling new users | DPL 01 · Estratégia de produto |
 | Cancelamento | Churn | Clientes que cancelam ou deixam de usar o produto · Customers leaving | DPL 01 · Estratégia de produto |
 | Quadro de visão do produto | Product Vision Board | Framework de Roman Pichler em blocos: visão, público-alvo, necessidades, produto e alvos do negócio · Pichler's vision board | DPL 01 · Estratégia de produto |
+| Trabalho a ser feito | Jobs to be done (JTBD) | O progresso que o cliente quer fazer numa circunstância específica; o motivo pelo qual ele "contrata" um produto (funcional, emocional, social) · The progress a customer seeks in a circumstance | DPL 01 · Estratégias claras |
+| Sonho grande | BHAG (Big Hairy Audacious Goal) | O objetivo grande e de longo prazo da empresa · A company's big long-term goal | DPL 01 · Estratégias claras |
+| Volante | Flywheel | Ciclo virtuoso que se retroalimenta (ex.: o da Amazon) · Self-reinforcing loop | DPL 01 · Estratégias claras |
+| Métrica Estrela Guia | North Star Metric (NSM) | A métrica que define o que é sucesso para o produto; reflete valor para o cliente e mede progresso; dela descem objetivos e key results · The metric that defines success | DPL 01 · Estratégias claras |
+| Proposta de valor | Value proposition | O resumo do produto "em um tweet": para quem, qual problema, o quê e qual diferencial · The product in one sentence | DPL 01 · Estratégias claras |
+| Intenção de negócio | Business intent | O papel do produto para o negócio · The product's role in the business | DPL 01 · Estratégias claras |
+| Produto mínimo amável | MLP (Minimum Lovable Product) | Versão mínima que, além de funcionar, encanta (importante quando os clientes já têm expectativas altas) · A minimum product people love | DPL 01 · Estratégias claras |
+| Canvas C>P>E>M | C>P>E>M canvas | Quadro de diagnóstico: cliente, produto, empresa e mercado · Diagnosis canvas | DPL 01 · Estratégias claras |

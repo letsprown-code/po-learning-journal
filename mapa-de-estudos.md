@@ -11,7 +11,7 @@ Skills come from the platform's own learning objectives, checklists and summarie
 flowchart LR
     subgraph DPL[Tera · Digital Product Leadership]
       direction TB
-      M1["🟡 01 Fundamentos de PM<br/>8 de 15 aulas"]
+      M1["🟡 01 Fundamentos de PM<br/>9 de 15 aulas"]
       M2["⬜ 02 Métricas"]
       M3["⬜ 03 Product Discovery"]
       M4["⬜ 04 Product Delivery"]
@@ -43,14 +43,14 @@ flowchart LR
 flowchart TD
     L1["✅ 1 Sua jornada no DPL"] --> L2["✅ 2 O ponto de partida de todo PM"] --> L3["✅ 3 Fundamentos de produto"]
     L3 --> L4["✅ 4 Pessoas de Produto"] --> L5["✅ 5 Q&A: Papéis e Fundamentos"] --> L6["✅ 6 Ciclo de Vida de Produto"]
-    L6 --> L7["✅ 7 Product Sense"] --> L8["✅ 8 O que é estratégia de produto"] --> L9["⬜ 9 Estratégias claras e ambiciosas"]
+    L6 --> L7["✅ 7 Product Sense"] --> L8["✅ 8 O que é estratégia de produto"] --> L9["✅ 9 Estratégias claras e ambiciosas"]
     L9 --> L10["⬜ 10 Visão de produto"] --> L11["⬜ 11 Proposta de valor"] --> L12["⬜ 12 Criação de valor"]
     L12 --> L13["⬜ 13 Conclusão"] --> L14["⬜ 14 Ferramentas para PMs"] --> L15["⬜ 15 Desafio: Marketplace"]
     L15 --> B{{"🔒 Badge: Fundamentos de PM"}}
     classDef done fill:#d4edda,stroke:#155724,color:#155724
     classDef todo fill:#f8f9fa,stroke:#6c757d,color:#343a40
-    class L1,L2,L3,L4,L5,L6,L7,L8 done
-    class L9,L10,L11,L12,L13,L14,L15,B todo
+    class L1,L2,L3,L4,L5,L6,L7,L8,L9 done
+    class L10,L11,L12,L13,L14,L15,B todo
 ~~~
 
 ### Skills do módulo / Module skills
@@ -74,7 +74,10 @@ flowchart TD
 | Usar os cinco elementos do núcleo da estratégia: **foco, insights, ação, gerenciamento e métricas** | 8 Estratégia de produto | 🔓 |
 | Montar uma estratégia com **contexto, foco e sequenciamento** e mantê-la viva com o aprendizado | 8 Estratégia de produto | 🔓 |
 | Reconhecer as armadilhas: **feature factory** e mudanças cosméticas | 8 Estratégia de produto | 🔓 |
-| Estratégias claras e ambiciosas | 9 | 🔒 |
+| Conduzir um **diagnóstico 360°** (cliente, produto, empresa, mercado) com o **Canvas C>P>E>M** | 9 Estratégias claras | 🔓 |
+| Usar **jobs to be done** para entender e priorizar problemas | 9 Estratégias claras | 🔓 |
+| Escrever um **1-pager** de estratégia (business intent, NSM, público, JTBD, proposta de valor) | 9 Estratégias claras | 🔓 |
+| Deixar a **proposta de valor guiar o escopo do MVP** | 9 Estratégias claras | 🔓 |
 | Visão de produto | 10 Visão de produto | 🔒 |
 | Proposta de valor e criação de valor | 11 e 12 | 🔒 |
 

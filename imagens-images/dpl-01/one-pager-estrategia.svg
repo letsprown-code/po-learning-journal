@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-labelledby="t d" font-family="Inter, sans-serif">
+  <title id="t">O 1-pager da estratégia de produto</title>
+  <desc id="d">Uma página com cinco blocos numerados: 1 Business intent, o papel do produto no negócio; 2 North Star Metric, o que é sucesso; 3 Público-alvo, quem priorizar com detalhes geográficos, psicográficos, demográficos e comportamentais; 4 Jobs to be done, necessidades funcionais, emocionais e sociais; 5 Proposta de valor, o resumo em um tweet. Embaixo: comunicar, comunicar, comunicar.</desc>
+  <rect width="900" height="640" fill="#FFFFFF"/>
+  <text x="60" y="58" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">A estratégia cabe em</text>
+  <rect x="394" y="32" width="164" height="34" rx="3" fill="#DFFF00"/>
+  <text x="476" y="58" text-anchor="middle" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">uma página</text>
+  <text x="60" y="88" font-size="14" font-weight="700" letter-spacing="1.6" fill="#5E5E5E">PRODUCT STRATEGY 1-PAGER</text>
+
+  <!-- page -->
+  <rect x="60" y="110" width="780" height="440" rx="12" fill="#FFFFFF" stroke="#0D0D0D" stroke-width="2"/>
+
+  <g>
+    <rect x="84" y="134" width="732" height="70" rx="10" fill="#F5F5F5"/>
+    <circle cx="118" cy="169" r="18" fill="#0D0D0D"/><text x="118" y="175" text-anchor="middle" font-size="16" font-weight="900" fill="#DFFF00">1</text>
+    <text x="150" y="163" font-size="20" font-weight="900" fill="#0D0D0D">Business intent</text>
+    <text x="150" y="187" font-size="14" fill="#5E5E5E">Qual o papel do produto no negócio? (receita, recorrência, ecossistema, pontos de contato)</text>
+
+    <rect x="84" y="214" width="732" height="70" rx="10" fill="#F5F5F5"/>
+    <circle cx="118" cy="249" r="18" fill="#0D0D0D"/><text x="118" y="255" text-anchor="middle" font-size="16" font-weight="900" fill="#DFFF00">2</text>
+    <text x="150" y="243" font-size="20" font-weight="900" fill="#0D0D0D">North Star Metric</text>
+    <text x="150" y="267" font-size="14" fill="#5E5E5E">O que é sucesso? Reflete valor para o cliente e mede progresso.</text>
+
+    <rect x="84" y="294" width="732" height="70" rx="10" fill="#F5F5F5"/>
+    <circle cx="118" cy="329" r="18" fill="#0D0D0D"/><text x="118" y="335" text-anchor="middle" font-size="16" font-weight="900" fill="#DFFF00">3</text>
+    <text x="150" y="323" font-size="20" font-weight="900" fill="#0D0D0D">Público-alvo</text>
+    <text x="150" y="347" font-size="14" fill="#5E5E5E">Quem priorizar? Geográfico · psicográfico · demográfico · comportamental</text>
+
+    <rect x="84" y="374" width="732" height="70" rx="10" fill="#F5F5F5"/>
+    <circle cx="118" cy="409" r="18" fill="#0D0D0D"/><text x="118" y="415" text-anchor="middle" font-size="16" font-weight="900" fill="#DFFF00">4</text>
+    <text x="150" y="403" font-size="20" font-weight="900" fill="#0D0D0D">Jobs to be done / necessidades</text>
+    <text x="150" y="427" font-size="14" fill="#5E5E5E">Para que o produto é "contratado"? Funcional · emocional · social</text>
+
+    <rect x="84" y="454" width="732" height="72" rx="10" fill="#0D0D0D"/>
+    <circle cx="118" cy="490" r="18" fill="#DFFF00"/><text x="118" y="496" text-anchor="middle" font-size="16" font-weight="900" fill="#0D0D0D">5</text>
+    <text x="150" y="484" font-size="20" font-weight="900" fill="#FFFFFF">Proposta de valor</text>
+    <text x="150" y="508" font-size="14" fill="#C9C9C9">O resumo de tudo "em um tweet": para quem, qual problema, o quê, diferencial.</text>
+  </g>
+
+  <text x="60" y="590" font-size="18" font-weight="900" fill="#0D0D0D">Depois: comunicar, comunicar, comunicar.</text>
+  <line x1="60" y1="596" x2="438" y2="596" stroke="#A0B300" stroke-width="3"/>
+  <text x="840" y="625" text-anchor="end" font-size="12" fill="#5E5E5E">Tera · DPL 01 · Desenvolvendo estratégias claras e ambiciosas</text>
+</svg>

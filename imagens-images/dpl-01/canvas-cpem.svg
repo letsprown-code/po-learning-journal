@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" role="img" aria-labelledby="t d" font-family="Inter, sans-serif">
+  <title id="t">Canvas C&gt;P&gt;E&gt;M</title>
+  <desc id="d">Canvas com quatro colunas: Cliente (público-alvo, satisfação, feedbacks, jobs to be done), Produto (proposta de valor em uma frase, estágio do ciclo de vida, contribuição e métricas), Empresa (BHAG, fontes de receita, diferenciais, gaps) e Mercado (tendências, oportunidades, ameaças, concorrência). Embaixo, as perguntas de reflexão.</desc>
+  <rect width="960" height="620" fill="#FFFFFF"/>
+  <text x="40" y="58" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">Canvas</text>
+  <rect x="164" y="32" width="150" height="34" rx="3" fill="#DFFF00"/>
+  <text x="239" y="58" text-anchor="middle" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">C&gt;P&gt;E&gt;M</text>
+  <text x="40" y="88" font-size="14" font-weight="700" letter-spacing="1.6" fill="#5E5E5E">DIAGNÓSTICO ANTES DA ESTRATÉGIA · CUSTOMER › PRODUCT › COMPANY › MARKET</text>
+
+  <g stroke="#0D0D0D" stroke-width="2" fill="#FFFFFF">
+    <rect x="40" y="110" width="210" height="330" rx="12"/>
+    <rect x="263" y="110" width="210" height="330" rx="12"/>
+    <rect x="486" y="110" width="210" height="330" rx="12"/>
+    <rect x="709" y="110" width="210" height="330" rx="12"/>
+  </g>
+  <g fill="#0D0D0D">
+    <rect x="40" y="110" width="210" height="56" rx="12"/><rect x="40" y="140" width="210" height="26"/>
+    <rect x="263" y="110" width="210" height="56" rx="12"/><rect x="263" y="140" width="210" height="26"/>
+    <rect x="486" y="110" width="210" height="56" rx="12"/><rect x="486" y="140" width="210" height="26"/>
+    <rect x="709" y="110" width="210" height="56" rx="12"/><rect x="709" y="140" width="210" height="26"/>
+  </g>
+  <g font-size="20" font-weight="900" fill="#FFFFFF">
+    <text x="60" y="146"><tspan fill="#DFFF00">1</tspan>  Cliente</text>
+    <text x="283" y="146"><tspan fill="#DFFF00">2</tspan>  Produto</text>
+    <text x="506" y="146"><tspan fill="#DFFF00">3</tspan>  Empresa</text>
+    <text x="729" y="146"><tspan fill="#DFFF00">4</tspan>  Mercado</text>
+  </g>
+  <g font-size="15" fill="#0D0D0D">
+    <text x="60" y="200">• Público-alvo</text>
+    <text x="72" y="220" fill="#5E5E5E" font-size="13">real × desejado</text>
+    <text x="60" y="255">• Satisfação</text>
+    <text x="72" y="275" fill="#5E5E5E" font-size="13">NPS, Sean Ellis Score</text>
+    <text x="60" y="310">• Feedbacks</text>
+    <text x="72" y="330" fill="#5E5E5E" font-size="13">positivos e negativos</text>
+    <text x="60" y="365">• Jobs to be done</text>
+    <text x="72" y="385" fill="#5E5E5E" font-size="13">funcional, social,</text>
+    <text x="72" y="403" fill="#5E5E5E" font-size="13">emocional</text>
+
+    <text x="283" y="200">• Proposta de valor</text>
+    <text x="295" y="220" fill="#5E5E5E" font-size="13">em uma frase</text>
+    <text x="283" y="255">• Ciclo de vida</text>
+    <text x="295" y="275" fill="#5E5E5E" font-size="13">introdução → declínio</text>
+    <text x="283" y="310">• Contribuição</text>
+    <text x="295" y="330" fill="#5E5E5E" font-size="13">receita, engajamento,</text>
+    <text x="295" y="348" fill="#5E5E5E" font-size="13">principalidade</text>
+    <text x="283" y="383">• Métricas e OKRs</text>
+    <text x="295" y="403" fill="#5E5E5E" font-size="13">e o time</text>
+
+    <text x="506" y="200">• BHAG</text>
+    <text x="518" y="220" fill="#5E5E5E" font-size="13">o sonho grande</text>
+    <text x="506" y="255">• Fontes de receita</text>
+    <text x="518" y="275" fill="#5E5E5E" font-size="13">como ganha dinheiro</text>
+    <text x="506" y="310">• Diferenciais</text>
+    <text x="518" y="330" fill="#5E5E5E" font-size="13">ecossistema, flywheel</text>
+    <text x="506" y="365">• Gaps</text>
+    <text x="518" y="385" fill="#5E5E5E" font-size="13">o que falta</text>
+
+    <text x="729" y="200">• Tendências</text>
+    <text x="741" y="220" fill="#5E5E5E" font-size="13">economia, regulação</text>
+    <text x="729" y="255">• Oportunidades</text>
+    <text x="729" y="310">• Ameaças</text>
+    <text x="729" y="365">• Concorrência</text>
+    <text x="741" y="385" fill="#5E5E5E" font-size="13">diretos e indiretos,</text>
+    <text x="741" y="403" fill="#5E5E5E" font-size="13">posicionamento</text>
+  </g>
+
+  <rect x="40" y="462" width="879" height="110" rx="12" fill="#F5F5F5"/>
+  <text x="62" y="494" font-size="13" font-weight="700" letter-spacing="1.4" fill="#5E5E5E">AO PREENCHER, PERGUNTE</text>
+  <g font-size="15" fill="#0D0D0D">
+    <text x="62" y="524">Foi fácil obter as informações? · Por que algo ficou em branco? (a lacuna também é diagnóstico)</text>
+    <text x="62" y="552">Os itens se conectam? · Há contradições? · Dá para ver a estratégia atual?</text>
+  </g>
+  <line x1="40" y1="592" x2="919" y2="592" stroke="#E0E0E0"/>
+  <text x="919" y="610" text-anchor="end" font-size="12" fill="#5E5E5E">Tera · DPL 01 · Desenvolvendo estratégias claras e ambiciosas</text>
+</svg>

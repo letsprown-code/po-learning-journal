@@ -40,7 +40,7 @@ Algumas pastas só aparecem no GitHub quando recebem o primeiro arquivo.
 
 | Escola | Curso | Módulo | Situação |
 | --- | --- | --- | --- |
-| Tera | Digital Product Leadership | 01. Fundamentos de Product Management: [nota](cursos-courses/tera/digital-product-leadership/01-fundamentos-de-product-management.md) · [projeto](projetos-projects/01-raio-x-de-um-produto/README.md) | Em andamento (8 de 15 aulas) |
+| Tera | Digital Product Leadership | 01. Fundamentos de Product Management: [nota](cursos-courses/tera/digital-product-leadership/01-fundamentos-de-product-management.md) · [projeto](projetos-projects/01-raio-x-de-um-produto/README.md) | Em andamento (9 de 15 aulas) |
 | Tera | Digital Product Leadership | 02. Métricas para Produtos Digitais | A fazer |
 | Tera | Digital Product Leadership | 03. Introdução a Product Discovery | A fazer |
 | Tera | Digital Product Leadership | 04. Product Delivery: construa a solução | A fazer |
