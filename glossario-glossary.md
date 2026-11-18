@@ -45,3 +45,10 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Intenção de negócio | Business intent | O papel do produto para o negócio · The product's role in the business | DPL 01 · Estratégias claras |
 | Produto mínimo amável | MLP (Minimum Lovable Product) | Versão mínima que, além de funcionar, encanta (importante quando os clientes já têm expectativas altas) · A minimum product people love | DPL 01 · Estratégias claras |
 | Canvas C>P>E>M | C>P>E>M canvas | Quadro de diagnóstico: cliente, produto, empresa e mercado · Diagnosis canvas | DPL 01 · Estratégias claras |
+| Missão do produto | Product mission | O objetivo maior, a razão de existir do produto (a visão é o destino) · The product's reason to exist | DPL 01 · Visão de produto |
+| Protopersona | Proto-persona | Persona ainda em construção, baseada em hipóteses, usada na fase de introdução, quando não há perfil padrão · Hypothesis-based persona | DPL 01 · Visão de produto |
+| Primeiros usuários | Early adopters | Clientes curiosos, buscadores de novidade, típicos da fase de introdução · First, curious users | DPL 01 · Visão de produto |
+| Círculo Dourado | Golden Circle | Modelo de Simon Sinek: todas as empresas sabem o que fazem, algumas sabem como e poucas sabem por quê (propósito, causa e crença) · Why, how, what | DPL 01 · Visão de produto |
+| Comunicado de imprensa (como visão) | Press release | Formato de visão em que se escreve a notícia que gostaríamos de ler quando o produto tiver sucesso (ex.: Amazon S3) · Vision as a future news story | DPL 01 · Visão de produto |
+| Canvas de storytelling | Storytelling canvas | Estrutura a narrativa da visão: tema, objetivo, audiência, estado antes, preparação, mensagem principal, conclusão e estado depois · Story structure canvas | DPL 01 · Visão de produto |
+| Jornada do herói | Hero's journey | Estrutura de Joseph Campbell (*O Herói de Mil Faces*, 1949) que toda história segue; a etapa 12 é o retorno transformado · Campbell's story structure | DPL 01 · Visão de produto |

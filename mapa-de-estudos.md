@@ -44,13 +44,13 @@ flowchart TD
     L1["✅ 1 Sua jornada no DPL"] --> L2["✅ 2 O ponto de partida de todo PM"] --> L3["✅ 3 Fundamentos de produto"]
     L3 --> L4["✅ 4 Pessoas de Produto"] --> L5["✅ 5 Q&A: Papéis e Fundamentos"] --> L6["✅ 6 Ciclo de Vida de Produto"]
     L6 --> L7["✅ 7 Product Sense"] --> L8["✅ 8 O que é estratégia de produto"] --> L9["✅ 9 Estratégias claras e ambiciosas"]
-    L9 --> L10["⬜ 10 Visão de produto"] --> L11["⬜ 11 Proposta de valor"] --> L12["⬜ 12 Criação de valor"]
+    L9 --> L10["✅ 10 Visão de produto"] --> L11["⬜ 11 Proposta de valor"] --> L12["⬜ 12 Criação de valor"]
     L12 --> L13["⬜ 13 Conclusão"] --> L14["⬜ 14 Ferramentas para PMs"] --> L15["⬜ 15 Desafio: Marketplace"]
     L15 --> B{{"🔒 Badge: Fundamentos de PM"}}
     classDef done fill:#d4edda,stroke:#155724,color:#155724
     classDef todo fill:#f8f9fa,stroke:#6c757d,color:#343a40
-    class L1,L2,L3,L4,L5,L6,L7,L8,L9 done
-    class L10,L11,L12,L13,L14,L15,B todo
+    class L1,L2,L3,L4,L5,L6,L7,L8,L9,L10 done
+    class L11,L12,L13,L14,L15,B todo
 ~~~
 
 ### Skills do módulo / Module skills
@@ -78,7 +78,10 @@ flowchart TD
 | Usar **jobs to be done** para entender e priorizar problemas | 9 Estratégias claras | 🔓 |
 | Escrever um **1-pager** de estratégia (business intent, NSM, público, JTBD, proposta de valor) | 9 Estratégias claras | 🔓 |
 | Deixar a **proposta de valor guiar o escopo do MVP** | 9 Estratégias claras | 🔓 |
-| Visão de produto | 10 Visão de produto | 🔒 |
+| Diferenciar **missão e visão** de produto e reconhecer as **7 características** de uma boa visão | 10 Visão de produto | 🔓 |
+| Contextualizar a visão pelos **quatro prismas**: contexto (ciclo de vida), empresa, produto (solução, dor, oportunidade) e porquê | 10 Visão de produto | 🔓 |
+| Escrever e reescrever a visão com a **frase guiada** e o **canvas de visão** (Roman Pichler) | 10 Visão de produto | 🔓 |
+| Contar a visão como **narrativa** (Era uma vez… / storytelling canvas) | 10 Visão de produto | 🔓 |
 | Proposta de valor e criação de valor | 11 e 12 | 🔒 |
 
 ### Badge do módulo / Module badge

@@ -41,7 +41,11 @@ Cada etapa só entra depois que a aula correspondente estiver concluída. / Each
 | 11 | Product Vision Board do produto: visão, público-alvo, necessidades, produto e alvos do negócio | O que é estratégia de produto | ⬜ |
 | 12 | **Canvas C>P>E>M** da Smiles e da Decolar (com o que for público; as lacunas também contam) | Desenvolvendo estratégias claras | ⬜ |
 | 13 | **1-pager** da estratégia de cada produto, como eu imagino que seja: business intent, NSM, público-alvo, JTBD e proposta de valor | Desenvolvendo estratégias claras | ⬜ |
-| 14+ | Visão e proposta de valor | Aulas 10–12 (a fazer) | 🔒 |
+| 14 | **Quatro prismas** de cada produto: contexto (fase do ciclo de vida), empresa (como decide), produto (solução, dor e oportunidade) e porquê | Visão de produto | ⬜ |
+| 15 | Visão declarada da Smiles e da Decolar (o que for público): ela passa nas **7 características** de uma boa visão? | Visão de produto | ⬜ |
+| 16 | Escrever uma visão para cada produto com a **frase guiada** (Para… / que estão insatisfeitos com… / ao contrário de…) e depois resumir | Visão de produto | ⬜ |
+| 17 | Contar essa visão como **história** (Era uma vez… / Então um dia… / Quando, finalmente…) | Visão de produto | ⬜ |
+| 18+ | Proposta de valor e criação de valor | Aulas 11–12 (a fazer) | 🔒 |
 
 ## Entregável / Deliverable
 🇧🇷 Um documento `raio-x.md` nesta pasta, com uma seção por etapa. 🇺🇸 A `raio-x.md` file in this folder, one section per step.

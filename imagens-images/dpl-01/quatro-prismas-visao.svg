@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="t d" font-family="Inter, sans-serif">
+  <title id="t">Os quatro prismas da visão de produto</title>
+  <desc id="d">Quatro quadros ao redor da visão de produto: O Contexto (estágio do ciclo de vida: introdução, crescimento, maturidade, declínio), A Empresa (tradicional com decisões de cima para baixo, ou moderna com times multifuncionais), O Produto (solução que liga pessoas com dor e problema à empresa com uma oportunidade) e O Porquê (Círculo Dourado: o que, como e por que).</desc>
+  <rect width="960" height="600" fill="#FFFFFF"/>
+  <text x="40" y="58" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">Os quatro</text>
+  <rect x="200" y="32" width="138" height="34" rx="3" fill="#DFFF00"/>
+  <text x="269" y="58" text-anchor="middle" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">prismas</text>
+  <text x="350" y="58" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">da visão</text>
+  <text x="40" y="88" font-size="14" font-weight="700" letter-spacing="1.6" fill="#5E5E5E">PARA A VISÃO NÃO FICAR SÓ UMA FRASE BONITA NA PAREDE</text>
+
+  <g stroke="#0D0D0D" stroke-width="2" fill="#FFFFFF">
+    <rect x="40" y="112" width="430" height="210" rx="12"/>
+    <rect x="490" y="112" width="430" height="210" rx="12"/>
+    <rect x="40" y="342" width="430" height="210" rx="12"/>
+    <rect x="490" y="342" width="430" height="210" rx="12"/>
+  </g>
+
+  <g font-size="22" font-weight="900" fill="#0D0D0D" letter-spacing="-0.4">
+    <text x="64" y="150">1 · O Contexto</text>
+    <text x="514" y="150">2 · A Empresa</text>
+    <text x="64" y="380">3 · O Produto</text>
+    <text x="514" y="380">4 · O Porquê</text>
+  </g>
+
+  <g font-size="15" fill="#0D0D0D">
+    <text x="64" y="180">Em que fase do ciclo de vida o produto está?</text>
+    <text x="64" y="212">• Introdução: visão mais inspiracional</text>
+    <text x="64" y="238">• Crescimento: mais tangível e específica</text>
+    <text x="64" y="264">• Maturidade: a visão ainda faz sentido?</text>
+    <text x="64" y="290">• Declínio: o que tornou o produto irrelevante?</text>
+
+    <text x="514" y="180">Como as decisões acontecem?</text>
+    <text x="514" y="212">• Tradicional (triângulo): decisões de cima,</text>
+    <text x="528" y="234" fill="#5E5E5E">burocracia, receitas e processos</text>
+    <text x="514" y="262">• Moderna (células): times fluidos e</text>
+    <text x="528" y="284" fill="#5E5E5E">multifuncionais → construção plural</text>
+
+    <text x="64" y="410">Solução que liga duas pontas:</text>
+    <text x="64" y="442">• Pessoas → dor e problema</text>
+    <text x="64" y="468">• Empresa → oportunidade de negócio</text>
+    <text x="64" y="504" fill="#5E5E5E">Ex. Creditas: empréstimo com bem como garantia</text>
+    <text x="64" y="526" fill="#5E5E5E">· acesso ao crédito · quem tem carro ou casa</text>
+
+    <text x="514" y="410">Círculo Dourado (Simon Sinek):</text>
+    <text x="514" y="442">• Todas sabem <tspan font-weight="700">o que</tspan> fazem</text>
+    <text x="514" y="468">• Algumas sabem <tspan font-weight="700">como</tspan> fazem</text>
+    <text x="514" y="494">• Poucas sabem <tspan font-weight="700">por que</tspan> fazem</text>
+    <text x="514" y="526" fill="#5E5E5E">propósito, causa e crença</text>
+  </g>
+  <line x1="40" y1="574" x2="920" y2="574" stroke="#A0B300" stroke-width="1.5"/>
+  <text x="40" y="592" font-size="12" fill="#5E5E5E">Redesenho de estudo · Aula 10 · Visão de produto (DPL · Tera)</text>
+</svg>
