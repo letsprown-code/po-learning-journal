@@ -11,7 +11,7 @@ Skills come from the platform's own learning objectives, checklists and summarie
 flowchart LR
     subgraph DPL[Tera · Digital Product Leadership]
       direction TB
-      M1["🟡 01 Fundamentos de PM<br/>6 de 15 aulas"]
+      M1["🟡 01 Fundamentos de PM<br/>7 de 15 aulas"]
       M2["⬜ 02 Métricas"]
       M3["⬜ 03 Product Discovery"]
       M4["⬜ 04 Product Delivery"]
@@ -43,14 +43,14 @@ flowchart LR
 flowchart TD
     L1["✅ 1 Sua jornada no DPL"] --> L2["✅ 2 O ponto de partida de todo PM"] --> L3["✅ 3 Fundamentos de produto"]
     L3 --> L4["✅ 4 Pessoas de Produto"] --> L5["✅ 5 Q&A: Papéis e Fundamentos"] --> L6["✅ 6 Ciclo de Vida de Produto"]
-    L6 --> L7["⬜ 7 Product Sense"] --> L8["⬜ 8 O que é estratégia de produto"] --> L9["⬜ 9 Estratégias claras e ambiciosas"]
+    L6 --> L7["✅ 7 Product Sense"] --> L8["⬜ 8 O que é estratégia de produto"] --> L9["⬜ 9 Estratégias claras e ambiciosas"]
     L9 --> L10["⬜ 10 Visão de produto"] --> L11["⬜ 11 Proposta de valor"] --> L12["⬜ 12 Criação de valor"]
     L12 --> L13["⬜ 13 Conclusão"] --> L14["⬜ 14 Ferramentas para PMs"] --> L15["⬜ 15 Desafio: Marketplace"]
     L15 --> B{{"🔒 Badge: Fundamentos de PM"}}
     classDef done fill:#d4edda,stroke:#155724,color:#155724
     classDef todo fill:#f8f9fa,stroke:#6c757d,color:#343a40
-    class L1,L2,L3,L4,L5,L6 done
-    class L7,L8,L9,L10,L11,L12,L13,L14,L15,B todo
+    class L1,L2,L3,L4,L5,L6,L7 done
+    class L8,L9,L10,L11,L12,L13,L14,L15,B todo
 ~~~
 
 ### Skills do módulo / Module skills
@@ -67,7 +67,9 @@ flowchart TD
 | Diferenciar **ciclo de desenvolvimento** de **ciclo de vida** | 6 Ciclo de Vida | 🔓 |
 | Usar **métricas** (negócio, cliente, produto) para reconhecer a fase do ciclo de vida | 6 Ciclo de Vida | 🔓 |
 | Diferenciar o foco e os desafios de PMs em cada fase do ciclo | 6 Ciclo de Vida | 🔓 |
-| Product sense | 7 Product Sense | 🔒 |
+| Explicar por que um **pensamento estruturado** é importante para problemas complexos de negócio | 7 Product Sense | 🔓 |
+| Aplicar os componentes do pensamento estruturado: **amar o problema**, pensar em **produto e não em features**, ser **específico e agnóstico** | 7 Product Sense | 🔓 |
+| Organizar e comunicar o pensamento com perguntas: **usuário → trabalho a ser feito → objetivos e recursos** | 7 Product Sense | 🔓 |
 | Estratégia de produto | 8 e 9 | 🔒 |
 | Visão de produto | 10 Visão de produto | 🔒 |
 | Proposta de valor e criação de valor | 11 e 12 | 🔒 |

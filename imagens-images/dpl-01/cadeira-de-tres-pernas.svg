@@ -1,30 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" role="img" aria-labelledby="t d" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 660" role="img" aria-labelledby="t d" font-family="Inter, sans-serif">
   <title id="t">Cadeira de três pernas da gestão de produtos</title>
-  <desc id="d">Três círculos sobrepostos: Experiência (o produto é desejável), Negócios (o produto é rentável) e Viabilidade ou Tecnologia (dá para construir, manter e escalar). No centro, onde os três se encontram, está a gestão de produtos.</desc>
-  <rect width="800" height="640" fill="#ffffff"/>
-  <text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">Cadeira de três pernas · Three-legged stool</text>
-  <g fill-opacity="0.28" stroke-width="3">
-    <circle cx="300" cy="270" r="170" fill="#f59e0b" stroke="#b45309"/>
-    <circle cx="500" cy="270" r="170" fill="#3b82f6" stroke="#1d4ed8"/>
-    <circle cx="400" cy="430" r="170" fill="#10b981" stroke="#047857"/>
+  <desc id="d">Três círculos sobrepostos: Experiência (o produto é desejável), Negócios (o produto é rentável) e Viabilidade ou Tecnologia (dá para construir, manter e escalar). No centro, onde os três se encontram, está a gestão de produtos, destacada com marca-texto.</desc>
+  <rect width="800" height="660" fill="#FFFFFF"/>
+  <rect x="226" y="26" width="348" height="34" rx="3" fill="#DFFF00"/>
+  <text x="400" y="54" text-anchor="middle" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">Cadeira de três pernas</text>
+  <text x="400" y="86" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#5E5E5E">THREE-LEGGED STOOL</text>
+  <g fill="#0D0D0D" fill-opacity="0.04" stroke="#0D0D0D" stroke-width="2">
+    <circle cx="300" cy="290" r="165"/>
+    <circle cx="500" cy="290" r="165"/>
+    <circle cx="400" cy="445" r="165"/>
   </g>
-  <g text-anchor="middle" fill="#111827">
-    <text x="235" y="215" font-size="22" font-weight="700">Experiência</text>
-    <text x="235" y="242" font-size="16">UX · usabilidade</text>
-    <text x="235" y="266" font-size="16" font-style="italic">desejável</text>
-
-    <text x="565" y="215" font-size="22" font-weight="700">Negócios</text>
-    <text x="565" y="242" font-size="16">Business</text>
-    <text x="565" y="266" font-size="16" font-style="italic">rentável</text>
-
-    <text x="400" y="498" font-size="22" font-weight="700">Viabilidade</text>
-    <text x="400" y="523" font-size="15">Tecnologia · Feasibility</text>
-    <text x="400" y="545" font-size="15" font-style="italic">construir, manter, escalar</text>
+  <g text-anchor="middle" fill="#0D0D0D">
+    <text x="232" y="240" font-size="24" font-weight="900" letter-spacing="-0.5">Experiência</text>
+    <text x="232" y="266" font-size="15" fill="#5E5E5E">UX · usabilidade</text>
+    <text x="232" y="290" font-size="15" font-weight="700">desejável</text>
+    <text x="568" y="240" font-size="24" font-weight="900" letter-spacing="-0.5">Negócios</text>
+    <text x="568" y="266" font-size="15" fill="#5E5E5E">business</text>
+    <text x="568" y="290" font-size="15" font-weight="700">rentável</text>
+    <text x="400" y="515" font-size="24" font-weight="900" letter-spacing="-0.5">Viabilidade</text>
+    <text x="400" y="541" font-size="15" fill="#5E5E5E">tecnologia · feasibility</text>
+    <text x="400" y="565" font-size="15" font-weight="700">construir, manter, escalar</text>
   </g>
-  <g>
-    <rect x="318" y="312" width="164" height="58" rx="12" fill="#1f2937"/>
-    <text x="400" y="337" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">Gestão de</text>
-    <text x="400" y="358" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">produtos</text>
-  </g>
-  <text x="400" y="620" text-anchor="middle" font-size="14" fill="#4b5563">Sem uma das pernas, a cadeira cai. · Tera DPL 01, aula Fundamentos de produto</text>
+  <rect x="322" y="335" width="156" height="62" rx="12" fill="#0D0D0D"/>
+  <text x="400" y="362" text-anchor="middle" font-size="15" font-weight="900" fill="#FFFFFF">Gestão de</text>
+  <text x="400" y="383" text-anchor="middle" font-size="15" font-weight="900" fill="#FFFFFF">produtos</text>
+  <rect x="360" y="387" width="80" height="2.5" fill="#DFFF00"/>
+  <line x1="80" y1="620" x2="720" y2="620" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="80" y="645" font-size="13" fill="#5E5E5E">Sem uma das pernas, a cadeira cai.</text>
+  <text x="720" y="645" text-anchor="end" font-size="13" fill="#5E5E5E">Tera · DPL 01 · Fundamentos de produto</text>
 </svg>

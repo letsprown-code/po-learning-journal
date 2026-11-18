@@ -16,6 +16,7 @@ Diário de estudos de Product Owner da Letícia. Escrevemos em português (Brasi
 ## Visual e progresso
 - Usar fluxos e diagramas (Mermaid; C4 quando o assunto for arquitetura de sistemas) sempre que ajudarem a entender a aula. Diagramas também seguem a regra de conteúdo: só o que a aula diz.
 - Imagens: redesenhar os conceitos das aulas no nosso estilo (SVG em `imagens-images/<curso>-<módulo>/`, exportado em PNG com `rsvg-convert -w 1400`), conferir a renderização antes de publicar e embutir o PNG na nota. Nunca copiar slides ou prints da Tera de forma idêntica (o repositório é público e o material é pago); ela aprovou esse formato.
+- **Estilo das imagens: Design System da Let's Code, Opção C** (artefato "Let's Code — Design System v1.0 · Opção C"): fonte Inter (títulos 900 com espaçamento negativo, corpo 400); fundo #FFFFFF, texto #0D0D0D, apoio #5E5E5E, bordas finas (#0D0D0D ou #E0E0E0), sem sombras; o único destaque é o chartreuse #DFFF00 como **marca-texto** atrás de 1 a 4 palavras, sempre com texto preto em cima (nunca chartreuse como cor de texto no fundo claro); traço fino #A0B300 no claro; um destaque por título.
 - Toda imagem com texto alternativo; nunca passar informação só por cor (usar também ✅ 🟡 ⬜ 🔒 🔓).
 - `mapa-de-estudos.md`: mapa do que foi visto e estudado, com as **skills** que cada aula desbloqueia e a **badge** de cada módulo (todas as aulas + projeto prático). Skills vêm dos objetivos de aprendizagem e checklists da plataforma. Atualizar a cada aula.
 

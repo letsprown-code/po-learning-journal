@@ -19,3 +19,12 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | O abismo | The chasm | A passagem dos inovadores e early adopters para o grande público; só é cruzada com uma proposta de valor bem ajustada · The gap between early adopters and the mainstream | DPL 01 · Ciclo de Vida |
 | Vaca leiteira | Cash cow | Estágio de maturidade do produto · Maturity stage | DPL 01 · Ciclo de Vida |
 | CPO | Chief Product Officer | O cargo executivo mais alto em produtos digitais · Highest executive role in digital products | DPL 01 · Fundamentos de produto |
+| Senso de produto, pensamento de produto | Product sense, product thinking | Capacidade de entender o que torna um produto excelente (útil, simples, funcional, amado, vendável), olhando negócio, design e tecnologia · Understanding what makes a product excellent | DPL 01 · Product Sense |
+| Espaço do problema | Problem space | O que os usuários precisam ter resolvido; ligado ao discovery · What users need; discovery | DPL 01 · Product Sense |
+| Espaço da solução | Solution space | O que o negócio fornece; ligado ao delivery · What the business provides; delivery | DPL 01 · Product Sense |
+| Encaixe produto-mercado | Product-market fit (PMF) | Estar em um bom mercado com um produto que satisfaça esse mercado (Marc Andreessen) · Being in a good market with a product that satisfies it | DPL 01 · Product Sense |
+| Três horizontes | Three horizons (McKinsey) | Mercado existente, mercados emergentes e novos mercados · Existing, emerging and new markets | DPL 01 · Product Sense |
+| Viés do inovador | Innovator bias | Achar que tudo o que se cria precisa ser novo ou abrir mercado · Believing everything must be new | DPL 01 · Product Sense |
+| Crescimento liderado pelo produto | Product-led growth | Quando o produto lidera o crescimento do negócio (em vez do marketing ou das vendas) · Growth led by the product | DPL 01 · Product Sense |
+| Escolha, troca | Trade-off | Escolher um caminho e abrir mão de outro (ex.: comprar ou construir?) · Choosing one path over another | DPL 01 · Pessoas de Produto / Product Sense |
+| Silo funcional | Functional silo | Quando cada área pensa só na sua parte, sem olhar o produto como um todo · Each area thinking only of its part | DPL 01 · Product Sense |
