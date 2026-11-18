@@ -48,7 +48,9 @@ Cada etapa só entra depois que a aula correspondente estiver concluída. / Each
 | 18 | **Canvas de proposta de valor** de cada produto, começando pelo perfil do cliente (tarefas, dores e ganhos) e depois o mapa de valor. A Smiles atende mais de um segmento? Então um canvas por segmento | Proposta de valor | ⬜ |
 | 19 | **Golden Circle** da proposta de valor: o quê, como e por quê de cada produto. A proposta "data" o produto ou deixa espaço para novos produtos? | Proposta de valor | ⬜ |
 | 20 | Que sinais públicos de **Product Market Fit** dá para observar (ex.: notas nas lojas, reclamações resolvidas do benchmark)? E que MVP eu usaria para testar uma melhoria? | Proposta de valor | ⬜ |
-| 21+ | Criação de valor | Aula 12 (a fazer) | 🔒 |
+| 21 | **Preço × valor**: o que o cliente "leva para casa" em cada produto, além do preço da passagem ou das milhas? | Criação de valor | ⬜ |
+| 22 | **Segmento de clientes** (demográfico, geográfico, psicográfico) e 2 ou 3 **personas** por produto, com base em dados públicos | Criação de valor | ⬜ |
+| 23 | Os pilares de valor de cada produto (como no case Starbucks) e onde a experiência "cumpre ou não o prometido" (ligando ao benchmark) | Criação de valor | ⬜ |
 
 ## Entregável / Deliverable
 🇧🇷 Um documento `raio-x.md` nesta pasta, com uma seção por etapa. 🇺🇸 A `raio-x.md` file in this folder, one section per step.

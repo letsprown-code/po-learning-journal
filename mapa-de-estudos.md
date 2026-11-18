@@ -49,8 +49,8 @@ flowchart TD
     L15 --> B{{"🔒 Badge: Fundamentos de PM"}}
     classDef done fill:#d4edda,stroke:#155724,color:#155724
     classDef todo fill:#f8f9fa,stroke:#6c757d,color:#343a40
-    class L1,L2,L3,L4,L5,L6,L7,L8,L9,L10,L11 done
-    class L12,L13,L14,L15,B todo
+    class L1,L2,L3,L4,L5,L6,L7,L8,L9,L10,L11,L12 done
+    class L13,L14,L15,B todo
 ~~~
 
 ### Skills do módulo / Module skills
@@ -86,7 +86,8 @@ flowchart TD
 | Validar problema (hipóteses, raiz, intensidade da dor) e solução (**desejável, viável, realizável**) | 11 Proposta de valor | 🔓 |
 | Preencher o **Canvas de proposta de valor** começando pelo perfil do cliente | 11 Proposta de valor | 🔓 |
 | Dimensionar mercado com **TAM/SAM/SOM**, escolher um **tipo de MVP** e medir o fit (NPS, regra dos 40%, métricas) | 11 Proposta de valor | 🔓 |
-| Criação de valor | 12 | 🔒 |
+| Diferenciar **preço e valor** e explicar por que a criação de valor fideliza (diferencial, receita, sustentabilidade) | 12 Criação de valor | 🔓 |
+| Criar valor em passos: **segmento de clientes → persona → problema → solução → cumprir o prometido** | 12 Criação de valor | 🔓 |
 
 ### Badge do módulo / Module badge
 🔒 **Fundamentos de PM:** todas as 15 aulas ✅ + Projeto 01 ✅.

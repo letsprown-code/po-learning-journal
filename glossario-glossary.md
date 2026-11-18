@@ -65,3 +65,7 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | NPS | Net Promoter Score | Nota de 0 a 10 de recomendação: 9–10 promotores, 7–8 neutros, 0–6 detratores · Recommendation score | DPL 01 · Proposta de valor |
 | Regra dos 40% | 40% rule | Se 40% dos clientes ficariam "muito desapontados" sem o produto, pode haver PMF · PMF survey threshold | DPL 01 · Proposta de valor |
 | Valor do tempo de vida do cliente | CLTV (Customer Lifetime Value) | Valor (lucro médio) do cliente durante todo o tempo em que fica com você · Value over the customer's lifetime | DPL 01 · Proposta de valor |
+| Valor (para o cliente) | Customer value | Razões genuínas para a pessoa escolher um produto (Kotler); "o que você leva", enquanto preço é "o que você paga" (Buffett) · What you get vs what you pay | DPL 01 · Criação de valor |
+| Segmento de clientes | Customer segments | Primeiro bloco do Business Model Canvas: grupos de clientes por similaridade (demográfico, geográfico, psicográfico) · Groups of similar customers | DPL 01 · Criação de valor |
+| Persona | Persona | Representação semificcional do cliente ideal, baseada em dados reais · Semi-fictional, data-based customer profile | DPL 01 · Criação de valor |
+| Terceiro lugar | Third place | Ideia do Starbucks: depois da casa e do trabalho, o lugar onde a pessoa se sente em casa · Starbucks' "third place" | DPL 01 · Criação de valor |
