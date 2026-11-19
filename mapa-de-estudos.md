@@ -45,12 +45,12 @@ flowchart TD
     L3 --> L4["✅ 4 Pessoas de Produto"] --> L5["✅ 5 Q&A: Papéis e Fundamentos"] --> L6["✅ 6 Ciclo de Vida de Produto"]
     L6 --> L7["✅ 7 Product Sense"] --> L8["✅ 8 O que é estratégia de produto"] --> L9["✅ 9 Estratégias claras e ambiciosas"]
     L9 --> L10["✅ 10 Visão de produto"] --> L11["✅ 11 Proposta de valor"] --> L12["✅ 12 Criação de valor"]
-    L12 --> L13["🟡 13 Conclusão (teste dela)"] --> L14["✅ 14 Ferramentas para PMs"] --> L15["✅ 15 Desafio: Marketplace"]
+    L12 --> L13["✅ 13 Conclusão + teste"] --> L14["✅ 14 Ferramentas para PMs"] --> L15["✅ 15 Desafio: Marketplace"]
     L15 --> B{{"🔒 Badge: Fundamentos de PM"}}
     classDef done fill:#d4edda,stroke:#155724,color:#155724
     classDef todo fill:#f8f9fa,stroke:#6c757d,color:#343a40
-    class L1,L2,L3,L4,L5,L6,L7,L8,L9,L10,L11,L12,L14,L15 done
-    class L13,B todo
+    class L1,L2,L3,L4,L5,L6,L7,L8,L9,L10,L11,L12,L13,L14,L15 done
+    class B todo
 ~~~
 
 ### Skills do módulo / Module skills
@@ -93,7 +93,7 @@ flowchart TD
 | Mapear suposições e riscos de uma nova iniciativa, achar a **suposição mãe** e começar a mitigação pela **desejabilidade** | 15 Desafio | 🔓 |
 
 ### Badge do módulo / Module badge
-🔒 **Fundamentos de PM:** todas as 15 aulas ✅ + Projeto 01 ✅. Falta: o **teste do módulo** (aula 13, feito pela Letícia na plataforma, mínimo de 80%) e o **Projeto 01**.
+🔒 **Fundamentos de PM:** todas as 15 aulas ✅ + Projeto 01 ✅. Teste do módulo feito ✅ (18/11). Falta só o **Projeto 01**.
 
 ## Próximos módulos / Next modules
 As skills de cada módulo entram aqui quando ele começar, a partir dos objetivos de aprendizagem que a Tera mostrar.

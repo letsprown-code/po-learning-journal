@@ -5,7 +5,7 @@
 | Escola / School | Tera |
 | Curso / Course | Digital Product Leadership (DPL), formação com 6 módulos / 6-module program |
 | Módulo / Module | 01 · Fundamentos de Product Management |
-| Situação / Status | 🟡 Em andamento · conteúdo das 15 aulas estudado · falta o teste do módulo (dela) e o Projeto 01 / All 15 lessons studied · module test and Project 01 pending |
+| Situação / Status | 🟡 Em andamento · 15 de 15 aulas ✅ · teste do módulo feito · falta o Projeto 01 / 15 of 15 lessons · module test done · Project 01 pending |
 | Fonte / Source | [Tera: Digital Product Leadership](https://plataforma.somostera.com/formations/digital-product-leadership) (login) |
 | Projeto prático / Practice project | [01 · Raio-X de um produto](../../../projetos-projects/01-raio-x-de-um-produto/README.md) |
 
@@ -25,7 +25,7 @@
 | 10 | Visão de produto | Cássio Scozzafave | ✅ |
 | 11 | Proposta de valor | Keiko Mori | ✅ |
 | 12 | Criação de valor | Keiko Mori | ✅ |
-| 13 | Conclusão do módulo (recap + teste) | Tera | 🟡 recap ✅ · teste da Letícia ⬜ |
+| 13 | Conclusão do módulo (recap + teste) | Tera | ✅ teste feito pela Letícia (18/11) |
 | 14 | Ferramentas para Product Managers | Time Tera | ✅ |
 | 15 | Desafio do Mercado: Mitigação de Riscos em um Marketplace | Diego Poblete | ✅ |
 
