@@ -1583,6 +1583,42 @@ flowchart LR
 
 </details>
 
+### Quiz comentado das aulas 11, 12, 14 e 15 / Lessons 11–15 quiz
+**Resultado: 15 de 16 ✅** (18/11/2026) · A aula 13 é o teste oficial da plataforma, feito pela Letícia.
+
+| # | Aula | Pergunta | Resposta certa | Eu |
+|---|---|---|---|---|
+| 1 | 11 | Problem Solution Fit? | Problema validado + principais hipóteses de solução validadas | ✅ |
+| 2 | 11 | Por que começar o canvas pelo lado direito? | Foco no cliente antes da solução | ✅ |
+| 3 | 11 | SOM do sabão em pó premium? | Classes A e B (fatia realisticamente capturável) | ✅ |
+| 4 | 11 | **Concierge × Mágico de Oz?** | **Nos dois há um humano por trás; no concierge o cliente sabe, no Mágico de Oz não** | ❌ revisar |
+| 5 | 11 | Shopify, Nubank e Sebrae? | Falam de valor, não de produto | ✅ |
+| 6 | 12 | Preço × valor (Buffett)? | Preço é o que você paga; valor é o que você leva | ✅ |
+| 7 | 12 | Ordem para criar valor? | Segmento → persona → problema → solução → cumprir o prometido | ✅ |
+| 8 | 12 | Estilo de vida, personalidade, status social? | Psicográfico | ✅ |
+| 9 | 12 | Pilares do Starbucks? | Café, filosofia do serviço, ambiente da loja | ✅ |
+| 10 | 14 | Post-its da mesma cor na CSD? | Eles mudam de coluna conforme se aprende | ✅ |
+| 11 | 14 | Proto-persona × persona? | Hipóteses do time × pesquisa com pessoas reais | ✅ |
+| 12 | 14 | O que evitar na impacto × esforço? | Baixo impacto e alto esforço | ✅ |
+| 13 | 14 | "Won't have (this time)"? | Evitar aumento de escopo neste período | ✅ |
+| 14 | 15 | Suposição mãe? | A central: se cair, todo o resto cai | ✅ |
+| 15 | 15 | Por qual risco começar? | Desejabilidade | ✅ |
+| 16 | 15 | Por que não focar em dark kitchen e pizza? | São soluções que só importam se a suposição mãe for verdade | ✅ |
+
+💡 🇧🇷 **Para lembrar (pergunta 4): os 5 tipos de MVP lado a lado**
+
+| MVP | O que existe de verdade? | O cliente sabe? |
+|---|---|---|
+| **Landing page test** | Só uma página contando a proposta de valor | — |
+| **Fake door** | Um botão ou funcionalidade que **aparece, mas não funciona** (mede o clique) | Descobre ao clicar |
+| **Concierge** | O serviço funciona, mas **um humano faz tudo** à mão | ✅ **Sabe** que é uma pessoa |
+| **Mágico de Oz** | O serviço funciona, mas **um humano faz tudo escondido** | ❌ **Não sabe**: acha que é automático |
+| **Vídeo** | Só um vídeo de apresentação (mede as visualizações) | — |
+
+**Por que as outras opções estavam erradas:** "página teste e vídeo" são outros dois tipos de MVP; "aparece mas não funciona" é o *fake door*; e "não há diferença" está errado porque a professora diz que eles são fáceis de confundir, mas são diferentes.
+
+Truque: no filme, o **Mágico de Oz** é um homem comum **escondido atrás da cortina**. Já o **concierge** de hotel **aparece** e te atende cara a cara.
+
 ---
 
 ## Para aprofundar (indicações das aulas 1 a 6) / Go deeper (from lessons 1–6)
