@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" role="img" aria-labelledby="t d" font-family="Inter, sans-serif">
+  <title id="t">Os 5 Vs do Big Data</title>
+  <desc id="d">Cinco cartões lado a lado: Volume (quantidade enorme de dados, sem precedentes), Velocidade (ler e processar em tempo hábil), Variedade (texto, imagem, áudio, vídeo, cliques), Veracidade (dados confiáveis, consistentes, sem duplicidade) e Valor (o que dá para extrair de acordo com o propósito do negócio). Abaixo, a frase: analisar muitos dados não faz um bom analista; entender o que os dados contam, sim.</desc>
+  <rect width="960" height="520" fill="#FFFFFF"/>
+  <text x="40" y="58" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">Os</text>
+  <rect x="88" y="32" width="68" height="34" rx="3" fill="#DFFF00"/>
+  <text x="122" y="58" text-anchor="middle" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">5 Vs</text>
+  <text x="168" y="58" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">do Big Data</text>
+  <text x="40" y="88" font-size="14" font-weight="700" letter-spacing="1.6" fill="#5E5E5E">UM GRANDE CONJUNTO DE DADOS, DE MUITAS FONTES E FORMATOS</text>
+
+  <g stroke="#0D0D0D" stroke-width="2" fill="#FFFFFF">
+    <rect x="40" y="114" width="164" height="270" rx="12"/>
+    <rect x="219" y="114" width="164" height="270" rx="12"/>
+    <rect x="398" y="114" width="164" height="270" rx="12"/>
+    <rect x="577" y="114" width="164" height="270" rx="12"/>
+    <rect x="756" y="114" width="164" height="270" rx="12"/>
+  </g>
+  <g font-size="48" font-weight="900" fill="#A0B300" letter-spacing="-1">
+    <text x="58" y="176">V</text><text x="237" y="176">V</text><text x="416" y="176">V</text><text x="595" y="176">V</text><text x="774" y="176">V</text>
+  </g>
+  <g font-size="20" font-weight="900" fill="#0D0D0D" letter-spacing="-0.3">
+    <text x="58" y="214">Volume</text><text x="237" y="214">Velocidade</text><text x="416" y="214">Variedade</text><text x="595" y="214">Veracidade</text><text x="774" y="214">Valor</text>
+  </g>
+  <g font-size="14" fill="#0D0D0D">
+    <text x="58" y="246">Quantidade</text><text x="58" y="266">enorme, sem</text><text x="58" y="286">precedentes</text>
+    <text x="237" y="246">Ler e processar</text><text x="237" y="266">em tempo hábil</text>
+    <text x="416" y="246">Texto, imagem,</text><text x="416" y="266">áudio, vídeo,</text><text x="416" y="286">cliques, passos…</text>
+    <text x="595" y="246">Dados confiáveis</text><text x="595" y="266">e consistentes</text>
+    <text x="774" y="246">O que dá para</text><text x="774" y="266">extrair, conforme</text><text x="774" y="286">o propósito do</text><text x="774" y="306">negócio</text>
+  </g>
+  <g font-size="12" fill="#5E5E5E">
+    <text x="58" y="346">+9 mil TB em</text><text x="58" y="364">6 minutos (2020)</text>
+    <text x="237" y="346">500 h de vídeo no</text><text x="237" y="364">YouTube por minuto</text>
+    <text x="416" y="346">"Hoje, dado</text><text x="416" y="364">é tudo"</text>
+    <text x="595" y="346">Tem linha</text><text x="595" y="364">duplicada?</text>
+    <text x="774" y="346">Segmentar clientes,</text><text x="774" y="364">otimizar exames…</text>
+  </g>
+
+  <rect x="40" y="404" width="880" height="62" rx="12" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1.5"/>
+  <text x="60" y="430" font-size="15" fill="#0D0D0D">Analisar <tspan font-weight="700">muitos</tspan> dados não faz um bom analista.</text>
+  <text x="60" y="452" font-size="15" fill="#0D0D0D">Entender o que os dados <tspan font-weight="700">contam</tspan>, com ética, e levar isso para a decisão, sim.</text>
+
+  <line x1="40" y1="486" x2="920" y2="486" stroke="#A0B300" stroke-width="1.5"/>
+  <text x="40" y="506" font-size="12" fill="#5E5E5E">Redesenho de estudo · Módulo 02 · Introdução aos Dados em Produtos Digitais (DPL · Tera)</text>
+</svg>

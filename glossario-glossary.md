@@ -82,3 +82,11 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | OKR | Objectives and Key Results | Objetivo que engaja + resultados-chave que medem o quão perto se está · Goal-setting method | DPL 01 · Ferramentas para PMs |
 | Suposição mãe | Core (mother) assumption | A suposição central: se ela não for verdade, todo o resto cai; seus riscos são os primeiros a mitigar · The assumption everything else depends on | DPL 01 · Desafio do mercado |
 | Cozinha fantasma | Dark kitchen | Cozinha só para delivery, citada como uma das suposições do desafio · Delivery-only kitchen | DPL 01 · Desafio do mercado |
+| Big Data | Big Data | Grande conjunto de dados de muitas fontes e formatos, descrito pelos 5 Vs: volume, velocidade, variedade, veracidade e valor · Large, varied datasets | DPL 02 · Introdução aos Dados |
+| Dados estruturados / não estruturados / semiestruturados | Structured / unstructured / semi-structured data | Formato fixo (planilha) / forma desconhecida (foto, post) / conteúdo livre com "etiquetas" (foto enviada por e-mail) · Data types by format | DPL 02 · Introdução aos Dados |
+| Letramento em dados | Data literacy | Saber ler dados no contexto do negócio, coletá-los e gerenciá-los com olhar crítico, e comunicar com dados · Reading, handling and communicating data | DPL 02 · Introdução aos Dados |
+| Cultura data-driven | Data-driven culture | Toda decisão, da mais micro à mais macro, orientada por dados, em todos os níveis da empresa · Decisions guided by data | DPL 02 · Introdução aos Dados |
+| Maturidade de dados | Data maturity | Estágios de uso de dados: resistente, curiosa, tática, estratégica e data-driven · Stages of data use | DPL 02 · Introdução aos Dados |
+| Correlação × causalidade | Correlation vs causation | Duas variáveis que andam juntas não significam que uma causa a outra · Related is not caused | DPL 02 · Introdução aos Dados |
+| Vieses de decisão | Decision biases | Padrão, curto prazo e ganho (enquadramento): distorcem a leitura dos dados e a decisão · Pattern, short-term, gain framing | DPL 02 · Introdução aos Dados |
+| NPS | Net Promoter Score | (Também na aula 11 do Módulo 01) Aqui, usado para medir a satisfação dos restaurantes com o iFood · Satisfaction score | DPL 02 · Introdução aos Dados |

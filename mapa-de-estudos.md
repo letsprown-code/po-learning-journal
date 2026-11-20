@@ -103,15 +103,15 @@ As skills de cada módulo entram aqui quando ele começar, a partir dos objetivo
 
 ~~~mermaid
 flowchart TD
-    N1["✅ 1 Depois da base, é hora de medir"] --> N2["⬜ 2 Introdução aos Dados"] --> N3["⬜ 3 Introdução aos KPIs"]
+    N1["✅ 1 Depois da base, é hora de medir"] --> N2["✅ 2 Introdução aos Dados"] --> N3["⬜ 3 Introdução aos KPIs"]
     N3 --> N4["⬜ 4 Definição e Comunicação de KPIs"] --> N5["⬜ 5 Métricas para Produtos e Negócios"] --> N6["⬜ 6 Teste de Hipóteses"]
     N6 --> N7["⬜ 7 Tracking Plan"] --> N8["⬜ 8 Cultura de Analytics"] --> N9["⬜ 9 SQL para PMs"]
     N9 --> N10["⬜ 10 Conclusão + teste"] --> N11["⬜ 11 Desafio: decisão com KPI"]
     N11 --> B2{{"🔒 Badge: Métricas"}}
     classDef done fill:#d4edda,stroke:#155724,color:#155724
     classDef todo fill:#f8f9fa,stroke:#6c757d,color:#343a40
-    class N1 done
-    class N2,N3,N4,N5,N6,N7,N8,N9,N10,N11,B2 todo
+    class N1,N2 done
+    class N3,N4,N5,N6,N7,N8,N9,N10,N11,B2 todo
 ~~~
 
 ### Skills do módulo / Module skills
@@ -119,3 +119,6 @@ flowchart TD
 | Skill | Aula que desbloqueia / Unlocked by | Situação |
 |---|---|---|
 | Explicar por que o produto precisa de **evidência** (métricas), não só de propósito: "percepção não é validação" | 1 Depois da base | 🔓 |
+| Explicar o que é **Big Data** (5 Vs) e diferenciar dados **estruturados, não estruturados e semiestruturados** | 2 Introdução aos Dados | 🔓 |
+| Reconhecer o **letramento em dados** (ler, coletar e gerenciar, comunicar) e a **maturidade de dados** de uma empresa (de resistente a data-driven) | 2 Introdução aos Dados | 🔓 |
+| Evitar **vieses de decisão** (padrão, curto prazo, ganho) e lembrar que **correlação não é causalidade** | 2 Introdução aos Dados | 🔓 |
