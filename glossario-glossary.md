@@ -90,3 +90,12 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Correlação × causalidade | Correlation vs causation | Duas variáveis que andam juntas não significam que uma causa a outra · Related is not caused | DPL 02 · Introdução aos Dados |
 | Vieses de decisão | Decision biases | Padrão, curto prazo e ganho (enquadramento): distorcem a leitura dos dados e a decisão · Pattern, short-term, gain framing | DPL 02 · Introdução aos Dados |
 | NPS | Net Promoter Score | (Também na aula 11 do Módulo 01) Aqui, usado para medir a satisfação dos restaurantes com o iFood · Satisfaction score | DPL 02 · Introdução aos Dados |
+| KPI | Key Performance Indicator | Indicador-chave ligado a um objetivo de negócio; mensurável, relevante e com direção clara · Key indicator tied to a business goal | DPL 02 · Introdução aos KPIs |
+| CAC | Customer Acquisition Cost | Custo de aquisição de cliente; KPI de produtividade (quanto menor, melhor) · Cost to acquire a customer | DPL 02 · Introdução aos KPIs |
+| ROI | Return on Investment | Retorno para cada real investido · Return per amount invested | DPL 02 · Introdução aos KPIs |
+| SLA | Service Level Agreement | Acordo de nível de serviço: em quanto tempo a empresa atende; KPI de qualidade · Agreed response time | DPL 02 · Introdução aos KPIs |
+| Market share | Market share | Fatia do mercado que a empresa tem; KPI de estratégia · Share of the market | DPL 02 · Introdução aos KPIs |
+| Churn | Churn rate | Taxa de evasão: clientes ou assinantes que deixam o produto · Rate of customers leaving | DPL 02 · Introdução aos KPIs |
+| Abandono de carrinho | Cart abandonment | Quem coloca no carrinho e não finaliza a compra · Carts left unpaid | DPL 02 · Introdução aos KPIs |
+| Lead / lead qualificado | Lead / qualified lead | Quem demonstra interesse / quem já deixou contato e histórico para o comercial · Interested vs qualified prospect | DPL 02 · Introdução aos KPIs |
+| Pipeline × plataforma | Pipeline vs platform | Fluxo da matéria-prima ao produto final × modelo que conecta produtores e consumidores · Linear vs multi-sided business | DPL 02 · Introdução aos KPIs |
