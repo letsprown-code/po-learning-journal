@@ -154,3 +154,11 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Bounce rate | Bounce rate | Pessoa chega e sai logo, sem ação que gere resultado · Leave without acting | DPL 02 · Cultura de Analytics |
 | Tempo de sessão | Session duration | Quanto tempo a pessoa fica; pode ser bom (conteúdo) ou ruim (cadastro) · Context-dependent | DPL 02 · Cultura de Analytics |
 | Concierge | Concierge test | Simular o serviço manualmente antes de existir tecnologia · Manual simulation | DPL 02 · Cultura de Analytics |
+| SQL | SQL (Structured Query Language) | Linguagem para "conversar" com bancos de dados relacionais · Language to query databases | DPL 02 · SQL para PMs |
+| Banco de dados relacional | Relational database | Tabelas em que cada linha é um registro com ID único (chave) e as colunas são atributos · Tables linked by keys | DPL 02 · SQL para PMs |
+| Chave | Key | ID único de cada registro, que permite relacionar tabelas · Unique record ID | DPL 02 · SQL para PMs |
+| Consulta | Query | Pedido de dados ao banco; a resposta é uma tabela de resultados · Request for data | DPL 02 · SQL para PMs |
+| Tabela de resultados | Result set | O que a consulta devolve, sem alterar o banco · Query output | DPL 02 · SQL para PMs |
+| CRUD | CRUD | Create, Retrieve, Update, Delete; a PM costuma só ler (retrieve) · Four data operations | DPL 02 · SQL para PMs |
+| Alias | Alias | Apelido dado a uma coluna com AS · Column nickname | DPL 02 · SQL para PMs |
+| Coringa | Wildcard (%) | Representa um ou mais caracteres numa busca com LIKE · Matches any characters | DPL 02 · SQL para PMs |

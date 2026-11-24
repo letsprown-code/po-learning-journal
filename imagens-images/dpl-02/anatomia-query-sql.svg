@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" role="img" aria-labelledby="t d" font-family="Inter, sans-serif">
+  <title id="t">Anatomia de uma consulta SQL</title>
+  <desc id="d">Exemplo da aula: SELECT * FROM inventario ORDER BY vendas DESC LIMIT 3; responde à pergunta quais são os 3 itens mais vendidos do inventário. Cada parte: SELECT diz que você quer extrair dados; o asterisco significa tudo, todas as colunas; FROM indica a tabela, inventario; ORDER BY vendas DESC ordena pela coluna vendas do maior para o menor; LIMIT 3 mostra só 3 linhas; o ponto e vírgula encerra a instrução. A consulta não altera os dados, só gera uma tabela de resultados. Toda consulta começa por uma pergunta de negócio.</desc>
+  <rect width="960" height="520" fill="#FFFFFF"/>
+  <text x="40" y="58" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">Anatomia de uma</text>
+  <rect x="314" y="32" width="92" height="34" rx="3" fill="#DFFF00"/>
+  <text x="360" y="58" text-anchor="middle" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">query</text>
+  <text x="40" y="88" font-size="14" font-weight="700" letter-spacing="1.6" fill="#5E5E5E">TODA CONSULTA COMEÇA POR UMA PERGUNTA DE NEGÓCIO</text>
+
+  <rect x="40" y="112" width="880" height="56" rx="12" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1.5"/>
+  <text x="64" y="147" font-size="18" fill="#0D0D0D"><tspan font-weight="700">Pergunta:</tspan> quais são os 3 itens mais vendidos do inventário?</text>
+
+  <rect x="40" y="190" width="880" height="76" rx="12" fill="#FFFFFF" stroke="#0D0D0D" stroke-width="2"/>
+  <g font-family="'DejaVu Sans Mono', monospace" font-size="24" fill="#0D0D0D">
+    <text x="64" y="238"><tspan font-weight="700">SELECT</tspan> * <tspan font-weight="700">FROM</tspan> inventario <tspan font-weight="700">ORDER BY</tspan> vendas <tspan font-weight="700">DESC</tspan> <tspan font-weight="700">LIMIT</tspan> 3;</text>
+  </g>
+
+  <g stroke="#A0B300" stroke-width="2">
+    <line x1="106" y1="266" x2="106" y2="300"/>
+    <line x1="223" y1="266" x2="223" y2="300"/>
+    <line x1="560" y1="266" x2="560" y2="300"/>
+    <line x1="765" y1="266" x2="765" y2="300"/>
+    <line x1="840" y1="266" x2="840" y2="300"/>
+  </g>
+  <g stroke="#E0E0E0" stroke-width="1.5" fill="#FFFFFF">
+    <rect x="40" y="300" width="130" height="110" rx="10"/>
+    <rect x="180" y="300" width="160" height="110" rx="10"/>
+    <rect x="350" y="300" width="280" height="110" rx="10"/>
+    <rect x="640" y="300" width="160" height="110" rx="10"/>
+    <rect x="810" y="300" width="110" height="110" rx="10"/>
+  </g>
+  <g font-size="15" fill="#0D0D0D">
+    <text x="56" y="328" font-weight="700">SELECT *</text>
+    <text x="56" y="352" fill="#5E5E5E" font-size="14">extrair dados;</text>
+    <text x="56" y="372" fill="#5E5E5E" font-size="14">* = todas as</text>
+    <text x="56" y="392" fill="#5E5E5E" font-size="14">colunas</text>
+    <text x="196" y="328" font-weight="700">FROM tabela</text>
+    <text x="196" y="352" fill="#5E5E5E" font-size="14">de onde vêm</text>
+    <text x="196" y="372" fill="#5E5E5E" font-size="14">os dados</text>
+    <text x="366" y="328" font-weight="700">ORDER BY coluna DESC</text>
+    <text x="366" y="352" fill="#5E5E5E" font-size="14">ordena do maior para o menor</text>
+    <text x="366" y="372" fill="#5E5E5E" font-size="14">(ASC: do menor para o maior)</text>
+    <text x="656" y="328" font-weight="700">LIMIT 3</text>
+    <text x="656" y="352" fill="#5E5E5E" font-size="14">mostra só</text>
+    <text x="656" y="372" fill="#5E5E5E" font-size="14">3 linhas</text>
+    <text x="826" y="328" font-weight="700">;</text>
+    <text x="826" y="352" fill="#5E5E5E" font-size="14">fim da</text>
+    <text x="826" y="372" fill="#5E5E5E" font-size="14">instrução</text>
+  </g>
+  <text x="40" y="452" font-size="15" fill="#0D0D0D">Operadores em MAIÚSCULAS (boa prática) · nomes de tabelas e colunas vêm do banco do seu produto</text>
+  <text x="40" y="478" font-size="15" fill="#5E5E5E">A consulta não altera o banco: só gera uma tabela de resultados (result set)</text>
+</svg>
