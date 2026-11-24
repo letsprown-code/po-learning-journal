@@ -104,3 +104,19 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Framework Karta | Karta KPI framework | Metas → fatores críticos de sucesso → métricas → medidas → alguns indicadores promovidos a KPI · From goals to KPIs | DPL 02 · Definição e Comunicação de KPIs |
 | Jornada do cliente | Customer journey | Conhecimento, consideração, compra, serviço e lealdade · Awareness to loyalty | DPL 02 · Definição e Comunicação de KPIs |
 | Storytelling com dados | Data storytelling | Contar a história dos KPIs com gráficos acionáveis e honestos (sem cortar a linha de base) · Telling stories with data | DPL 02 · Definição e Comunicação de KPIs |
+| Métrica de vaidade | Vanity metric | Número absoluto sem contexto, que não ajuda a decidir (ex.: "100 mil downloads") · Number without context | DPL 02 · Métricas para Produtos e Negócios |
+| Dado → medida → informação → métrica | Data → measure → information → metric | A escada que transforma dados soltos numa métrica que responde à pergunta-raiz · From raw data to a metric | DPL 02 · Métricas para Produtos e Negócios |
+| Outcome × output | Outcome vs output | Resultado (o troféu) × entrega (a tacada) · Result vs delivery | DPL 02 · Métricas para Produtos e Negócios |
+| Boundary metrics | Boundary metrics | Métricas de limite que vigiam se a busca pela North Star não prejudica outra coisa · Guardrail metrics | DPL 02 · Métricas para Produtos e Negócios |
+| Constelação de métricas | Metrics constellation | Relação entre métricas de saída (output: receita, retenção) e de entrada (input: CAC, cadastro) · Input and output metrics | DPL 02 · Métricas para Produtos e Negócios |
+| AARRR (métricas piratas) | Pirate metrics | Aquisição, ativação, retenção, indicação e receita; visão de crescimento (Dave McClure) · Growth framework | DPL 02 · Métricas para Produtos e Negócios |
+| DAU / WAU / MAU | Daily / weekly / monthly active users | Usuários ativos no período ÷ total × 100 · Active users ratio | DPL 02 · Métricas para Produtos e Negócios |
+| MRR / ARPU / ARPA | Monthly Recurring Revenue / Avg Revenue per User / per Account | Receita recorrente mensal, por usuário que paga ou por conta com vários usuários · Recurring revenue | DPL 02 · Métricas para Produtos e Negócios |
+| LTV | Lifetime Value | ARPA × período × margem bruta ÷ churn; comparar com o CAC (referência citada: 3 vezes) · Customer lifetime value | DPL 02 · Métricas para Produtos e Negócios |
+| Coeficiente viral | Viral coefficient | Novos usuários via convite ÷ total; referência citada para PMF: 0,7 · Word-of-mouth ratio | DPL 02 · Métricas para Produtos e Negócios |
+| CSAT | Customer Satisfaction | Nota de satisfação de cada tarefa (ex.: estrelas da corrida); comportamental · Task satisfaction score | DPL 02 · Métricas para Produtos e Negócios |
+| Motores de crescimento | Engines of growth | Pago (LTV × CAC), aderência (churn × crescimento) e viral (coeficiente viral) · Paid, sticky, viral | DPL 02 · Métricas para Produtos e Negócios |
+| Análise de coorte (safra) | Cohort analysis | Comparar grupos que entraram no mesmo período ao longo do tempo · Comparing user cohorts | DPL 02 · Métricas para Produtos e Negócios |
+| Teste A/B / multivariado | A/B / multivariate test | Mudar uma coisa (com grupo controle) / várias coisas e ver as correlações · Controlled experiments | DPL 02 · Métricas para Produtos e Negócios |
+| Framework CRESCER | CRESCER framework | Entrada, engajamento, conversão, retenção, receita, satisfação e compartilhamento (Igor Torres, 2021) · Journey-based metrics framework | DPL 02 · Métricas para Produtos e Negócios |
+| Sandbagging | Sandbagging | "Saco de areia": propor metas baixas para bater o bônus · Lowballing targets | DPL 02 · Métricas para Produtos e Negócios |

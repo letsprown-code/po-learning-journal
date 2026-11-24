@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" role="img" aria-labelledby="t d" font-family="Inter, sans-serif">
+  <title id="t">AARRR e HEART: dois frameworks de métricas</title>
+  <desc id="d">À esquerda, AARRR, as métricas piratas de Dave McClure: aquisição, ativação, retenção, indicação e receita, com métricas citadas (custo por lead, CAC, DAU WAU MAU e churn, coeficiente viral e NPS, MRR e LTV). Visão de crescimento do negócio, usada por growth e marketing. À direita, HEART, do Google: felicidade, engajamento, adoção, retenção e sucesso da tarefa. Visão de performance do produto, usada por design. Nota: nos dois, as etapas são relações, não um funil rígido.</desc>
+  <rect width="960" height="520" fill="#FFFFFF"/>
+  <text x="40" y="58" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">Dois</text>
+  <rect x="124" y="32" width="172" height="34" rx="3" fill="#DFFF00"/>
+  <text x="210" y="58" text-anchor="middle" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">frameworks</text>
+  <text x="306" y="58" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">de métricas</text>
+  <text x="40" y="88" font-size="14" font-weight="700" letter-spacing="1.6" fill="#5E5E5E">QUAIS MÉTRICAS USAR? DEPENDE DO QUE VOCÊ QUER ENXERGAR</text>
+
+  <g stroke="#0D0D0D" stroke-width="2" fill="#FFFFFF">
+    <rect x="40" y="110" width="430" height="350" rx="12"/>
+    <rect x="490" y="110" width="430" height="350" rx="12"/>
+  </g>
+  <text x="64" y="148" font-size="24" font-weight="900" fill="#0D0D0D" letter-spacing="-0.4">AARRR · métricas piratas</text>
+  <text x="64" y="172" font-size="13" fill="#5E5E5E">Crescimento do negócio · growth e marketing · Dave McClure</text>
+  <text x="514" y="148" font-size="24" font-weight="900" fill="#0D0D0D" letter-spacing="-0.4">HEART</text>
+  <text x="514" y="172" font-size="13" fill="#5E5E5E">Performance do produto · design · Google</text>
+
+  <g font-size="15" fill="#0D0D0D">
+    <text x="64" y="212"><tspan font-weight="900" font-size="18">A</tspan>  Aquisição</text><text x="250" y="212" fill="#5E5E5E" font-size="13">visitantes, custo por lead</text>
+    <text x="64" y="254"><tspan font-weight="900" font-size="18">A</tspan>  Ativação</text><text x="250" y="254" fill="#5E5E5E" font-size="13">CAC</text>
+    <text x="64" y="296"><tspan font-weight="900" font-size="18">R</tspan>  Retenção</text><text x="250" y="296" fill="#5E5E5E" font-size="13">DAU/WAU/MAU, churn</text>
+    <text x="64" y="338"><tspan font-weight="900" font-size="18">R</tspan>  Indicação</text><text x="250" y="338" fill="#5E5E5E" font-size="13">coeficiente viral, NPS</text>
+    <text x="64" y="380"><tspan font-weight="900" font-size="18">R</tspan>  Receita</text><text x="250" y="380" fill="#5E5E5E" font-size="13">MRR, ARPU/ARPA, LTV</text>
+
+    <text x="514" y="212"><tspan font-weight="900" font-size="18">H</tspan>  Felicidade</text><text x="700" y="212" fill="#5E5E5E" font-size="13">satisfação, NPS, CSAT</text>
+    <text x="514" y="254"><tspan font-weight="900" font-size="18">E</tspan>  Engajamento</text><text x="700" y="254" fill="#5E5E5E" font-size="13">como interage</text>
+    <text x="514" y="296"><tspan font-weight="900" font-size="18">A</tspan>  Adoção</text><text x="700" y="296" fill="#5E5E5E" font-size="13">downloads, cadastros</text>
+    <text x="514" y="338"><tspan font-weight="900" font-size="18">R</tspan>  Retenção</text><text x="700" y="338" fill="#5E5E5E" font-size="13">se continua interagindo</text>
+    <text x="514" y="380"><tspan font-weight="900" font-size="18">T</tspan>  Sucesso da tarefa</text><text x="720" y="380" fill="#5E5E5E" font-size="13">conversão do job</text>
+  </g>
+  <text x="64" y="430" font-size="13" fill="#0D0D0D">Usuário é quem usa · cliente é quem paga</text>
+  <text x="514" y="430" font-size="13" fill="#0D0D0D">Serve para o produto todo ou para uma feature</text>
+
+  <line x1="40" y1="482" x2="920" y2="482" stroke="#A0B300" stroke-width="1.5"/>
+  <text x="40" y="504" font-size="12" fill="#5E5E5E">Nos dois, as etapas são relações, não um funil rígido · Módulo 02 · Métricas para Produtos e Negócios (DPL · Tera)</text>
+</svg>
