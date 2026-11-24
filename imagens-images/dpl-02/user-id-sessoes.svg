@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-labelledby="t d" font-family="Inter, sans-serif">
+  <title id="t">Sem User ID e com User ID</title>
+  <desc id="d">Exemplo da aula: a mesma pessoa acessa o produto pelo celular, pelo computador e pelo tablet. Sem User ID (implementação básica), a ferramenta conta 3 devices, 3 sessões e 3 usuários, porque identifica o usuário pelo IP ou pelo device. Com User ID (a pessoa faz login e recebe uma identidade), continuam 3 devices e 3 sessões, mas a ferramenta conta 1 usuário só e liga todas as ações a ele.</desc>
+  <rect width="960" height="560" fill="#FFFFFF"/>
+  <text x="40" y="58" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">Uma pessoa, três devices:</text>
+  <rect x="452" y="32" width="138" height="34" rx="3" fill="#DFFF00"/>
+  <text x="521" y="58" text-anchor="middle" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">User ID</text>
+  <text x="40" y="88" font-size="14" font-weight="700" letter-spacing="1.6" fill="#5E5E5E">COMO A FERRAMENTA DE ANALYTICS CONTA SESSÕES E USUÁRIOS</text>
+
+  <g stroke="#0D0D0D" stroke-width="2" fill="#FFFFFF">
+    <rect x="40" y="112" width="430" height="400" rx="12"/>
+    <rect x="490" y="112" width="430" height="400" rx="12"/>
+  </g>
+  <text x="64" y="150" font-size="22" font-weight="900" letter-spacing="-0.4" fill="#0D0D0D">Sem User ID</text>
+  <text x="64" y="174" font-size="14" fill="#5E5E5E">Implementação básica: usuário = IP ou device</text>
+  <text x="514" y="150" font-size="22" font-weight="900" letter-spacing="-0.4" fill="#0D0D0D">Com User ID</text>
+  <text x="514" y="174" font-size="14" fill="#5E5E5E">A pessoa faz login e ganha uma identidade</text>
+
+  <!-- device rows left -->
+  <g font-size="15" fill="#0D0D0D">
+    <g stroke="#E0E0E0" stroke-width="1.5" fill="#FFFFFF">
+      <rect x="64" y="200" width="120" height="44" rx="8"/><rect x="64" y="258" width="120" height="44" rx="8"/><rect x="64" y="316" width="120" height="44" rx="8"/>
+      <rect x="214" y="200" width="100" height="44" rx="8"/><rect x="214" y="258" width="100" height="44" rx="8"/><rect x="214" y="316" width="100" height="44" rx="8"/>
+      <rect x="344" y="200" width="100" height="44" rx="8"/><rect x="344" y="258" width="100" height="44" rx="8"/><rect x="344" y="316" width="100" height="44" rx="8"/>
+    </g>
+    <text x="124" y="227" text-anchor="middle">Celular</text><text x="124" y="285" text-anchor="middle">Computador</text><text x="124" y="343" text-anchor="middle">Tablet</text>
+    <text x="264" y="227" text-anchor="middle">Sessão 1</text><text x="264" y="285" text-anchor="middle">Sessão 2</text><text x="264" y="343" text-anchor="middle">Sessão 3</text>
+    <text x="394" y="227" text-anchor="middle">User A</text><text x="394" y="285" text-anchor="middle">User B</text><text x="394" y="343" text-anchor="middle">User C</text>
+  </g>
+  <g stroke="#5E5E5E" stroke-width="1.5">
+    <line x1="184" y1="222" x2="214" y2="222"/><line x1="184" y1="280" x2="214" y2="280"/><line x1="184" y1="338" x2="214" y2="338"/>
+    <line x1="314" y1="222" x2="344" y2="222"/><line x1="314" y1="280" x2="344" y2="280"/><line x1="314" y1="338" x2="344" y2="338"/>
+  </g>
+  <line x1="64" y1="392" x2="446" y2="392" stroke="#E0E0E0" stroke-width="1.5"/>
+  <text x="64" y="428" font-size="18" font-weight="700" fill="#0D0D0D">3 devices · 3 sessões · 3 usuários</text>
+  <text x="64" y="456" font-size="14" fill="#5E5E5E">Uma pessoa só, contada como três</text>
+  <text x="64" y="480" font-size="14" fill="#5E5E5E">As sessões não conversam entre si</text>
+
+  <!-- right -->
+  <g font-size="15" fill="#0D0D0D">
+    <g stroke="#E0E0E0" stroke-width="1.5" fill="#FFFFFF">
+      <rect x="514" y="200" width="120" height="44" rx="8"/><rect x="514" y="258" width="120" height="44" rx="8"/><rect x="514" y="316" width="120" height="44" rx="8"/>
+      <rect x="664" y="200" width="100" height="44" rx="8"/><rect x="664" y="258" width="100" height="44" rx="8"/><rect x="664" y="316" width="100" height="44" rx="8"/>
+    </g>
+    <rect x="794" y="200" width="102" height="160" rx="8" fill="#FFFFFF" stroke="#0D0D0D" stroke-width="2"/>
+    <text x="574" y="227" text-anchor="middle">Celular</text><text x="574" y="285" text-anchor="middle">Computador</text><text x="574" y="343" text-anchor="middle">Tablet</text>
+    <text x="714" y="227" text-anchor="middle">Sessão 1</text><text x="714" y="285" text-anchor="middle">Sessão 2</text><text x="714" y="343" text-anchor="middle">Sessão 3</text>
+    <text x="845" y="276" text-anchor="middle" font-weight="700">User ID</text><text x="845" y="298" text-anchor="middle">1 pessoa</text>
+  </g>
+  <g stroke="#5E5E5E" stroke-width="1.5" fill="none">
+    <line x1="634" y1="222" x2="664" y2="222"/><line x1="634" y1="280" x2="664" y2="280"/><line x1="634" y1="338" x2="664" y2="338"/>
+    <line x1="764" y1="222" x2="794" y2="260"/><line x1="764" y1="280" x2="794" y2="280"/><line x1="764" y1="338" x2="794" y2="300"/>
+  </g>
+  <line x1="514" y1="392" x2="896" y2="392" stroke="#E0E0E0" stroke-width="1.5"/>
+  <text x="514" y="428" font-size="18" font-weight="700" fill="#0D0D0D">3 devices · 3 sessões · 1 usuário</text>
+  <text x="514" y="456" font-size="14" fill="#5E5E5E">Dá para ver tudo o que essa pessoa fez</text>
+  <text x="514" y="480" font-size="14" fill="#5E5E5E">Antes do login, dá para usar o ID do device</text>
+</svg>

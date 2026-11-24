@@ -128,3 +128,17 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Teste t / ANOVA | t-test / ANOVA | Compara médias de dois grupos / de mais de dois grupos · Comparing means | DPL 02 · Teste de Hipóteses |
 | Erro do tipo I | Type I error | Concluir que há efeito quando não há · False positive | DPL 02 · Teste de Hipóteses |
 | Frequentista × bayesiano | Frequentist vs Bayesian | Inferência só com os dados do teste × incluindo conhecimento prévio; o padrão é o frequentista · Two inference approaches | DPL 02 · Teste de Hipóteses |
+| Sessão | Session | Começa quando alguém entra no produto; por padrão dura 30 minutos · A visit, 30 min by default | DPL 02 · Tracking Plan |
+| User / User ID | User / User ID | User é medido por IP ou device; o User ID é uma identidade que liga vários devices à mesma pessoa · Device-based user vs assigned identity | DPL 02 · Tracking Plan |
+| Evento | Event | Qualquer ação do usuário registrada (inclusive page view) · Any tracked user action | DPL 02 · Tracking Plan |
+| Dimensão (parâmetro, atributo) | Dimension (parameter, attribute) | Atributo qualitativo de uma métrica, a "perspectiva" (ex.: por cidade) · Qualitative attribute of a metric | DPL 02 · Tracking Plan |
+| Self-service analytics | Self-service analytics | Qualquer pessoa combina métrica, dimensão e período sozinha · Do-it-yourself analysis | DPL 02 · Tracking Plan |
+| Hit / server call | Hit / server call | Cada envio de dado ao servidor da ferramenta; muitas cobram por hit · Each data request | DPL 02 · Tracking Plan |
+| Modelo de atribuição | Attribution model | Regra para atribuir a conversão a uma origem de tráfego (first click, last click…) · Credit for conversions | DPL 02 · Tracking Plan |
+| Tracking plan / plano de mensuração | Tracking / measurement plan | Plano do que medir, ligado ao objetivo, com eventos, parâmetros, nomes e documentação · What to track and why | DPL 02 · Tracking Plan |
+| Mapeamento de eventos | Event map | Telas da jornada lado a lado, marcando onde cada evento dispara e que variáveis leva · Events on journey screens | DPL 02 · Tracking Plan |
+| Paralisia de análise | Analysis paralysis | Dados demais e inúteis travam quem precisa analisar · Too much useless data | DPL 02 · Tracking Plan |
+| Documentação funcional | Functional documentation | Nem exaustiva nem rasa; serve a perfis técnicos e não técnicos · Just enough documentation | DPL 02 · Tracking Plan |
+| Google Tag Manager (container, tag, trigger, variável) | Google Tag Manager | Ferramenta web para gerenciar tags: variáveis preenchem tags, triggers as disparam · Tag management | DPL 02 · Tracking Plan |
+| Dimensão personalizada | Custom dimension | Dimensão própria do seu produto (ex.: tipo de plano), que vira filtro e segmento · Product-specific dimension | DPL 02 · Tracking Plan |
+| Camada de dados | dataLayer | Na web, carrega informações que não aparecem na tela; o GTM lê por padrão · Hidden data for tags | DPL 02 · Tracking Plan |
