@@ -99,3 +99,8 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Abandono de carrinho | Cart abandonment | Quem coloca no carrinho e não finaliza a compra · Carts left unpaid | DPL 02 · Introdução aos KPIs |
 | Lead / lead qualificado | Lead / qualified lead | Quem demonstra interesse / quem já deixou contato e histórico para o comercial · Interested vs qualified prospect | DPL 02 · Introdução aos KPIs |
 | Pipeline × plataforma | Pipeline vs platform | Fluxo da matéria-prima ao produto final × modelo que conecta produtores e consumidores · Linear vs multi-sided business | DPL 02 · Introdução aos KPIs |
+| SMART | SMART goals | Objetivo específico, mensurável, atingível, relevante e temporal · Specific, measurable, achievable, relevant, time-bound | DPL 02 · Definição e Comunicação de KPIs |
+| Resultado-chave | Key Result (KR) | No OKR, o KPI que mede o objetivo; de 2 a 5 por objetivo, com números · Measurable result of an objective | DPL 02 · Definição e Comunicação de KPIs |
+| Framework Karta | Karta KPI framework | Metas → fatores críticos de sucesso → métricas → medidas → alguns indicadores promovidos a KPI · From goals to KPIs | DPL 02 · Definição e Comunicação de KPIs |
+| Jornada do cliente | Customer journey | Conhecimento, consideração, compra, serviço e lealdade · Awareness to loyalty | DPL 02 · Definição e Comunicação de KPIs |
+| Storytelling com dados | Data storytelling | Contar a história dos KPIs com gráficos acionáveis e honestos (sem cortar a linha de base) · Telling stories with data | DPL 02 · Definição e Comunicação de KPIs |
