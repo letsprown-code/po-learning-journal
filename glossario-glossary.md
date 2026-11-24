@@ -142,3 +142,15 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Google Tag Manager (container, tag, trigger, variável) | Google Tag Manager | Ferramenta web para gerenciar tags: variáveis preenchem tags, triggers as disparam · Tag management | DPL 02 · Tracking Plan |
 | Dimensão personalizada | Custom dimension | Dimensão própria do seu produto (ex.: tipo de plano), que vira filtro e segmento · Product-specific dimension | DPL 02 · Tracking Plan |
 | Camada de dados | dataLayer | Na web, carrega informações que não aparecem na tela; o GTM lê por padrão · Hidden data for tags | DPL 02 · Tracking Plan |
+| Cultura de experimentação | Experimentation culture | Experimentar com processo, método e constância, não em ações isoladas · Consistent, process-driven testing | DPL 02 · Cultura de Analytics |
+| Ideia × hipótese | Idea vs hypothesis | Ideia qualquer um tem; hipótese liga objetivo, evidências e como medir · Hypothesis has evidence and a metric | DPL 02 · Cultura de Analytics |
+| Test Card / Learning Card | Test Card / Learning Card | Cartões para estruturar a hipótese antes do teste e registrar o aprendizado depois · Before/after test cards | DPL 02 · Cultura de Analytics |
+| Métrica de saúde | Health metric | Métrica "defensiva" que não pode piorar enquanto a principal melhora (ex.: CAC) · Guardrail metric | DPL 02 · Cultura de Analytics |
+| Árvore de oportunidades | Opportunity solution tree | Objetivo → oportunidades → hipóteses → experimentos · From outcome to experiments | DPL 02 · Cultura de Analytics |
+| ICE / RICE | ICE / RICE | Métodos de priorização (impacto, confiança, facilidade; com alcance no RICE) · Prioritization scores | DPL 02 · Cultura de Analytics |
+| Feature flag | Feature flag | Liberar uma feature para uma fração da base e ampliar aos poucos, podendo voltar atrás · Gradual rollout | DPL 02 · Cultura de Analytics |
+| Teste incremental × de descoberta | Incremental vs discovery test | Melhorar algo que já existe × descobrir se uma ideia vale antes de construir · Improve vs validate | DPL 02 · Cultura de Analytics |
+| Teste multivariável | Multivariate test | Controle contra várias variações ao mesmo tempo · Many variants | DPL 02 · Cultura de Analytics |
+| Bounce rate | Bounce rate | Pessoa chega e sai logo, sem ação que gere resultado · Leave without acting | DPL 02 · Cultura de Analytics |
+| Tempo de sessão | Session duration | Quanto tempo a pessoa fica; pode ser bom (conteúdo) ou ruim (cadastro) · Context-dependent | DPL 02 · Cultura de Analytics |
+| Concierge | Concierge test | Simular o serviço manualmente antes de existir tecnologia · Manual simulation | DPL 02 · Cultura de Analytics |
