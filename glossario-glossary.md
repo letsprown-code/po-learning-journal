@@ -120,3 +120,11 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Teste A/B / multivariado | A/B / multivariate test | Mudar uma coisa (com grupo controle) / várias coisas e ver as correlações · Controlled experiments | DPL 02 · Métricas para Produtos e Negócios |
 | Framework CRESCER | CRESCER framework | Entrada, engajamento, conversão, retenção, receita, satisfação e compartilhamento (Igor Torres, 2021) · Journey-based metrics framework | DPL 02 · Métricas para Produtos e Negócios |
 | Sandbagging | Sandbagging | "Saco de areia": propor metas baixas para bater o bônus · Lowballing targets | DPL 02 · Métricas para Produtos e Negócios |
+| Hipótese nula / alternativa | Null / alternative hypothesis (H0 / H1) | H0: não há efeito (o sinal de igualdade fica nela); H1: há o efeito que você quer ver · No effect vs effect | DPL 02 · Teste de Hipóteses |
+| Nível de confiança / significância (α) | Confidence / significance level | Geralmente 95% / α = 1 − confiança, normalmente 5%, definido antes do teste · Confidence and alpha | DPL 02 · Teste de Hipóteses |
+| Intervalo de confiança | Confidence interval | Faixa de valores em que se acredita estar o valor real da população · Range for the true value | DPL 02 · Teste de Hipóteses |
+| p-valor | p-value | Calculado pelo software e comparado ao α: se p < α, rejeita-se H0 · Compared with alpha | DPL 02 · Teste de Hipóteses |
+| Grupo controle / piloto | Control / treatment group | No teste A/B: o grupo sem mudança / o grupo que recebe o tratamento, divididos aleatoriamente · A/B groups | DPL 02 · Teste de Hipóteses |
+| Teste t / ANOVA | t-test / ANOVA | Compara médias de dois grupos / de mais de dois grupos · Comparing means | DPL 02 · Teste de Hipóteses |
+| Erro do tipo I | Type I error | Concluir que há efeito quando não há · False positive | DPL 02 · Teste de Hipóteses |
+| Frequentista × bayesiano | Frequentist vs Bayesian | Inferência só com os dados do teste × incluindo conhecimento prévio; o padrão é o frequentista · Two inference approaches | DPL 02 · Teste de Hipóteses |
