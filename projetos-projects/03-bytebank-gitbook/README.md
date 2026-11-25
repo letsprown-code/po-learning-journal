@@ -3,7 +3,7 @@
 | Campo / Field | Valor / Value |
 |---|---|
 | Aplica / Applies | [Alura · Technical Writing 02: crie uma documentação do zero com DDLC](../../cursos-courses/alura/technical-writing/02-documentacao-do-zero-com-ddlc.md) |
-| Situação / Status | 🟡 Em andamento / In progress |
+| Situação / Status | ✅ Todas as etapas do DDLC planejadas; documentação com a página de Investimentos |
 | Papel / Role | Tech Writer da Bytebank, um banco digital **fictício** usado no curso |
 | Ferramenta / Tool | GitHub, em Markdown (o curso usa o [Gitbook](https://www.gitbook.com/); escolhemos manter no GitHub) |
 
@@ -20,7 +20,7 @@
 | 3 | Desenvolvimento do conteúdo | [03-escrita-e-revisao.md](03-escrita-e-revisao.md) · [docs/investimentos.md](docs/investimentos.md) | Aula 03 | ✅ |
 | 4 | Edição e revisão | [03-escrita-e-revisao.md](03-escrita-e-revisao.md) | Aula 03 | ✅ |
 | 5 | Publicação e comunicação | [04-publicacao-e-comunicacao.md](04-publicacao-e-comunicacao.md) | Aula 04 | ✅ |
-| 6 | Manutenção e métricas | — | Aula 05 | ⬜ |
+| 6 | Manutenção e métricas | [04-publicacao-e-comunicacao.md](04-publicacao-e-comunicacao.md) (manutenção) · [05-metricas.md](05-metricas.md) | Aulas 04 e 05 | ✅ |
 
 ## Decisão: GitHub em vez de Gitbook / Decision: GitHub instead of Gitbook
 

@@ -22,7 +22,7 @@
 | 2 | Estruturando sua documentação | 8 | ✅ 8/8 na Alura · falta quiz |
 | 3 | Escrita e revisão | 9 | ✅ 9/9 na Alura · falta quiz |
 | 4 | Publicação | 7 | 🟡 Lida, falta exercício + quiz |
-| 5 | Medindo a eficácia da sua documentação | 9 | ⬜ |
+| 5 | Medindo a eficácia da sua documentação | 9 | 🟡 Lida, falta exercício + quiz |
 
 ---
 
@@ -445,6 +445,98 @@ flowchart LR
 
 ---
 
+## Aula 05 · Medindo a eficácia da sua documentação / Measuring effectiveness
+
+### 1. Definição dos indicadores de sucesso
+
+🇧🇷 Dois pontos sobre métricas de documentação:
+1. 🇧🇷 *"You can't manage what you can't measure"* ("você não pode gerenciar aquilo que não consegue medir"): sem métricas, não sabemos o impacto da documentação nem como reverter números ruins.
+2. 🇧🇷 As métricas muitas vezes **vão além da própria documentação**. Ex.: numa empresa com suporte, o sucesso da documentação pode aparecer nos números do suporte.
+
+**Caminho com duas perguntas:**
+
+~~~mermaid
+flowchart LR
+  R["1. Qual resultado espero<br/>com a documentação?"] --> D["2. Quais dados mostram<br/>se estou chegando lá?"]
+~~~
+
+| Resultado esperado | Possíveis dados |
+|---|---|
+| **Aumentar a adoção do produto** (mais pessoas criando conta e usando os serviços da Bytebank) | Número de pessoas que usam o produto (cruzando com as datas de publicação das documentações); percentual de satisfação; taxa de retenção (quem entra e permanece) |
+| **Diminuir casos de suporte** | Número de tickets abertos; número de acessos à documentação; percentual de satisfação |
+
+- 🇧🇷 A métrica da documentação costuma ser **indireta**: vem do **cruzamento** com outros dados, não só do número de acessos.
+- 🇧🇷 Documentação é **subjetiva**: até uma nota de satisfação pode ter vários motivos por trás. Tudo bem **recalcular a rota** da forma de medir.
+- 🇧🇷 Com os dados, planeja-se a rota: atualizar documentações existentes, fazer testes de usabilidade etc.
+
+### 2. Métricas relacionadas aos usuários e à documentação
+
+🇧🇷 Métricas dependem do contexto: empresa, ferramentas e se há times de **BI ou dados** para ajudar.
+
+**Dois grandes grupos:**
+
+| Grupo | Exemplos |
+|---|---|
+| **Métricas da documentação em si** | Número de acessos; páginas mais e menos visitadas; percentual de satisfação ("Gostei"/"Não gostei"; no Gitbook, emojis de rosto feliz, neutro e triste) |
+| **Métricas da pessoa usuária** (mais indiretas) | Feedback com **campo de comentário** além do botão (ex.: Mercado Pago, comentário opcional que traz muito insumo); **pesquisas** (ex.: VTEX, link para um formulário do Google); **testes com pessoas usuárias** (testes de usabilidade com o time de pesquisa e UX, que trazem métricas subjetivas) |
+
+**Fontes de dados:**
+- 🇧🇷 Formulários de feedback.
+- 🇧🇷 **Ferramentas de métricas**: o Gitbook tem uma área de insights; ele e boa parte dos sites se integram ao **Google Analytics** (acessos, usuários únicos, visitas).
+- 🇧🇷 **Entrevistas com pessoas usuárias** (com o time de UX) e dinâmicas internas no time.
+- 🇧🇷 Se houver time de dados ou BI, converse: são especialistas e podem trazer outras fontes.
+
+### 3. Simulando métricas no projeto do curso
+
+🇧🇷 No projeto, duas fontes: os **feedbacks** (da revisão e depois dela) e os dados do **Gitbook** (o que vale para outra ferramenta é investigar os recursos e as integrações dela).
+
+- 🇧🇷 **Insights → Content scores:** pontuação gerada pelo **Page rating**; mostra um ranking de páginas com sentimento **positivo** e outro com sentimento **negativo**. Uma seção com score negativo pode ser priorizada para melhoria, conforme o feedback.
+- 🇧🇷 **Search analytics:** mostra a possibilidade de integrar com ferramentas como o Google Analytics para **cruzar dados**. Ex.: 100 mil acessos com poucos feedbacks pode indicar pouco engajamento, e aí se cria uma estratégia para reverter.
+
+🇧🇷 Objetivo da aula: desenvolver um **olhar sistemático e analítico** sobre as documentações.
+
+### 4. Para saber mais: ferramentas de documentação do mercado
+
+| Ferramenta | O que é (segundo a atividade) |
+|---|---|
+| [Docusaurus](https://docusaurus.io/) | Código aberto, para construir, implantar e manter documentação; tem versões, blogs e páginas personalizadas (o Facebook já usou) |
+| [Sphinx](https://www.sphinx-doc.org/en/master/) | Criado para a documentação do Python; usa [reStructuredText](https://docutils.sourceforge.io/rst.html) e extensões (vários formatos de saída, inclusão de código-fonte) |
+| [MkDocs](https://www.mkdocs.org/) | Alternativa rápida e simples ao Sphinx, usando **Markdown** |
+| [Jekyll](https://jekyllrb.com/) | Gerador de sites estáticos; é a engine do **[GitHub Pages](https://pages.github.com/)**, então dá para hospedar a documentação direto do repositório no GitHub |
+
+### 5. Para saber mais: métricas da documentação
+
+| O que as métricas mostram | Exemplo da atividade |
+|---|---|
+| **Conteúdos mais populares e eficazes** | Guia de app de culinária: visualizações das receitas e tempo na seção de dicas |
+| **Engajamento e onde melhorar ou expandir** | Manual de software: tempo médio de leitura e taxa de cliques; muito tempo na solução de problemas indica interesse em resolver problemas específicos |
+| **Pontos de confusão** | Fórum com avaliações: a quantidade de feedback por página mostra o que gera mais discussão |
+| **Otimização da documentação** | Google: analisa a interação com os guias e ajusta a estrutura |
+| **Visualização do engajamento** | Gráfico de linha com os downloads de um manual ao longo do tempo |
+
+### 6. Quiz sobre os assuntos abordados ao longo das aulas (exercício da plataforma)
+
+⬜ Exercício da Alura (indicadores de sucesso, 3 alternativas). Fica para a Letícia responder.
+
+### 7. Faça como eu fiz: defina as métricas de sucesso e as formas de obtê-las
+
+✅ Projeto prático: [métricas de sucesso da documentação da Bytebank](../../../projetos-projects/03-bytebank-gitbook/05-metricas.md).
+
+### 8. O que aprendemos?
+
+- ✅ Definir os indicadores de sucesso da documentação.
+- ✅ Formas de obter as métricas da documentação.
+
+### 9. Conclusão
+
+🇧🇷 Recapitulação do DDLC: análise e planejamento → design → desenvolvimento do conteúdo → edição e revisão → publicação → manutenção, sempre **cíclico**. Próximos passos sugeridos: conhecer **outros frameworks de processo de documentação** e, principalmente, **praticar** e implementar o processo no trabalho.
+
+### Quiz comentado da Aula 05 / Lesson 5 quiz
+
+⬜ A fazer na nossa conversa sobre a aula.
+
+---
+
 ## Livros e links indicados pela aula / Recommended by the course
 
 - 🔗 [Gitbook](https://www.gitbook.com/) (plataforma do projeto, plano gratuito).
@@ -454,3 +546,5 @@ flowchart LR
 - 🔗 [Octopus](https://octopus.do/) (estrutura visual da documentação, Aula 02).
 - 🔗 [Clarice.ai](https://app.clarice.ai/sign-in) (IA para textos, Aula 03).
 - 🔗 [Página da Bytebank no Gitbook, feita pela instrutora](https://bytebank-documentation.gitbook.io/bytebank/) (Aula 03).
+- 🔗 [Post do Nubank sobre a conta PJ](https://blog.nubank.com.br/conta-pj-nubank-novidades/) (exemplo de comunicação, Aula 04).
+- 🔗 Ferramentas de documentação: [Docusaurus](https://docusaurus.io/), [Sphinx](https://www.sphinx-doc.org/en/master/), [MkDocs](https://www.mkdocs.org/), [Jekyll](https://jekyllrb.com/) / [GitHub Pages](https://pages.github.com/) (Aula 05).
