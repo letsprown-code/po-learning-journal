@@ -21,7 +21,7 @@
 | 1 | Iniciando seu processo de documentação | 10 | ✅ 10/10 na Alura · falta quiz |
 | 2 | Estruturando sua documentação | 8 | ✅ 8/8 na Alura · falta quiz |
 | 3 | Escrita e revisão | 9 | ✅ 9/9 na Alura · falta quiz |
-| 4 | Publicação | 7 | 🟡 Lida, falta exercício + quiz |
+| 4 | Publicação | 7 | ✅ 7/7 na Alura · falta quiz |
 | 5 | Medindo a eficácia da sua documentação | 9 | 🟡 Lida, falta exercício + quiz |
 
 ---
@@ -426,7 +426,7 @@ flowchart LR
 
 ### 5. Implantando um plano de comunicação eficaz (exercício da plataforma)
 
-⬜ Exercício da Alura. Fica para a Letícia responder.
+✅ Respondido pela Letícia na plataforma (acertou: E). Explicação da plataforma: um **plano de comunicação abrangente** (e-mails, reuniões, postagens em fóruns relevantes, com detalhes sobre a documentação e como usá-la) é crucial para informar todos os stakeholders, dar os detalhes relevantes e garantir a adoção. A plataforma não mostrou explicação para as alternativas erradas.
 
 ### 6. Faça como eu fiz: crie uma comunicação para divulgar a documentação (público interno e externo)
 
