@@ -379,7 +379,7 @@ flowchart TD
 
 ### 9. Escolhendo o modelo de documentação ideal (exercício da plataforma)
 
-✅ Respondido pela Letícia na plataforma (acertou: guia how-to, porque o objetivo é realizar uma tarefa específica).
+✅ Respondido pela Letícia na plataforma (acertou: guia how-to). Explicação da plataforma: o how-to dá instruções passo a passo claras e diretas, a escolha mais apropriada quando é preciso seguir uma sequência para realizar uma tarefa.
 
 ### 10. Faça como eu fiz: monte uma documentação funcional
 
@@ -693,7 +693,6 @@ flowchart TD
 - **Pergunta:** quem acabou de entrar num time e precisa de uma **visão geral** das funcionalidades e da navegação básica, como **novo usuário**, deve usar qual documentação?
 - ❌ **Primeira escolha: Guia do Usuário.** Errado porque o guia do usuário é mais detalhado e abrangente do que uma introdução rápida precisa; serve para explorar funcionalidades específicas a fundo.
 - ✅ **Resposta certa: Guia de Início Rápido**, porque dá uma visão geral rápida do básico para quem está no ponto zero e quer começar.
-- 💡 **Lição:** as palavras-chave "novos usuários" e "começar" apontam para o início rápido; "todos os aspectos do produto" apontaria para o guia do usuário.
 
 ### 6. Faça como eu fiz: escolha um dos formatos da aula para completar o projeto
 

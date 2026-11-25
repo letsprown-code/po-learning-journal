@@ -74,8 +74,7 @@ flowchart LR
 
 - ✅ **C. Integrar a documentação desde a fase de Design:** alinha as informações com a arquitetura do software desde o início e faz a documentação ser parte do desenvolvimento.
 - ✅ **B. Começar na fase de testes:** os recursos estão mais estáveis, o que dá uma visão mais completa e precisa do produto.
-- ❌ A. Começar só na implementação, porque os devs entendem melhor o código: deixa a documentação para depois, contra a ideia de protagonismo do DDLC.
-- ❌ D. Excluir a manutenção: contradiz o caráter **cíclico** do DDLC; o lançamento não é o fim.
+- ❌ A e D: a plataforma não trouxe explicação para as alternativas erradas.
 
 ### 6. Planejamento da documentação (etapa 1 do DDLC: análise e planejamento)
 
