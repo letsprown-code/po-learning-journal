@@ -22,7 +22,7 @@
 | 3 | Guia how-to | [guia-how-to.md](guia-how-to.md) | Aulas 02 e 03 | ✅ |
 | 4 | Troubleshooting | — | Aula 02 | ⬜ |
 | 5 | Release notes | — | Aula 02 | ⬜ |
-| 6 | Guia de início rápido / FAQ | — | Aula 04 | 🔒 |
+| 6 | FAQ (perguntas por objetivo) | [faq.md](faq.md) | Aula 04 | ✅ |
 
 ## Checklist de boas práticas usado em todos os documentos / Writing checklist
 

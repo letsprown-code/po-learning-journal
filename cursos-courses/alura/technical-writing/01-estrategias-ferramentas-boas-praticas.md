@@ -20,7 +20,7 @@
 | 1 | O que é Technical Writing? | 12 | ✅ 12/12 na Alura · falta conferir o quiz |
 | 2 | Tipos de documentação técnica | 11 | ✅ 11/11 na Alura · falta conferir o quiz |
 | 3 | Boas práticas de escrita para documentação | 11 | ✅ 11/11 na Alura · falta conferir o quiz |
-| 4 | Outros formatos de conteúdo técnico | 7 | ⬜ |
+| 4 | Outros formatos de conteúdo técnico | 7 | 🟡 Lida, falta exercício + quiz |
 | 5 | Planejamento e análise de documentações | 9 | ⬜ |
 
 ---
@@ -619,6 +619,95 @@ flowchart TD
 
 ---
 
+## Aula 04 · Outros formatos de conteúdo técnico / Other technical content formats
+
+🇧🇷 Formatos que nem sempre se chamam "documentação", mas que também fazem parte do trabalho de TW para facilitar o uso e a adoção de um produto.
+
+### 1. Preparando o ambiente
+
+🇧🇷 De novo o link do [repositório do projeto do curso](https://github.com/alura-cursos/projeto-alura), com todas as documentações da Bytebank até aqui.
+
+### 2. Guia de usuário (User Guide)
+
+🇧🇷 Documentação que procura **englobar todos os aspectos do produto**. É como um conjunto das documentações da Aula 02 (funcional, tutorial etc.) reunidas num só lugar. Os tópicos dependem do produto ou serviço.
+
+**Exemplos:**
+- 🇧🇷 **Manual do iPhone** (site de suporte da Apple): título e apresentação → "Comece a usar" (pista de tutorial: ligar, primeira configuração) → "Adicione um toque pessoal" (customização, conta em família, widgets). Tem um sumário: apresentação geral, introdução, modelos, configuração, noções básicas e personalização. Serve tanto para quem acabou de comprar quanto para quem esqueceu como usar uma função.
+- 🇧🇷 **Suporte do Zoom**: apresentação geral e vários caminhos (introdução, conta e configurações, suporte, áudio e vídeo, central de aprendizagem e comunidade). A central de aprendizagem traz vídeos, ou seja, outro formato além do texto.
+
+🇧🇷 É mais comum para a pessoa usuária final, mas também pode servir a devs (com uma seção que vai dos conceitos básicos às configurações). Pode ser muito vantajoso, dependendo da estratégia da empresa.
+
+### 3. Guia de início rápido (Quick Start Guide)
+
+🇧🇷 Documento que **orienta a pessoa a começar a usar um produto**: o "ponto zero", os primeiros passos. Nas empresas, o processo costuma começar **mapeando a jornada de uso** para achar esse ponto zero.
+
+**Estrutura** (exemplo do Google Cloud, "criar e executar um fluxo de trabalho SQL no Dataform"):
+
+~~~mermaid
+flowchart TD
+  T["Título"] --> V["Introdução / visão geral<br/>+ sumário com hiperlinks"]
+  V --> P["Antes de começar<br/>(pré-requisitos)"]
+  P --> I["Instalação<br/>(se o guia for de instalação, o mais comum)"]
+  I --> S["Passo a passo<br/>títulos com verbo + listas numeradas"]
+  S --> N["Próximos passos<br/>(no Google: &quot;A seguir&quot;)"]
+~~~
+
+- 🇧🇷 **Passo a passo:** títulos objetivos, geralmente com **verbo** (indicam a ação), e **listas numeradas** para deixar a ordem evidente. Botões de navegação são opcionais.
+- 🇧🇷 **Próximos passos:** dizem o que fazer em seguida e facilitam a adoção. Como o guia não explica o conceito (ex.: o que é o Dataform), ele aponta para conteúdos conceituais.
+
+**Dicas para escrever:**
+1. 🇧🇷 Mapeie qual é a **primeira tarefa** que a pessoa precisa fazer com o produto.
+2. 🇧🇷 Entenda qual é o **caminho mais fácil e rápido** para ela fazer essa tarefa (se houver vários, escolha o mais simples).
+3. 🇧🇷 Se possível, **diga quanto tempo** a tarefa leva (algumas empresas indicam tempo de leitura e de configuração, porque as primeiras configurações, principalmente para devs, podem demorar).
+
+### 4. Perguntas frequentes (FAQ)
+
+🇧🇷 Documento de **perguntas e respostas** com as principais dúvidas de quem usa o produto, no site ou na documentação.
+
+🇧🇷 **Opinião da instrutora (Mari):** há Tech Writers que discutem se a FAQ deve existir. Para ela, é muito relevante **se os tópicos forem bem escolhidos**: a FAQ não pode virar um depósito de conteúdo que não se sabe onde colocar. O propósito é trazer, num lugar de destaque, as **dúvidas que impedem as pessoas de começar a usar o produto**.
+
+**Exemplos:**
+- 🇧🇷 **FAQ da Alura** (no fim da página): sucinta, só com os pontos de adoção dos planos: para quem é a Alura, formas de pagamento, se dá para cancelar e o que fazer se ainda tiver dúvidas (link para a central de ajuda).
+- 🇧🇷 **FAQ técnica do Mercado Pago Developers** (seção de suporte): para devs que integram as APIs, não para clientes do banco. Seções como aplicativos e credenciais, meios de pagamento, plugins e conta, e **cada dúvida tem uma página própria** com recomendações e links.
+
+**Dica (blog *I'd Rather Be Writing*, de Tom Johnson): troque pergunta/resposta por objetivo/resposta.**
+
+| Pergunta ampla | Pergunta por objetivo |
+|---|---|
+| Como criar uma conta na Bytebank? | Como criar uma conta na Bytebank **pelo aplicativo**? |
+
+🇧🇷 Se o produto muda conforme o dispositivo, dá para criar uma pergunta para cada caminho (site, aplicativo, tablet). A FAQ fica mais direcionada, mesmo com dúvidas mais nichadas, desde que sejam comuns.
+
+### Resumo da aula: qual formato usar?
+
+| Formato | Objetivo | Para quem costuma ser |
+|---|---|---|
+| Guia de usuário | Reunir **todos os aspectos** do produto num só lugar | Principalmente a pessoa usuária final (pode ter seção para devs) |
+| Guia de início rápido | Levar do **ponto zero** aos primeiros passos, rápido | Quem está começando a usar o produto |
+| FAQ | Responder as **dúvidas que travam** a adoção | Quem está avaliando ou começando a usar |
+
+### 5. Documentação mais indicada (exercício da plataforma)
+
+⬜ Exercício de múltipla escolha da Alura. Fica para a Letícia responder.
+
+### 6. Faça como eu fiz: escolha um dos formatos da aula para completar o projeto
+
+🇧🇷 Escolher guia de usuário, guia de início rápido ou FAQ e desenvolver no projeto, usando o repositório do curso como inspiração (ele tem um modelo de guia de início rápido).
+
+✅ Projeto prático: [FAQ das Caixinhas](../../../projetos-projects/02-bytebank-docs/faq.md), usando a dica de objetivo/resposta.
+
+### 7. O que aprendemos?
+
+- ✅ O que é e como criar um guia do usuário.
+- ✅ O que é e como criar um guia de início rápido.
+- ✅ O que é e como funciona uma FAQ.
+
+### Quiz comentado da Aula 04 / Lesson 4 quiz
+
+⬜ A fazer na nossa conversa sobre a aula.
+
+---
+
 ## Modelos do projeto do curso (Bytebank) / Course project templates
 
 🇧🇷 O repositório do curso ([alura-cursos/projeto-alura](https://github.com/alura-cursos/projeto-alura/)) tem um modelo para cada tipo de documentação. Cada arquivo começa com um **Contexto** (o que é aquele tipo) e depois traz o **Exemplo de documentação** da Bytebank. Resumo da estrutura de cada modelo:
@@ -631,7 +720,8 @@ flowchart TD
 | [Troubleshooting](https://github.com/alura-cursos/projeto-alura/blob/main/troubleshooting.md) | "Troubleshooting Bytebank" → erro numerado como título ("Erro ao acessar sua conta") → causa → soluções numeradas → o que fazer se persistir (canais de atendimento) → links relacionados | Segundo o guia do The Good Docs Project: teste o produto, identifique todos os cenários de erro, mapeie a solução de cada um e organize em **sintomas/causas** e **soluções** |
 | [Documentação de API](https://github.com/alura-cursos/projeto-alura/blob/main/documenta%C3%A7%C3%A3o-api.md) | Frase de uso → informações gerais (registro no portal de devs, token de acesso no header, exemplo em cURL) → recurso Pagamentos → URL base → tabela de endpoints (método, nome, descrição) → cada endpoint com campos e exemplos | Para APIs REST é comum usar a especificação OpenAPI, como no modelo do Swagger |
 | [Release notes](https://github.com/alura-cursos/projeto-alura/blob/main/release-notes.md) | "Release Bytebank - Versão 1.0.1" → data → resumo da versão → novas funcionalidades → melhorias → bug fixes → opcional: known issues e funcionalidades descontinuadas (deprecated) | — |
-| [Guia de início rápido](https://github.com/alura-cursos/projeto-alura/blob/main/guia-in%C3%ADcio-r%C3%A1pido.md) e [FAQ](https://github.com/alura-cursos/projeto-alura/blob/main/perguntas-frequentes-faq.md) | Fazem parte da Aula 04 | — |
+| [Guia de início rápido](https://github.com/alura-cursos/projeto-alura/blob/main/guia-in%C3%ADcio-r%C3%A1pido.md) | "Iniciando seus investimentos na Bytebank" → visão geral (o que o guia vai orientar) → antes de começar (pré-requisitos) → passos com título de verbo ("Acesse a seção Investimentos") → próximos passos | O modelo diferencia o Quick Start de um *Getting Started*: o Quick Start não contextualiza, só mostra objetivamente o que fazer |
+| [FAQ](https://github.com/alura-cursos/projeto-alura/blob/main/perguntas-frequentes-faq.md) | "Perguntas Frequentes (FAQ)" → perguntas numeradas como títulos (o que é a Bytebank, se tem custo, como criar a conta pelo celular) → respostas curtas, com link para a documentação | Pode ficar no fim de uma seção ou numa página à parte |
 
 🇧🇷 Uma cópia do repositório está guardada no repositório privado de materiais.
 
@@ -646,3 +736,4 @@ flowchart TD
 - 🔗 Diátaxis, de Daniele Procida (framework de documentação citado na Aula 02).
 - 🔗 [The Good Docs Project](https://thegooddocsproject.dev/) (templates de documentação, Aula 03).
 - 🔗 Guias de estilo: [Google](https://developers.google.com/style), [Microsoft](https://learn.microsoft.com/en-us/style-guide/welcome/) e [GitLab](https://docs.gitlab.com/ee/development/documentation/styleguide/) (Aula 03).
+- 🔗 Blog *I'd Rather Be Writing*, de Tom Johnson (dica de FAQ por objetivo, Aula 04).

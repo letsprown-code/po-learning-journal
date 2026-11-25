@@ -193,3 +193,6 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Jargão | Jargon | Termo técnico que o público pode não conhecer; evite ou explique no glossário · Unfamiliar technical term | Alura TW 01 · Boas práticas de escrita para TW |
 | Guia de estilo | Style guide | Documento com as orientações de comunicação e escrita de uma marca (tom e voz, persona, boas práticas), para padronizar a escrita · Brand writing guidelines | Alura TW 01 · Guia de estilo |
 | Modelo de documentação | Documentation template | Estrutura pré-definida que padroniza documentos de base parecida e economiza tempo · Predefined doc structure | Alura TW 01 · Templates de documentação |
+| Guia de usuário | User guide | Documentação que reúne todos os aspectos do produto num só lugar (ex.: manual do iPhone) · Covers every aspect of a product | Alura TW 01 · Guia de usuário |
+| Guia de início rápido | Quick start guide | Leva a pessoa do ponto zero aos primeiros passos com o produto: visão geral, pré-requisitos, passos e próximos passos · First steps with a product | Alura TW 01 · Guia de início rápido |
+| Perguntas frequentes | FAQ | Perguntas e respostas com as dúvidas que mais travam o uso do produto; melhor escritas por objetivo · Frequently asked questions | Alura TW 01 · Perguntas frequentes |
