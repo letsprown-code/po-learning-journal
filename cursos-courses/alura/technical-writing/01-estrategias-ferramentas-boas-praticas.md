@@ -166,13 +166,13 @@ flowchart LR
 
 ### 10. Sobre Technical Writing (exercício da plataforma)
 
-⬜ Exercício de múltipla escolha da Alura. Fica para a Letícia responder na plataforma.
+✅ Respondido pela Letícia na plataforma (acertou).
 
 ### 11. Faça como eu fiz: organizar o projeto no GitHub
 
 🇧🇷 Criar a conta no GitHub (se não tiver) e iniciar um repositório para a Bytebank, ou com outro tema. Cada tipo de documentação vira um arquivo `.md` (os tipos vêm na Aula 02).
 
-⬜ Projeto prático: a fazer em `projetos-projects/`.
+✅ Projeto prático: [Projeto 02 · Documentações da Bytebank](../../../projetos-projects/02-bytebank-docs/README.md).
 
 ### Quiz comentado da Aula 01 / Lesson 1 quiz
 
@@ -379,13 +379,13 @@ flowchart TD
 
 ### 9. Escolhendo o modelo de documentação ideal (exercício da plataforma)
 
-⬜ Exercício de múltipla escolha da Alura (qual documentação usar numa API de streaming de música). Fica para a Letícia responder na plataforma.
+✅ Respondido pela Letícia na plataforma (acertou: guia how-to, porque o objetivo é realizar uma tarefa específica).
 
 ### 10. Faça como eu fiz: monte uma documentação funcional
 
 🇧🇷 Criar uma documentação funcional para o projeto, usando as documentações do repositório do curso como inspiração.
 
-⬜ Projeto prático: a fazer em `projetos-projects/`.
+✅ Projeto prático: [documentação funcional das Caixinhas](../../../projetos-projects/02-bytebank-docs/documentacao-funcional.md).
 
 ### 11. O que aprendemos? (exercício da plataforma)
 
@@ -534,7 +534,7 @@ flowchart TD
 
 ### 8. Implantando um novo template de documentação (exercício da plataforma)
 
-⬜ Exercício de múltipla escolha da Alura (como implantar templates e guia de estilo num time de devs). Fica para a Letícia responder na plataforma.
+✅ Respondido pela Letícia na plataforma (acertou: templates específicos por tipo + guia de estilo).
 
 ### 9. Para saber mais: modelos de guia de estilo
 
@@ -556,7 +556,7 @@ flowchart TD
 
 🇧🇷 Com a arquitetura da informação e os componentes da aula, criar um **tutorial** e um **guia how-to** para o projeto, usando o repositório do curso como inspiração.
 
-⬜ Projeto prático: a fazer em `projetos-projects/`.
+✅ Projeto prático: [tutorial](../../../projetos-projects/02-bytebank-docs/tutorial.md) e [guia how-to](../../../projetos-projects/02-bytebank-docs/guia-how-to.md) das Caixinhas.
 
 ### 11. O que aprendemos?
 
