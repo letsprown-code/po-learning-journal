@@ -2,7 +2,7 @@
 
 | Campo / Field | Valor / Value |
 |---|---|
-| Aplica / Applies | [Tera · DPL · Módulo 01: Fundamentos de Product Management](../../cursos-courses/tera/digital-product-leadership/01-fundamentos-de-product-management.md) |
+| Aplica / Applies | [Tera · DPL · Módulo 01: Fundamentos de Product Management](../../cursos-courses/tera/digital-product-leadership/01-fundamentos-de-product-management/README.md) |
 | Situação / Status | 🟡 Em andamento / In progress |
 | Tema / Theme | Viagens, passagens e milhas |
 | Produtos analisados / Products | **Smiles** (programa de fidelidade) e **Decolar** (agência de viagens online) |

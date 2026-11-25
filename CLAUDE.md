@@ -29,7 +29,7 @@ Diário de estudos de Product Owner da Letícia. Escrevemos em português (Brasi
 - Cada módulo concluído ganha um projeto prático em `projetos-projects/<número>-<nome>/`, aplicando só ferramentas e conceitos das aulas. As análises e opiniões dela ficam ali, nunca nas notas de curso.
 
 ## Estrutura
-- Notas: `cursos-courses/<escola>/<curso>/<número>-<módulo>.md`, minúsculas com hífen, começando com tabela de cabeçalho (escola, curso, módulo, situação, fonte).
+- Notas: organizadas como na plataforma, `cursos-courses/<escola>/<curso>/<número>-<módulo>/<número>-<aula>.md`, minúsculas com hífen. O curso tem um `README.md` com a lista de módulos; cada módulo tem um `README.md` com tabela de cabeçalho (escola, curso, módulo, situação, fonte) e a lista de aulas com links.
 - Glossário: só termos que apareceram nas aulas, com a aula de origem.
 - Atualizar a tabela de progresso do README a cada aula.
 - Nunca publicar material pago na íntegra, nomes de colegas ou dados de empresas reais.
