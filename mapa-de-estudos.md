@@ -170,7 +170,7 @@ flowchart TD
 
 ~~~mermaid
 flowchart LR
-    C1["✅ 01 Estratégias, ferramentas e boas práticas<br/>concluído em 25/11/2026"] --> C2["🟡 02 Documentação do zero com DDLC<br/>Aulas 01 a 03 de 5"]
+    C1["✅ 01 Estratégias, ferramentas e boas práticas<br/>concluído em 25/11/2026"] --> C2["🟡 02 Documentação do zero com DDLC<br/>Aulas 01 a 04 de 5"]
 ~~~
 
 ### Curso 01: Aprenda estratégias, ferramentas e boas práticas ✅
@@ -198,7 +198,7 @@ flowchart TD
 ~~~mermaid
 flowchart TD
     D1["✅ 1 Iniciando seu processo de documentação"] --> D2["✅ 2 Estruturando sua documentação"] --> D3["✅ 3 Escrita e revisão"]
-    D3 --> D4["⬜ 4 Publicação"] --> D5["⬜ 5 Medindo a eficácia"]
+    D3 --> D4["🟡 4 Publicação"] --> D5["⬜ 5 Medindo a eficácia"]
     D5 --> B2{{"🔒 Badge: Curso 02 de Technical Writing"}}
 ~~~
 
@@ -207,5 +207,5 @@ flowchart TD
 | Explicar o DDLC e suas 6 etapas | Aula 01 | 🔓 |
 | Planejar uma documentação (público, SMEs, ferramentas) | Aula 01 | 🔓 |
 | Criar uma documentação técnica com o framework DDLC | Aulas 02 a 04 | 🟡 Aulas 02 e 03 lidas |
-| Criar um plano de comunicação para divulgar a documentação | Aula 04 | 🔒 |
+| Criar um plano de comunicação para divulgar a documentação | Aula 04 | 🟡 lida, falta exercício |
 | Planejar indicadores de sucesso da documentação | Aula 05 | 🔒 |

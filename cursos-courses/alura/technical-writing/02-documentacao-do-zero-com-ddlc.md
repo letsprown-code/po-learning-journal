@@ -21,7 +21,7 @@
 | 1 | Iniciando seu processo de documentação | 10 | ✅ 10/10 na Alura · falta quiz |
 | 2 | Estruturando sua documentação | 8 | ✅ 8/8 na Alura · falta quiz |
 | 3 | Escrita e revisão | 9 | ✅ 9/9 na Alura · falta quiz |
-| 4 | Publicação | 7 | ⬜ |
+| 4 | Publicação | 7 | 🟡 Lida, falta exercício + quiz |
 | 5 | Medindo a eficácia da sua documentação | 9 | ⬜ |
 
 ---
@@ -361,6 +361,85 @@ flowchart TD
 ✅ Resposta aberta enviada na plataforma (texto aprovado pela Letícia). O retorno da Alura elogiou a ligação entre contextualização, hierarquia dos títulos e escrita, e lembrou que manter o histórico de alterações garante a rastreabilidade das decisões.
 
 ### Quiz comentado da Aula 03 / Lesson 3 quiz
+
+⬜ A fazer na nossa conversa sobre a aula.
+
+---
+
+## Aula 04 · Publicação / Publishing
+
+### 1. Definindo locais de publicação (etapa 5 do DDLC: publicação)
+
+🇧🇷 O processo de publicação **depende da ferramenta**:
+
+| Onde | Como publica (segundo a aula) |
+|---|---|
+| **GitHub** | O **pull request** é validado por outras pessoas desenvolvedoras (configurado no workflow do GitHub); depois da aprovação e do **merge**, o conteúdo fica disponível no repositório ou num site |
+| Repositório + gerador de site | A documentação fica no repositório, e a parte visual é gerada por um gerador de site |
+| Ferramenta ou servidor próprio | Ex.: no Mercado Pago, usam o GitHub com um servidor dedicado para o deploy e a publicação |
+| **Gitbook** | **Share → Publish to the web → "Publish this space to the web"**; depois, "Visit site" ou "Copy link" para compartilhar |
+
+🇧🇷 A publicação **não é o fim**: é preciso divulgar.
+
+### 2. Formas de comunicar a publicação: plano de comunicação
+
+🇧🇷 Primeiro, identifique o **público**: interno ou externo.
+
+| Público | Canais sugeridos na aula |
+|---|---|
+| **Interno** (pessoas da empresa) | **Canal oficial de releases** na rede social da empresa (Slack, Discord, Workplace etc.), marcando as pessoas interessadas; e-mail; **compartilhar direto com os stakeholders** (lideranças e áreas parceiras que acompanharam desde o planejamento) |
+| **Externo** | Notícia no **site da documentação** (últimas notícias, banner) ou **dentro do aplicativo** (notificação); **newsletter** por e-mail; para público técnico (devs), **release notes**; para o usuário final, **parceria com o time de comunicação/marketing** |
+
+🇧🇷 A instrutora conta que, na prática, usa o **Slack** com um canal de releases: toda sexta-feira, quando há versão nova, posta a mensagem e notifica o canal.
+
+🇧🇷 **Exemplo do Nubank (conta PJ):** os Tech Writers documentam a configuração para o público **interno** (outros times de desenvolvimento). Para o público **externo**, o time pode acionar comunicação e marketing, que escreve um texto mais conversacional no [blog do Nubank](https://blog.nubank.com.br/conta-pj-nubank-novidades/) ("A Conta PJ Nubank: acompanhe as novidades"). A estrutura do post lembra uma documentação técnica: o que é, para quem é, funções disponíveis, situação atual e linha do tempo das mudanças.
+
+### 3. Próximos passos com a sua documentação (etapa 6 do DDLC: manutenção)
+
+🇧🇷 O DDLC é **cíclico**: depois de publicar e divulgar, é preciso planejar o futuro e manter a documentação atualizada. Fontes para a manutenção:
+
+~~~mermaid
+flowchart LR
+  F1["Feedbacks de SMEs e stakeholders<br/>que não couberam na entrega"] --> M["Manutenção<br/>(volta ao planejamento)"]
+  F2["Análise de desempenho<br/>(métricas)"] --> M
+  F3["Feedbacks ativos do público<br/>(fóruns, suporte, seção de<br/>feedback na doc, newsletters)"] --> M
+  F4["Backlog do produto"] --> M
+  M --> P["1. Análise e planejamento"]
+~~~
+
+- 🇧🇷 **Feedbacks adiados:** os que ficaram para depois na revisão; agora é hora de ver quais priorizar.
+- 🇧🇷 **Métricas:** depende da ferramenta e das integrações; os números mostram o que melhorar (assunto da Aula 05).
+- 🇧🇷 **Feedbacks externos:** agora que a documentação está no ar, chegam de fóruns, comunidades, canais, newsletters e e-mails.
+- 🇧🇷 **Backlog do produto:** as oportunidades do produto viram mudanças na documentação; as reuniões de planejamento do backlog são o momento de pegar essas atualizações.
+
+### 4. Para saber mais: próximas etapas logo após a publicação
+
+| Etapa | O que fazer | Exemplo da atividade |
+|---|---|---|
+| **Monitorar o feedback** | Comentários na documentação, pesquisas de satisfação, análises de uso | Microsoft: sistema de comentários na documentação online |
+| **Atualizações regulares** | Revisar e atualizar para refletir as versões mais recentes | Documentação do Python, atualizada a cada versão |
+| **Melhoria contínua** | Reescrever seções confusas, adicionar exemplos mais claros, reorganizar a estrutura | — |
+| **Integração com outros recursos** | Complementar com outros formatos, como tutoriais em vídeo | Adobe Photoshop, com muitos tutoriais em vídeo |
+| **Avaliação regular** | Testes de usabilidade, feedback de especialistas, comparação com as melhores práticas do setor | — |
+
+🇧🇷 "A escrita técnica é uma jornada, não um destino."
+
+### 5. Implantando um plano de comunicação eficaz (exercício da plataforma)
+
+⬜ Exercício da Alura. Fica para a Letícia responder.
+
+### 6. Faça como eu fiz: crie uma comunicação para divulgar a documentação (público interno e externo)
+
+🇧🇷 Criar um plano de comunicação: locais de publicação, abordagem etc.
+
+✅ Projeto prático: [publicação, comunicação e manutenção](../../../projetos-projects/03-bytebank-gitbook/04-publicacao-e-comunicacao.md).
+
+### 7. O que aprendemos?
+
+- ✅ Criar um plano de comunicação para a documentação.
+- ✅ Planejar a manutenção da documentação.
+
+### Quiz comentado da Aula 04 / Lesson 4 quiz
 
 ⬜ A fazer na nossa conversa sobre a aula.
 
