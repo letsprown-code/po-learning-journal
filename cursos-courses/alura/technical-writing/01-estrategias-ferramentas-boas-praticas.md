@@ -393,7 +393,53 @@ flowchart TD
 
 ### Quiz comentado da Aula 02 / Lesson 2 quiz
 
-⬜ A fazer na nossa conversa sobre a aula.
+<details><summary>1. Qual documentação costuma abrir os portais, porque contextualiza e apresenta o produto?</summary>
+
+- ✅ **Documentação funcional (visão geral).** Situa a pessoa: o que é o produto, os recursos, para quem serve e os conceitos.
+- ❌ Troubleshooting: lista erros e soluções, para quando algo dá errado.
+- ❌ Release notes: comunicam o que mudou numa versão nova.
+- ❌ Referência de API: especificações técnicas para quem vai integrar a API.
+</details>
+
+<details><summary>2. Segundo Daniele Procida, qual é a diferença entre tutorial e guia how-to?</summary>
+
+- ✅ **O tutorial serve ao estudo (aprendizagem) e o how-to serve ao trabalho (realizar uma tarefa).**
+- ❌ Tutorial para devs e how-to para pessoas usuárias finais: a diferença é o objetivo, não o público.
+- ❌ Tutorial sem passo a passo: os dois são passo a passo.
+- ❌ Tutorial curto e how-to longo: é o contrário, o tutorial dá os porquês e contextualiza; o how-to é direto.
+</details>
+
+<details><summary>3. Quais são as quatro formas da matriz Diátaxis?</summary>
+
+- ✅ **Tutorial, guia prático, referência e explicação.**
+- ❌ Tutorial, troubleshooting, release notes e API: são tipos que o curso apresenta, mas não são as formas do Diátaxis.
+- ❌ Funcional, processos, sistema e pessoa usuária: mistura a documentação funcional com os níveis do desenho da Prototypr.
+- ❌ Major, minor, feature e bug fix: são termos de release notes.
+</details>
+
+<details><summary>4. Qual destas NÃO é fonte de erros para um troubleshooting?</summary>
+
+- ✅ **O roadmap de novas features**: não é citado como fonte.
+- ❌ Tickets de suporte, feedbacks das pessoas usuárias e testes no produto: são exatamente as três fontes da aula.
+</details>
+
+<details><summary>5. Numa documentação de API, o que são GET, POST, PUT e DELETE?</summary>
+
+- ✅ **Métodos**: os verbos que aparecem ao lado da chamada.
+- ❌ Endpoints: são os caminhos que executam ações específicas (ex.: /pre-analysis).
+- ❌ Códigos de erro: são números como 400 e 500 (o 200 indica sucesso).
+- ❌ Formatos de requisição: o cURL é o formato em que as requisições costumam ser escritas.
+</details>
+
+<details><summary>6. Passar da versão 1.0 para a 1.1 é um exemplo de…</summary>
+
+- ✅ **Minor release**: mudança menor (1.0 → 1.1, ou 1.1 → 1.1.2).
+- ❌ Major release: mudança grande, como 1.0 → 2.0.
+- ❌ Known issue: problema já mapeado que ainda está sendo resolvido.
+- ❌ Bug fix: correção listada dentro da release note, não um tipo de versão.
+</details>
+
+**O que eu errei e por quê:** ⬜ a preencher depois que eu fizer o quiz.
 
 ---
 
