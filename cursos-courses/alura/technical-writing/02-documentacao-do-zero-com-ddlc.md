@@ -6,7 +6,7 @@
 | Curso / Course | Formação Technical Writing (2 cursos, 18 h) / Technical Writing track |
 | Módulo / Module | 02 · Technical Writing: crie uma documentação do zero com DDLC (8 h, intermediário) |
 | Instrutora / Instructor | Mari Moreira (líder de Developer Communications no Mercado Pago) |
-| Situação / Status | ✅ Concluído na Alura em 25/11/2026 (100%) · faltam os quizzes comentados |
+| Situação / Status | ✅ Concluído na Alura em 25/11/2026 (100%) · quizzes comentados prontos; falta registrar os erros |
 | Fonte / Source | [Alura: Technical Writing: crie uma documentação do zero com DDLC](https://cursos.alura.com.br/course/technical-writing-crie-documentacao-zero-ddlc) (login) |
 | Pré-requisito / Prerequisite | [Curso 01: estratégias, ferramentas e boas práticas](01-estrategias-ferramentas-boas-praticas.md) ✅ |
 
@@ -18,11 +18,11 @@
 
 | # | Aula / Lesson | Atividades / Activities | Situação / Status |
 |---|---|---|---|
-| 1 | Iniciando seu processo de documentação | 10 | ✅ 10/10 na Alura · falta quiz |
-| 2 | Estruturando sua documentação | 8 | ✅ 8/8 na Alura · falta quiz |
-| 3 | Escrita e revisão | 9 | ✅ 9/9 na Alura · falta quiz |
-| 4 | Publicação | 7 | ✅ 7/7 na Alura · falta quiz |
-| 5 | Medindo a eficácia da sua documentação | 9 | ✅ 9/9 na Alura · falta quiz |
+| 1 | Iniciando seu processo de documentação | 10 | ✅ 10/10 na Alura · quiz pronto |
+| 2 | Estruturando sua documentação | 8 | ✅ 8/8 na Alura · quiz pronto |
+| 3 | Escrita e revisão | 9 | ✅ 9/9 na Alura · quiz pronto |
+| 4 | Publicação | 7 | ✅ 7/7 na Alura · quiz pronto |
+| 5 | Medindo a eficácia da sua documentação | 9 | ✅ 9/9 na Alura · quiz pronto |
 
 ---
 
@@ -136,7 +136,23 @@ flowchart LR
 
 ### Quiz comentado da Aula 01 / Lesson 1 quiz
 
-⬜ A fazer na nossa conversa sobre a aula.
+<details><summary>1. Quais são as duas características do DDLC?</summary>
+
+- ✅ **Sistemático e cíclico**: dá protagonismo à documentação e a mantém atualizada.
+- ❌ Rápido e barato: não aparece na aula.
+- ❌ Linear e com fim definido: contradiz a manutenção, que faz o ciclo recomeçar.
+- ❌ Feito só pelo time de desenvolvimento: o trabalho envolve SMEs, stakeholders e outras áreas.
+</details>
+
+<details><summary>2. O que são SMEs?</summary>
+
+- ✅ **Pessoas especialistas no assunto** (Subject Matter Experts), que dão contexto e informações.
+- ❌ Ferramentas de captura de tela: são um item da lista de ferramentas.
+- ❌ Usuários finais: são o público, analisado à parte.
+- ❌ Templates do The Good Docs Project: são modelos de documentação.
+</details>
+
+**O que eu errei e por quê:** ⬜ a preencher depois que eu fizer o quiz.
 
 ---
 
@@ -254,7 +270,23 @@ flowchart TD
 
 ### Quiz comentado da Aula 02 / Lesson 2 quiz
 
-⬜ A fazer na nossa conversa sobre a aula.
+<details><summary>1. Qual iniciativa ajuda a construir uma cultura de documentação?</summary>
+
+- ✅ **Documentação como critério de aceite** das tarefas.
+- ❌ Deixar para a próxima sprint: é a resistência que a aula pede para enfrentar.
+- ❌ Manter o conhecimento só com Tech Writers: contradiz capacitar outras pessoas.
+- ❌ Evitar as lideranças: contradiz buscar aliados.
+</details>
+
+<details><summary>2. Por que "Como criar uma conta" fica no primeiro nível do menu?</summary>
+
+- ✅ **Não faz sentido dentro de serviços e é a porta de entrada** para novas pessoas.
+- ❌ Por ser a página mais longa: não é citado.
+- ❌ Porque o Gitbook não permite subpáginas: falso, o vídeo cria subpáginas pelo +.
+- ❌ Porque o guia de estilo proíbe: não aparece; o guia de estilo entra no nome "Nossos Serviços".
+</details>
+
+**O que eu errei e por quê:** ⬜ a preencher depois que eu fizer o quiz.
 
 ---
 
@@ -362,7 +394,22 @@ flowchart TD
 
 ### Quiz comentado da Aula 03 / Lesson 3 quiz
 
-⬜ A fazer na nossa conversa sobre a aula.
+<details><summary>1. Qual dica de escrita a aula dá para quando você trava?</summary>
+
+- ✅ **Escrever uma primeira versão e ler em voz alta**; a escrita é tentativa e erro.
+- ❌ Esperar a revisão antes de escrever: inverte a ordem do DDLC.
+- ❌ Copiar a documentação de outra empresa e pular para a publicação: não aparecem na aula.
+</details>
+
+<details><summary>2. O que fazer com o feedback vago do Ricardo?</summary>
+
+- ✅ **Deixar em análise, sem prazo**, porque não é acionável e não cabe na sprint.
+- ❌ Aplicar na hora por vir de stakeholder: não dá para agir sem entender o que falta.
+- ❌ Descartar para sempre: feedbacks adiados voltam na manutenção.
+- ❌ Publicar o feedback na documentação: não aparece na aula.
+</details>
+
+**O que eu errei e por quê:** ⬜ a preencher depois que eu fizer o quiz.
 
 ---
 
@@ -441,7 +488,23 @@ flowchart LR
 
 ### Quiz comentado da Aula 04 / Lesson 4 quiz
 
-⬜ A fazer na nossa conversa sobre a aula.
+<details><summary>1. Como se publica uma documentação no GitHub?</summary>
+
+- ✅ **Pull request revisado e aprovado, depois merge.**
+- ❌ "Publish this space to the web": é o caminho do Gitbook.
+- ❌ Mandar por e-mail: não é forma de publicar citada.
+- ❌ Não dá para publicar no GitHub: falso; a aula cita o exemplo do Mercado Pago.
+</details>
+
+<details><summary>2. Como comunicar a documentação a usuários finais (pessoas físicas)?</summary>
+
+- ✅ **Parceria com comunicação ou marketing** (como o post do Nubank).
+- ❌ Release notes: para público técnico (devs).
+- ❌ Só o canal interno de releases: é para o público interno.
+- ❌ Não comunicar: vai contra o plano de comunicação.
+</details>
+
+**O que eu errei e por quê:** ⬜ a preencher depois que eu fizer o quiz.
 
 ---
 
@@ -539,7 +602,21 @@ Marcadas: B, C e E. Explicações da plataforma:
 
 ### Quiz comentado da Aula 05 / Lesson 5 quiz
 
-⬜ A fazer na nossa conversa sobre a aula.
+<details><summary>1. Quais são as duas perguntas para definir métricas?</summary>
+
+- ✅ **Qual resultado espero? Quais dados mostram se estou chegando lá?**
+- ❌ Páginas e palavras; quem escreveu e quando; ferramenta mais barata ou bonita: não são as perguntas da aula.
+</details>
+
+<details><summary>2. Por que a métrica da documentação costuma ser indireta?</summary>
+
+- ✅ **O impacto aparece no cruzamento com outros dados** (produto, suporte).
+- ❌ Documentação não pode ser medida: contradiz "you can't manage what you can't measure".
+- ❌ Só o time de BI vê os números: ele ajuda, mas não é o único caminho.
+- ❌ O Gitbook não mostra métricas: falso, tem Insights e Content scores.
+</details>
+
+**O que eu errei e por quê:** ⬜ a preencher depois que eu fizer o quiz.
 
 ---
 
