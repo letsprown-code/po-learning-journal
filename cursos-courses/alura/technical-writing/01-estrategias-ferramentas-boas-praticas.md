@@ -619,6 +619,24 @@ flowchart TD
 
 ---
 
+## Modelos do projeto do curso (Bytebank) / Course project templates
+
+🇧🇷 O repositório do curso ([alura-cursos/projeto-alura](https://github.com/alura-cursos/projeto-alura/)) tem um modelo para cada tipo de documentação. Cada arquivo começa com um **Contexto** (o que é aquele tipo) e depois traz o **Exemplo de documentação** da Bytebank. Resumo da estrutura de cada modelo:
+
+| Modelo | Estrutura do exemplo | Dicas extras que o modelo traz |
+|---|---|---|
+| [Documentação funcional](https://github.com/alura-cursos/projeto-alura/blob/main/documenta%C3%A7%C3%A3o-funcional.md) | Título "Bytebank" → frase de apresentação → sumário (serviços, para quem é, como criar a conta) → uma seção por tópico → link para o tutorial | — |
+| [Tutorial](https://github.com/alura-cursos/projeto-alura/blob/main/tutorial.md) | Título com verbo ("Crie uma conta na Bytebank") → visão geral com o porquê e a lista dos passos → objetivos → "Antes de começar" (documentos necessários) → passos numerados (1.1, 1.2…) com capturas de tela e caixas de **IMPORTANTE** | Duas abordagens possíveis: guiar uma funcionalidade específica ou guiar um pequeno projeto completo (ex.: deploy de uma biblioteca do zero). O tutorial "pega na mão" da pessoa e explica os motivos |
+| [Guia how-to](https://github.com/alura-cursos/projeto-alura/blob/main/guia-how-to.md) | "Como criar uma conta na Bytebank" → pré-requisitos → passos numerados curtos com capturas de tela → "Veja também" | Segundo o Diátaxis: descreva uma sequência de ações, resolva um problema, seja flexível com os casos de uso, elimine o que não for necessário e use títulos objetivos |
+| [Troubleshooting](https://github.com/alura-cursos/projeto-alura/blob/main/troubleshooting.md) | "Troubleshooting Bytebank" → erro numerado como título ("Erro ao acessar sua conta") → causa → soluções numeradas → o que fazer se persistir (canais de atendimento) → links relacionados | Segundo o guia do The Good Docs Project: teste o produto, identifique todos os cenários de erro, mapeie a solução de cada um e organize em **sintomas/causas** e **soluções** |
+| [Documentação de API](https://github.com/alura-cursos/projeto-alura/blob/main/documenta%C3%A7%C3%A3o-api.md) | Frase de uso → informações gerais (registro no portal de devs, token de acesso no header, exemplo em cURL) → recurso Pagamentos → URL base → tabela de endpoints (método, nome, descrição) → cada endpoint com campos e exemplos | Para APIs REST é comum usar a especificação OpenAPI, como no modelo do Swagger |
+| [Release notes](https://github.com/alura-cursos/projeto-alura/blob/main/release-notes.md) | "Release Bytebank - Versão 1.0.1" → data → resumo da versão → novas funcionalidades → melhorias → bug fixes → opcional: known issues e funcionalidades descontinuadas (deprecated) | — |
+| [Guia de início rápido](https://github.com/alura-cursos/projeto-alura/blob/main/guia-in%C3%ADcio-r%C3%A1pido.md) e [FAQ](https://github.com/alura-cursos/projeto-alura/blob/main/perguntas-frequentes-faq.md) | Fazem parte da Aula 04 | — |
+
+🇧🇷 Uma cópia do repositório está guardada no repositório privado de materiais.
+
+---
+
 ## Livros e links indicados pela aula / Recommended by the course
 
 - 📘 *The Product is Docs* (citado como leitura primordial para quem trabalha com TW).
