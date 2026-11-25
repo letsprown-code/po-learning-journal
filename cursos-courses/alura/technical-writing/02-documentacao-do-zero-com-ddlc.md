@@ -19,7 +19,7 @@
 | # | Aula / Lesson | Atividades / Activities | Situação / Status |
 |---|---|---|---|
 | 1 | Iniciando seu processo de documentação | 10 | ✅ 10/10 na Alura · falta quiz |
-| 2 | Estruturando sua documentação | 8 | ⬜ |
+| 2 | Estruturando sua documentação | 8 | 🟡 Lida, falta exercício + quiz |
 | 3 | Escrita e revisão | 9 | ⬜ |
 | 4 | Publicação | 7 | ⬜ |
 | 5 | Medindo a eficácia da sua documentação | 9 | ⬜ |
@@ -140,7 +140,124 @@ flowchart LR
 
 ---
 
+## Aula 02 · Estruturando sua documentação / Structuring your documentation
+
+### 1. Refinamento e alinhamento com as áreas responsáveis
+
+🇧🇷 O alinhamento **não tem número no DDLC**: é um momento de **transição entre as etapas**. Acontece em todas as fases, mas é essencial agora, porque retoma o que veio do planejamento e ajuda na estruturação.
+
+🇧🇷 **Como funciona:** conversas com **stakeholders** (pessoas interessadas no projeto de documentação), **SMEs** e os times que vão trabalhar junto. O trabalho de Tech Writer é colaborativo; é aqui que se fecham acordos sobre o que será feito e como.
+
+**O que alinhar:**
+
+| Ponto | Por quê |
+|---|---|
+| **Expectativas com o projeto** | Quem pede a documentação costuma achar que ela leva menos tempo e é menos complexa do que é (a instrutora conta que isso acontece até no Mercado Pago). Alinhar evita problemas futuros |
+| **Dinâmica com as áreas parceiras** (devs e design) | Há dependências: imagens do design, trechos de código e arquivos técnicos dos devs. Se as agendas não batem, dá para **negociar entrega por fases** com os stakeholders ("entregamos assim agora e complementamos na próxima sprint") |
+| **Definição de pronto (DoD, *definition of done*)** | Conceito do Scrum: quando a entrega é considerada pronta. Ajuda a acertar expectativas e, se questionarem a entrega, a resgatar os acordos e argumentar |
+
+🇧🇷 **Documentação é um trabalho contínuo, não tem fim:** não é só uma entrega pontual quando sai uma funcionalidade ou versão nova; sempre há novas entregas ou atualizações.
+
+### 2. Construindo uma cultura de documentação
+
+🇧🇷 **Cultura de documentação** é fazer a documentação ganhar protagonismo nos projetos e ser vista como importante por todos, não só pelo time de Tech Writers. Sem isso, há resistência das equipes e falta de parceria para conseguir informações, imagens e código.
+
+🇧🇷 A instrutora conta que muitas ideias do curso vêm do livro **"Dominando a Redação Técnica: guia essencial para profissionais de tecnologia", de Ellen Baldin**, que tem uma seção sobre cultura de documentação.
+
+**Iniciativas (adaptar ao contexto de cada empresa):**
+
+1. 🇧🇷 **Documentação como critério de aceite das tarefas:** a funcionalidade não é lançada se a documentação não estiver atualizada. No começo haverá resistência ("fica para a próxima sprint"); seja firme e garanta pelo menos a parte inicial.
+2. 🇧🇷 **Templates de documentação** para otimizar o trabalho, como os do [The Good Docs Project](https://thegooddocsproject.dev/) (open source).
+3. 🇧🇷 **Buscar aliados**, principalmente **lideranças**, que influenciam as áreas.
+4. 🇧🇷 **Testes e feedbacks constantes**, internos e externos (ex.: times de UX Research), para garantir que a documentação esteja correta e útil.
+5. 🇧🇷 **Capacitar outras pessoas a documentar**, espalhando as boas práticas até virarem parte da cultura da empresa.
+
+### 3. Definindo estrutura e componentes visuais (etapa 2 do DDLC: design)
+
+🇧🇷 No design, pense em:
+- 🇧🇷 **Estrutura do menu** da documentação.
+- 🇧🇷 **Elementos visuais**: logo, identidade visual, cores e fonte. Trazer a identidade da empresa e do produto gera **coesão e consistência** para a pessoa usuária.
+- 🇧🇷 **Recursos visuais** levantados no planejamento (imagens, diagramas): se já existem, é hora de recebê-los e decidir como usá-los.
+
+🇧🇷 **Perguntas do modelo de planejamento para o design:** vai ter as telas do aplicativo? Preciso de mais algum recurso visual? Como quero organizar a documentação na plataforma?
+
+🇧🇷 **No projeto:** o time de design preparou um **Figma** (ferramenta de prototipagem) com as telas do novo app (menu com transferências, investimentos e outros serviços; tela inicial verde com saldo e extrato), o que ajuda a organizar a documentação.
+
+**Assuntos mapeados com stakeholders e SMEs:**
+
+| Assunto | Por que entra |
+|---|---|
+| Serviço de Investimentos | Recurso novo; dar visibilidade |
+| Serviços de Transferências e de Extrato | Algumas informações mudaram com o novo app; aproveitar para atualizar o que já existe |
+| Como criar uma conta | É a "porta de entrada" para atrair novas pessoas depois da mudança |
+| Glossário ou principais conceitos | O público não tem muito conhecimento técnico de finanças |
+| Visão geral do aplicativo | O app é novo; explicar como navegar |
+| Histórico de mudanças | Pedido nas reuniões: ter as **release notes** numa linha do tempo, porque o app seguirá em melhoria contínua |
+
+**Organizando a arquitetura da informação no [Octopus](https://octopus.do/)** (ferramenta de visualização de estrutura):
+1. 🇧🇷 Agrupe assuntos do mesmo "guarda-chuva": investimentos, transferências e extrato viram subseções de uma seção de serviços.
+2. 🇧🇷 **O nome da seção depende do guia de estilo / tom de voz da marca:** mais informal, "Nossos Serviços"; mais formal, "Serviços da Bytebank". O curso escolheu "Nossos Serviços" para ficar mais próximo da pessoa usuária.
+3. 🇧🇷 Subseções facilitam a **manutenção**: serviços novos entram ali depois.
+4. 🇧🇷 Liste os tópicos de cada página (ex.: PIX, DOC e TED dentro de Transferências, sem uma página para cada, a menos que tenham muito conteúdo).
+5. 🇧🇷 "Criar conta" fica no **primeiro nível do menu**, ao lado de "Nossos Serviços", porque não faz sentido dentro de serviços.
+
+~~~mermaid
+flowchart TD
+  D["Documentação Bytebank"] --> V["Visão geral"]
+  D --> S["Nossos Serviços"]
+  S --> T["Transferências<br/>(PIX, DOC, TED)"]
+  S --> E["Extrato"]
+  S --> I["Investimentos"]
+  D --> C["Como criar uma conta"]
+~~~
+
+🇧🇷 Fazer esse desenho antes ajuda a ter ideia do **tamanho** da documentação e de como será a **navegação**.
+
+### 4. Como formatar sua documentação do projeto (Gitbook)
+
+🇧🇷 Vídeo gravado na plataforma, mostrando o Gitbook (registro do conteúdo; no nosso projeto ficamos no GitHub):
+
+- 🇧🇷 **Organização** = o projeto no Gitbook; uma conta pode ter várias. A versão **gratuita basta** (a instrutora usa a paga por causa dos recursos de métricas da Aula 05).
+- 🇧🇷 **Estrutura:** renomear "Untitled" para o nome da documentação ("Bytebank"); a primeira página ("Page") vira "Visão Geral"; **Add new page → New document page** para cada seção (ex.: "Nossos serviços", com a descrição "Conheça os serviços disponíveis da Bytebank"); o **+** cria subpáginas (transferências, extrato, investimentos); arrastar para mudar a ordem.
+- 🇧🇷 **Customize:** prévia da página; tema padrão branco no plano gratuito (boa prática de acessibilidade, documentação "clean"; dá para escolher outra cor sólida); **light/dark mode** com botão para a pessoa escolher e modo padrão definido por você; **paginação** (anterior e próxima página); **compartilhamento** com imagem para redes sociais; idioma do conteúdo; exportar em **PDF**; **Page Rating** (avaliação da página com emojis, "altamente recomendada").
+- 🇧🇷 **Publicar:** Share → Published Web → "Publish this space to the web", que gera o link. Para alterar páginas, entrar em **Edit**.
+
+### 5. Quiz de alternativas para fixar conhecimentos (exercício da plataforma)
+
+⬜ Exercício da Alura (documentação de um app de saúde e bem-estar). Fica para a Letícia responder.
+
+### 6. Para saber mais: dicas para criar e editar imagens, diagramas e vídeos
+
+| Recurso | Dicas da atividade | Ferramentas citadas |
+|---|---|---|
+| **Imagens** | Escolher a ferramenta conforme o projeto; manter **coerência visual** (paleta e estilo alinhados à identidade da documentação; consultar o manual da marca ou o time de UX); nas **capturas de tela**, focar nas informações importantes | [Canva](https://www.canva.com/) e [Snappa](https://snappa.com/) (iniciantes), [Photoshop](https://www.adobe.com/br/products/photoshop) (avançado); Snipping Tool no Windows, Command + Shift + 4 ou 5 no Mac |
+| **Diagramas** | Usar ferramentas especializadas; **sequência lógica**, sem informação desnecessária; **ícones universalmente reconhecidos**; personalizar cores e estilos conforme a identidade visual | [Draw.io](https://app.diagrams.net/), [Lucidchart](https://www.lucidchart.com/) |
+| **Vídeos** | **Roteiros** estruturados e concisos, divididos em seções; **demonstração prática** passo a passo; edição profissional (com apoio de especialistas); **legendas e traduções** para acessibilidade; acompanhar visualizações, comentários e sugestões | [Adobe Premiere](https://www.adobe.com/br/products/premiere), [Wondershare Filmora](https://www.wondershare.net/) |
+
+### 7. Faça como eu fiz: liste as ferramentas e desenvolva um rascunho na plataforma de doc
+
+🇧🇷 Com stakeholders, SMEs e equipes alinhados e a cultura de documentação em mente, criar a estrutura da documentação e definir os componentes visuais (o curso indica o Gitbook).
+
+✅ Projeto prático: [estrutura e ferramentas da documentação da Bytebank](../../../projetos-projects/03-bytebank-gitbook/02-estrutura.md) (no GitHub, por decisão do projeto).
+
+### 8. O que aprendemos?
+
+- ✅ Refinar o projeto.
+- ✅ Construir uma cultura de documentação.
+- ✅ Alinhar com as áreas parceiras (devs e designers).
+- ✅ Criar uma estrutura de documentação.
+- ✅ Definir quais componentes serão usados na documentação.
+
+### Quiz comentado da Aula 02 / Lesson 2 quiz
+
+⬜ A fazer na nossa conversa sobre a aula.
+
+---
+
 ## Livros e links indicados pela aula / Recommended by the course
 
 - 🔗 [Gitbook](https://www.gitbook.com/) (plataforma do projeto, plano gratuito).
 - 📘 [*The Technical Writing Process*](https://www.amazon.com.br/Technical-Writing-Process-five-step-procedures-ebook/dp/B00UA3YX46) (Aula 01).
+- 📘 *Dominando a Redação Técnica: guia essencial para profissionais de tecnologia*, de Ellen Baldin (Aula 02).
+- 🔗 [The Good Docs Project](https://thegooddocsproject.dev/) (templates, Aula 02).
+- 🔗 [Octopus](https://octopus.do/) (estrutura visual da documentação, Aula 02).
