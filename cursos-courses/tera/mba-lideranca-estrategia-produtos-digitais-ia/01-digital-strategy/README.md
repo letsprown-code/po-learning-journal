@@ -29,7 +29,7 @@
 
 | # | Aula / Lesson | Professor(a) / Instructor | Situação / Status |
 |---|---|---|---|
-| 1 | Fundamentos da Estratégia de Negócios | André Nery | ⬜ |
+| 1 | [Fundamentos da Estratégia de Negócios](01-fundamentos-da-estrategia-de-negocios.md) | André Nery | 🟡 nota pronta · falta o quiz |
 | 2 | Modelos de Negócios | André Nery | ⬜ |
 | 3 | O que é estratégia de produto · [nota no DPL](../../digital-product-leadership/01-fundamentos-de-product-management/08-o-que-e-estrategia-de-produto.md) | Bruno Gonzales | ✅ (vista no DPL) |
 | 4 | Desenvolvendo estratégias claras e ambiciosas · [nota no DPL](../../digital-product-leadership/01-fundamentos-de-product-management/09-desenvolvendo-estrategias-claras-e-ambiciosas.md) | Luciana Dahia | ✅ (vista no DPL) |

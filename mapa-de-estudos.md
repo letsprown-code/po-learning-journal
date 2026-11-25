@@ -166,6 +166,32 @@ flowchart TD
 | Escolher o **método de pesquisa** (atitudinal × comportamental, quali × quanti, contexto) e planejar desk research, **teste de usabilidade**, entrevista, survey e grupo focal sem vieses | 6 Métodos de pesquisa | 🔓 |
 | **Sintetizar** uma pesquisa: debriefing, cartões de insight, mapa de afinidades, POV e perguntas "Como nós podemos…?" | 7 Consolidação de pesquisa | 🔓 |
 
+## MBA Tera · Módulo 01: Digital Strategy 🟡
+
+🇧🇷 Seis das 12 aulas gravadas obrigatórias já foram vistas no DPL (marcadas com ✅ e "DPL"). Para concluir: 75% das aulas gravadas obrigatórias e 75% dos encontros ao vivo.
+
+~~~mermaid
+flowchart TD
+    G1["🟡 1 Fundamentos da Estratégia de Negócios"] --> G2["⬜ 2 Modelos de Negócios"] --> G3["✅ 3 O que é estratégia de produto (DPL)"]
+    G3 --> G4["✅ 4 Estratégias claras e ambiciosas (DPL)"] --> G5["✅ 5 Product-Market Fit (DPL)"] --> G6["⬜ 6 Executando e sustentando estratégias"]
+    G6 --> G7["✅ 7 Ciclo de Vida (DPL)"] --> G8["✅ 8 Product Sense (DPL)"] --> G9["⬜ 9 OKRs"]
+    G9 --> G10["✅ 10 Visão de produto (DPL)"] --> G11["⬜ 11 Elementos de uma Boa Estratégia"] --> G12["⬜ 12 Business Cases"]
+    G12 --> BM{{"🔒 Badge: Digital Strategy"}}
+    classDef done fill:#d4edda,stroke:#155724,color:#155724
+    classDef doing fill:#fff3cd,stroke:#856404,color:#533f03
+    classDef todo fill:#f8f9fa,stroke:#6c757d,color:#343a40
+    class G3,G4,G5,G7,G8,G10 done
+    class G1 doing
+    class G2,G6,G9,G11,G12,BM todo
+~~~
+
+### Skills do módulo / Module skills
+
+| Skill | Aula que desbloqueia / Unlocked by | Situação |
+|---|---|---|
+| Identificar as principais características de uma **estratégia de sucesso** (meta × estratégia × tática, estratégia emergente, foco e alocação de recursos) | 1 Fundamentos da Estratégia de Negócios | 🟡 nota pronta, falta o quiz |
+| **Construir e consolidar uma estratégia** com curva de valor, SWOT e análise de portfólio (Ansoff e BCG) | 1 Fundamentos da Estratégia de Negócios | 🟡 nota pronta, falta o quiz |
+
 ## Alura · Formação Technical Writing ✅
 
 ~~~mermaid
