@@ -21,7 +21,7 @@
 
 ## Visão, estratégia e tática / Vision, strategy and tactics
 
-![Três degraus: Visão (onde queremos chegar, o futuro do usuário), Estratégia (o que atacar: escolhas e prioridades) e Tática (como executar: ações de curto prazo, features e roadmap), com o exemplo do Slack em cada degrau.](../../../../imagens-images/dpl-01/visao-estrategia-tatica.png)
+![Três degraus: Visão (onde queremos chegar, o futuro do usuário), Estratégia (o que atacar: escolhas e prioridades) e Tática (como executar: ações de curto prazo, features e roadmap), com o exemplo do Slack em cada degrau.](imagens/visao-estrategia-tatica.png)
 
 | | 🇧🇷 O que é | 🇧🇷 Pergunta | 🇧🇷 Exemplo do Slack |
 |---|---|---|---|

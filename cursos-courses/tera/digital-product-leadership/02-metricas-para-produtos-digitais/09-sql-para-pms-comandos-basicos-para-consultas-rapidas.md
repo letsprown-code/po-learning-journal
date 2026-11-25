@@ -35,7 +35,7 @@
 
 🇧🇷 **Toda consulta começa por uma pergunta de negócio**, como: "Que porcentagem dos usuários vira cliente pagante em até 2 semanas após a inscrição?" ou "Qual é o lifetime value médio por cliente?".
 
-![Anatomia de uma consulta SQL: a pergunta "quais são os 3 itens mais vendidos do inventário?" vira SELECT * FROM inventario ORDER BY vendas DESC LIMIT 3; com cada parte explicada](../../../../imagens-images/dpl-02/anatomia-query-sql.png)
+![Anatomia de uma consulta SQL: a pergunta "quais são os 3 itens mais vendidos do inventário?" vira SELECT * FROM inventario ORDER BY vendas DESC LIMIT 3; com cada parte explicada](imagens/anatomia-query-sql.png)
 
 **Quadro-resumo com os exemplos da aula:**
 

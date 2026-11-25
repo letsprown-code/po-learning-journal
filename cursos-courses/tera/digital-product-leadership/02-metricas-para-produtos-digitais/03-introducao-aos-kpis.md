@@ -23,7 +23,7 @@ flowchart LR
 
 > 🇧🇷 Sem isso, a empresa fica com vários indicadores perdidos, que ninguém sabe o que significam nem consegue comunicar. "Se a gente não torna ele relevante, as pessoas vão esquecer e ninguém vai bater essa meta."
 
-![Os quatro tipos de KPI: produtividade (CAC e ROI), qualidade (tickets e SLA), capacidade (requisições por minuto e entregas por dia) e estratégia (market share e NPS).](../../../../imagens-images/dpl-02/tipos-de-kpis.png)
+![Os quatro tipos de KPI: produtividade (CAC e ROI), qualidade (tickets e SLA), capacidade (requisições por minuto e entregas por dia) e estratégia (market share e NPS).](imagens/tipos-de-kpis.png)
 
 | Tipo | Objetivo | Exemplos da aula |
 |---|---|---|

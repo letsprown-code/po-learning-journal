@@ -36,7 +36,7 @@
 
 ## Big Data e os 5 Vs / Big Data and the 5 Vs
 
-![Os 5 Vs do Big Data: volume, velocidade, variedade, veracidade e valor, cada um com um exemplo da aula. Abaixo: analisar muitos dados não faz um bom analista; entender o que os dados contam, com ética, e levar isso para a decisão, sim.](../../../../imagens-images/dpl-02/cinco-vs-big-data.png)
+![Os 5 Vs do Big Data: volume, velocidade, variedade, veracidade e valor, cada um com um exemplo da aula. Abaixo: analisar muitos dados não faz um bom analista; entender o que os dados contam, com ética, e levar isso para a decisão, sim.](imagens/cinco-vs-big-data.png)
 
 🇧🇷 *Big Data* é um grande conjunto de dados vindo de muitas fontes, com características e estruturas diferentes. A professora comenta que já viu os "Vs" como 3 e como 7; ela usa **5**:
 

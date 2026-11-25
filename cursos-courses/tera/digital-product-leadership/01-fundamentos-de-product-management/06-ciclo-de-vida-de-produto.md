@@ -34,7 +34,7 @@ flowchart LR
 
 🇧🇷 Resumo das quatro dicas: **atingir o *product-market fit*** é uma das responsabilidades mais importantes.
 
-![Curva S: vendas ou aquisição ao longo do tempo. A curva sobe devagar na introdução (foco em retenção, early adopters), passa pelo abismo, sobe rápido no crescimento (foco em mais usuários), estabiliza na maturidade (foco em vazamentos do funil, mercado mainstream) e cai no declínio (foco na causa da queda).](../../../../imagens-images/dpl-01/curva-s-ciclo-de-vida.png)
+![Curva S: vendas ou aquisição ao longo do tempo. A curva sobe devagar na introdução (foco em retenção, early adopters), passa pelo abismo, sobe rápido no crescimento (foco em mais usuários), estabiliza na maturidade (foco em vazamentos do funil, mercado mainstream) e cai no declínio (foco na causa da queda).](imagens/curva-s-ciclo-de-vida.png)
 
 ## Onde está o meu produto? Métricas / Where is my product? Metrics
 📏 🇧🇷 "O que não é metrificável é ingerenciável." As métricas seguem as três pernas da cadeira: **negócio**, **cliente** (experiência) e **produto** (tecnologia). Exemplo: aquisição baixa e custo alto = começo do ciclo; custo começa a baixar = meio; volta a subir de forma recorrente = talvez declínio.

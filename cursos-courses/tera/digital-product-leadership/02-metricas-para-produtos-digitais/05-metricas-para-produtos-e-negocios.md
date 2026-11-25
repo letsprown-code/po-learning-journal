@@ -124,7 +124,7 @@ flowchart LR
 
 🇧🇷 Para saber se o negócio vai bem, dá para olhar de dois jeitos: o **crescimento do negócio** (a relação inteira: a pessoa conhece a cafeteria, toma o café, paga, volta) ou a **performance do produto** (o operador dá conta? o cardápio está claro? a pessoa consegue pagar?). Para cada visão, um framework:
 
-![Dois frameworks de métricas: AARRR, as métricas piratas (aquisição, ativação, retenção, indicação e receita), com visão de crescimento do negócio, usado por growth e marketing; e HEART (adoção, engajamento, sucesso da tarefa, retenção e satisfação), com visão de performance do produto, usado por design. Nos dois, as etapas são relações, não um funil rígido.](../../../../imagens-images/dpl-02/aarrr-e-heart.png)
+![Dois frameworks de métricas: AARRR, as métricas piratas (aquisição, ativação, retenção, indicação e receita), com visão de crescimento do negócio, usado por growth e marketing; e HEART (adoção, engajamento, sucesso da tarefa, retenção e satisfação), com visão de performance do produto, usado por design. Nos dois, as etapas são relações, não um funil rígido.](imagens/aarrr-e-heart.png)
 
 | | **AARRR (métricas piratas)** | **HEART** |
 |---|---|---|
@@ -209,7 +209,7 @@ flowchart LR
 
 🇧🇷 Criado pelo professor juntando **HEART + AARRR + constelação de métricas**, com "gostinho brasileiro". A ideia: **produto e negócio são uma coisa só** (a relação entre cliente e empresa), e a jornada do cliente pode ser acompanhada por **sete grandes indicadores**, cujas iniciais formam **CRESCER**:
 
-![O framework CRESCER, do professor Igor Torres: sete grandes indicadores na jornada do cliente: entrada, engajamento, conversão, retenção, receita, satisfação e compartilhamento. Cada um com o equivalente no HEART e nas métricas piratas, e com o motor de crescimento ligado a ele: entrada e receita ao motor pago, retenção ao motor de aderência e compartilhamento ao motor viral.](../../../../imagens-images/dpl-02/framework-crescer.png)
+![O framework CRESCER, do professor Igor Torres: sete grandes indicadores na jornada do cliente: entrada, engajamento, conversão, retenção, receita, satisfação e compartilhamento. Cada um com o equivalente no HEART e nas métricas piratas, e com o motor de crescimento ligado a ele: entrada e receita ao motor pago, retenção ao motor de aderência e compartilhamento ao motor viral.](imagens/framework-crescer.png)
 
 | Indicador | Pergunta | Equivalente citado |
 |---|---|---|

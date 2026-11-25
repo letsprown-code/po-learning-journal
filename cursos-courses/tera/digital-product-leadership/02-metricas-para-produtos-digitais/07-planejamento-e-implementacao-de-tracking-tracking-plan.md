@@ -28,7 +28,7 @@
 | **Tag** | Trecho de código que a ferramenta fornece (um para web, outro para app). Instalado no produto, envia os dados ao servidor, que depois aparecem na interface |
 | **Modelo de atribuição** | Como atribuir a conversão à origem do tráfego (e-mail, anúncios, WhatsApp…). Comuns: **first click** e **last click**; empresas mais maduras criam o próprio modelo |
 
-![Comparação lado a lado: sem User ID, uma pessoa que acessa por celular, computador e tablet vira 3 sessões e 3 usuários; com User ID, continuam 3 sessões, mas 1 usuário](../../../../imagens-images/dpl-02/user-id-sessoes.png)
+![Comparação lado a lado: sem User ID, uma pessoa que acessa por celular, computador e tablet vira 3 sessões e 3 usuários; com User ID, continuam 3 sessões, mas 1 usuário](imagens/user-id-sessoes.png)
 
 🇧🇷 **E se a pessoa ainda não fez login?** A aula explica que dá para usar o **ID do device** (ou *fingerprint*) como identificador provisório e, quando ela faz login ou cria conta, transferir todo o rastro anterior para o User ID novo. Exemplo do expert: num app imobiliário, as pessoas podiam favoritar imóveis sem login; o histórico ficava no device ID e era ligado à conta depois.
 

@@ -61,7 +61,7 @@ flowchart LR
 
 🇧🇷 Um quadro que reúne as perguntas do diagnóstico para ir preenchendo durante a investigação. A parte de diferenciais, gaps, oportunidades e ameaças funciona como uma **matriz SWOT** (forças, fraquezas, oportunidades e ameaças): o canvas junta várias ferramentas.
 
-![Canvas C>P>E>M com quatro colunas: Cliente (público-alvo, satisfação, feedbacks, jobs to be done), Produto (proposta de valor em uma frase, estágio do ciclo de vida, contribuição e métricas), Empresa (BHAG, fontes de receita, diferenciais, gaps) e Mercado (tendências, oportunidades, ameaças, concorrência). Embaixo, as perguntas de reflexão.](../../../../imagens-images/dpl-01/canvas-cpem.png)
+![Canvas C>P>E>M com quatro colunas: Cliente (público-alvo, satisfação, feedbacks, jobs to be done), Produto (proposta de valor em uma frase, estágio do ciclo de vida, contribuição e métricas), Empresa (BHAG, fontes de receita, diferenciais, gaps) e Mercado (tendências, oportunidades, ameaças, concorrência). Embaixo, as perguntas de reflexão.](imagens/canvas-cpem.png)
 
 | Cliente | Produto | Empresa | Mercado |
 |---|---|---|---|
@@ -114,7 +114,7 @@ flowchart TD
 
 🇧🇷 Se alguém perguntar "qual é a estratégia do seu produto?", a resposta cabe **numa página**, com cinco pontos. Com escolhas claras, os times priorizam e decidem sem precisar consultar alguém a toda hora.
 
-![Os cinco blocos do 1-pager da estratégia: Business intent (o papel do produto no negócio), North Star Metric (o que é sucesso), Público-alvo (quem priorizar), Jobs to be done (necessidades funcionais, emocionais e sociais) e Proposta de valor (o resumo em uma frase).](../../../../imagens-images/dpl-01/one-pager-estrategia.png)
+![Os cinco blocos do 1-pager da estratégia: Business intent (o papel do produto no negócio), North Star Metric (o que é sucesso), Público-alvo (quem priorizar), Jobs to be done (necessidades funcionais, emocionais e sociais) e Proposta de valor (o resumo em uma frase).](imagens/one-pager-estrategia.png)
 
 | Ponto | 🇧🇷 Pergunta | 🇧🇷 Exemplos e dicas do vídeo |
 |---|---|---|

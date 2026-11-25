@@ -84,7 +84,7 @@ flowchart LR
 
 🇧🇷 **Case Uber:** é uma **plataforma multilateral**, com dois segmentos (motoristas e passageiros), então precisa de **dois canvas**. A aula faz o dos passageiros, imaginando o Uber sendo criado do zero (quando esperar táxi levava horas e às vezes era preciso agendar no dia anterior):
 
-![Canvas de proposta de valor do Uber para passageiros. Perfil do cliente (preenchido primeiro): tarefas, dores e ganhos. Mapa de valor (preenchido depois): produtos e serviços, analgésicos e criadores de ganho.](../../../../imagens-images/dpl-01/canvas-proposta-de-valor-uber.png)
+![Canvas de proposta de valor do Uber para passageiros. Perfil do cliente (preenchido primeiro): tarefas, dores e ganhos. Mapa de valor (preenchido depois): produtos e serviços, analgésicos e criadores de ganho.](imagens/canvas-proposta-de-valor-uber.png)
 
 **O que o texto da aula destaca sobre o canvas:**
 - 🇧🇷 Mais da metade das propostas de valor falham em atender às expectativas dos clientes e desaparecem do mercado. O canvas ajuda a evitar isso, porque mostra os problemas do público e o que ele deseja.

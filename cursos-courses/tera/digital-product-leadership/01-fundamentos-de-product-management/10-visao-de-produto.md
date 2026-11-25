@@ -66,7 +66,7 @@
 
 🇧🇷 "O básico bem feito" já ajuda, mas dá para ir bem mais fundo. Para a visão não ficar rasa, olhe o produto por **quatro prismas**:
 
-![Os quatro prismas da visão de produto: O Contexto (fase do ciclo de vida), A Empresa (tradicional, com decisões de cima, ou moderna, com times multifuncionais), O Produto (solução que liga pessoas com dor e problema à empresa com uma oportunidade, ex. Creditas) e O Porquê (Círculo Dourado: todas sabem o que fazem, algumas sabem como, poucas sabem por quê).](../../../../imagens-images/dpl-01/quatro-prismas-visao.png)
+![Os quatro prismas da visão de produto: O Contexto (fase do ciclo de vida), A Empresa (tradicional, com decisões de cima, ou moderna, com times multifuncionais), O Produto (solução que liga pessoas com dor e problema à empresa com uma oportunidade, ex. Creditas) e O Porquê (Círculo Dourado: todas sabem o que fazem, algumas sabem como, poucas sabem por quê).](imagens/quatro-prismas-visao.png)
 
 ### 1. O Contexto: o estágio do ciclo de vida / Context
 
@@ -171,7 +171,7 @@ flowchart LR
 
 🇧🇷 Com esse contexto, a aula aplica **três modelos**:
 
-![Três jeitos de escrever a visão: 1, frase guiada de Roman Pichler em seis partes (para, que estão insatisfeitos com, nosso produto é uma, que oferece, ao contrário de, nós montamos); 2, canvas de visão de Roman Pichler (grupo-alvo e necessidades, produto, objetivos de negócio, que levam à visão); 3, história de Ebi Atawodi em seis passos (era uma vez, então um dia, e por causa disso três vezes, quando finalmente).](../../../../imagens-images/dpl-01/modelo-visao-pichler.png)
+![Três jeitos de escrever a visão: 1, frase guiada de Roman Pichler em seis partes (para, que estão insatisfeitos com, nosso produto é uma, que oferece, ao contrário de, nós montamos); 2, canvas de visão de Roman Pichler (grupo-alvo e necessidades, produto, objetivos de negócio, que levam à visão); 3, história de Ebi Atawodi em seis passos (era uma vez, então um dia, e por causa disso três vezes, quando finalmente).](imagens/modelo-visao-pichler.png)
 
 **Modelo 1: a visão captura decisões estratégicas (Roman Pichler)**
 

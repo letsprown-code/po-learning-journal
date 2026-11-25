@@ -30,7 +30,7 @@
 
 ## A cadeira de três pernas / The three-legged stool
 
-![Diagrama de três círculos sobrepostos: Experiência (desejável), Negócios (rentável) e Viabilidade (construir, manter e escalar). No centro, onde os três se encontram, está a gestão de produtos.](../../../../imagens-images/dpl-01/cadeira-de-tres-pernas.png)
+![Diagrama de três círculos sobrepostos: Experiência (desejável), Negócios (rentável) e Viabilidade (construir, manter e escalar). No centro, onde os três se encontram, está a gestão de produtos.](imagens/cadeira-de-tres-pernas.png)
 
 🇧🇷 Sem uma das três pernas, a cadeira cai. No vídeo: **experiência** (UX, usabilidade) busca que o produto seja **desejável**; **negócios**, que seja **rentável**; **viabilidade/tecnologia**, que dê para construir, manter e escalar. A gestão de produtos fica no centro. Exemplo do dia a dia: a gente abandona apps porque a experiência piorou, porque ficaram caros demais para o que entregam, ou porque a empresa os desligou por serem difíceis de manter. 🇺🇸 Remove one leg and the stool falls: desirable, profitable, feasible.
 
