@@ -192,15 +192,15 @@ flowchart TD
 
 ~~~mermaid
 flowchart TD
-    D1["🟡 1 Iniciando seu processo de documentação"] --> D2["⬜ 2 Estruturando sua documentação"] --> D3["⬜ 3 Escrita e revisão"]
+    D1["✅ 1 Iniciando seu processo de documentação"] --> D2["⬜ 2 Estruturando sua documentação"] --> D3["⬜ 3 Escrita e revisão"]
     D3 --> D4["⬜ 4 Publicação"] --> D5["⬜ 5 Medindo a eficácia"]
     D5 --> B2{{"🔒 Badge: Curso 02 de Technical Writing"}}
 ~~~
 
 | Skill | Aula que desbloqueia / Unlocked by | Situação |
 |---|---|---|
-| Explicar o DDLC e suas 6 etapas | Aula 01 | 🟡 lida, falta exercício |
-| Planejar uma documentação (público, SMEs, ferramentas) | Aula 01 | 🟡 lida, falta exercício |
+| Explicar o DDLC e suas 6 etapas | Aula 01 | 🔓 |
+| Planejar uma documentação (público, SMEs, ferramentas) | Aula 01 | 🔓 |
 | Criar uma documentação técnica com o framework DDLC | Aulas 02 a 04 | 🔒 |
 | Criar um plano de comunicação para divulgar a documentação | Aula 04 | 🔒 |
 | Planejar indicadores de sucesso da documentação | Aula 05 | 🔒 |
