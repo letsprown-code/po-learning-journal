@@ -227,3 +227,11 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Lean Canvas | Lean Canvas | Variação do Business Model Canvas (Ash Maurya) que separa problema, solução e proposta de valor · Canvas for new products | DPL 03 · Product-Market Fit |
 | Alternativas existentes | Existing alternatives | Como as pessoas já resolvem o problema hoje, até manualmente · Current workarounds | DPL 03 · Product-Market Fit |
 | Comprar crescimento | Buying growth | Crescer à base de aquisição paga, mascarando a falta de retenção · Paid growth illusion | DPL 03 · Product-Market Fit |
+| MVP (mínimo produto viável) | Minimum Viable Product | A versão da solução com o menor esforço que já entrega valor, para validar uma hipótese · Least effort, real value | DPL 03 · MVP |
+| MMP / MLP | Minimum Marketable / Lovable Product | O mínimo que o mercado aceita (setores sensíveis) / tão viável que já é amado · MVP variations | DPL 03 · MVP |
+| MVP manual (Mágico de Oz) | Manual / Wizard of Oz MVP | Pessoas fazem por trás o que o produto faria · Humans behind the curtain | DPL 03 · MVP |
+| MVP piecemeal | Piecemeal MVP | Juntar ferramentas prontas em vez de desenvolver do zero · Assembled from existing parts | DPL 03 · MVP |
+| Pré-venda / crowdfunding | Pre-order / crowdfunding | Vender antes de o produto existir para validar a intenção de compra · Pay before it exists | DPL 03 · MVP |
+| Construir → medir → aprender | Build-measure-learn | Ciclo da Startup Enxuta: entregas pequenas que acumulam aprendizado · Lean Startup loop | DPL 03 · MVP |
+| Ótimo mercado | Great market | Grande (ticket médio × quem pagaria), em crescimento e não saturado · Big, growing, underserved | DPL 03 · MVP |
+| TAM | Total Addressable Market | Mercado total de uma indústria; usado sozinho para dizer que o mercado é grande, é armadilha · Top-down market size | DPL 03 · MVP |

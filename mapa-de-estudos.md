@@ -140,7 +140,7 @@ flowchart TD
 
 ~~~mermaid
 flowchart TD
-    D1["✅ 1 Os dados levantam perguntas"] --> D2["✅ 2 Customer Development"] --> D3["✅ 3 Product-Market Fit"] --> D4["⬜ 4 MVP"]
+    D1["✅ 1 Os dados levantam perguntas"] --> D2["✅ 2 Customer Development"] --> D3["✅ 3 Product-Market Fit"] --> D4["✅ 4 MVP"]
     D4 --> D5["⬜ 5 Hipóteses e leitura de dados"] --> D6["⬜ 6 Métodos de pesquisa"] --> D7["⬜ 7 Consolidação de pesquisa"]
     D7 --> D8["⬜ 8 Personas"] --> D9["⬜ 9 Mapa da jornada"] --> D10["⬜ 10 Q&A Persona"] --> D11["⬜ 11 Q&A Jornada"]
     D11 --> D12["⬜ 12 Cultura de experimentação"] --> D13["⬜ 13 Design de experimentos"] --> D14["⬜ 14 Q&A Experimentação"]
@@ -149,8 +149,8 @@ flowchart TD
     D21 --> B3{{"🔒 Badge: Product Discovery"}}
     classDef done fill:#d4edda,stroke:#155724,color:#155724
     classDef todo fill:#f8f9fa,stroke:#6c757d,color:#343a40
-    class D1,D2,D3 done
-    class D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,B3 todo
+    class D1,D2,D3,D4 done
+    class D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,B3 todo
 ~~~
 
 ### Skills do módulo / Module skills
@@ -161,6 +161,7 @@ flowchart TD
 | Montar uma **visão inicial do problema** com fatos e evidências (matriz CSD, visão empírica × validada × plausível, Answer First × Last) | 2 Customer Development | 🔓 |
 | Aplicar as 4 etapas do **Customer Development**, declarar problema e **hipóteses** testáveis e escrever um **job to be done** | 2 Customer Development | 🔓 |
 | Diferenciar **problem-solution fit, product-market fit e escala**; medir o PMF com AARRR, unit economics, NPS e o teste dos 40%; mapear os riscos de produto, cliente e mercado | 3 Product-Market Fit | 🔓 |
+| Escolher o **tipo de MVP** (landing page, pré-venda, vídeo, piecemeal, SaaS/PaaS, manual/Mágico de Oz) conforme a incerteza a reduzir | 4 MVP | 🔓 |
 
 ## Alura · Formação Technical Writing 🟡
 
