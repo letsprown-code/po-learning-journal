@@ -176,7 +176,46 @@ flowchart LR
 
 ### Quiz comentado da Aula 01 / Lesson 1 quiz
 
-⬜ A fazer na nossa conversa sobre a aula.
+<details><summary>1. Segundo a Society for Technical Communication, Technical Writing envolve…</summary>
+
+- ✅ **Comunicar informações complexas para quem precisa realizar uma tarefa ou atingir um objetivo.** É a definição apresentada na aula.
+- ❌ Escrever textos longos e detalhados: TW segue o princípio "menos é mais".
+- ❌ Criar microtextos amigáveis para telas: isso é UX Writing.
+- ❌ Escrever código-fonte com comentários: não é a definição de TW. O que se aproxima disso é o Docs as Code, que trata a documentação *como* código.
+</details>
+
+<details><summary>2. No exemplo do jogo de tabuleiro, o que é Technical Writing?</summary>
+
+- ✅ **O manual de instruções** que define quem ganha, quem perde e quantas pessoas jogam.
+- ❌ "Perde a vez" e a linha de chegada: são textos da interface do tabuleiro, exemplo de UX Writing.
+- ❌ O nome do jogo na caixa: não é citado na aula.
+</details>
+
+<details><summary>3. Qual é uma SEMELHANÇA entre TW e UX Writing?</summary>
+
+- ✅ **As duas usam o texto para orientar uma ação** (além do foco na experiência e do "menos é mais").
+- ❌ Escrita técnica e formal: só vale para TW.
+- ❌ Mais perto dos times de UX e Design: só vale para UX Writing.
+- ❌ Produzir tom e voz: é formato de UX Writing.
+</details>
+
+<details><summary>4. Qual é o principal desafio do modelo Scrum of Writers?</summary>
+
+- ✅ **A TW pode entrar só na etapa final** do ciclo de desenvolvimento, porque atua de forma transversal.
+- ❌ Imersão demais num único time: é o desafio da Participação Direta.
+- ❌ Não conseguir escalar o conhecimento: é o contrário, escalar é uma vantagem desse modelo.
+- ❌ Nunca conversar com os times: não aparece na aula.
+</details>
+
+<details><summary>5. Qual benefício do Docs as Code permite rastrear mudanças e voltar a uma versão anterior?</summary>
+
+- ✅ **Controle de versionamento.**
+- ❌ Colaboração fácil: é sobre devs e redatores contribuírem juntos.
+- ❌ Entrega contínua: é a esteira automática que publica as mudanças.
+- ❌ Arquitetura da informação: é um conhecimento da área, não um benefício do Docs as Code.
+</details>
+
+**O que eu errei e por quê:** ⬜ a preencher depois que eu fizer o quiz.
 
 ---
 
