@@ -204,3 +204,7 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Escopo e não escopo | Scope and non-scope | O que entra e o que fica de fora da documentação, definido pelo público e pelo objetivo · What is in and out | Alura TW 01 · Definição do escopo |
 | Plano de documentação | Documentation plan | Escopo (o quê), cronograma (quando) e ferramentas de trabalho (como) · What, when and how | Alura TW 01 · Plano de documentação técnica |
 | Desenvolvimento orientado à documentação | Documentation-Driven Development (DDD) | A documentação guia o desenvolvimento desde o início, em vez de ficar para o fim · Docs lead development | Alura TW 01 · Para saber mais: DDD |
+| Ciclo de Vida de Desenvolvimento da Documentação | Documentation Development Life Cycle (DDLC) | Framework sistemático e cíclico com 6 etapas: análise e planejamento, design, escrita, revisão, publicação e manutenção · Doc process framework | Alura TW 02 · O que é o DDLC |
+| Especialista no assunto | Subject Matter Expert (SME) | Pessoa que conhece o assunto a fundo e dá contexto e informações para a documentação · Domain expert | Alura TW 02 · Planejamento da documentação |
+| Demonstração | Demo | Quando uma pessoa desenvolvedora apresenta tecnicamente como funciona uma solução; vale gravar para consulta · Technical walkthrough | Alura TW 02 · Planejamento da documentação |
+| Revisão de texto | Proofreading | Ler e validar se o que está escrito atende ao que foi planejado (etapa 4 do DDLC) · Checking the text against the plan | Alura TW 02 · O que é o DDLC |
