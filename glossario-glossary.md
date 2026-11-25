@@ -240,6 +240,16 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Árvore de oportunidades | Opportunity solution tree | Do impacto às oportunidades, hipóteses e soluções; para baixo responde "como?", para cima "por quê?" · Outcome-to-solution tree | DPL 03 · Hipóteses e leitura de dados |
 | Produto instrumentalizado | Instrumented product | Produto que registra os dados de uso para análises futuras · Tracking built in | DPL 03 · Hipóteses e leitura de dados |
 | Segmentação de dados | Data segmentation | Agrupar dados quanti e quali para achar padrões e insights · Grouping to find patterns | DPL 03 · Hipóteses e leitura de dados |
+| Pesquisa atitudinal × comportamental | Attitudinal vs behavioral research | O que as pessoas dizem × o que fazem · Say vs do | DPL 03 · Métodos de pesquisa |
+| Desk research | Desk research | Usar pesquisas já publicadas, de fontes confiáveis, para dar contexto e gerar perguntas (não para decidir) · Secondary research | DPL 03 · Métodos de pesquisa |
+| Teste de usabilidade | Usability test | Observar pessoas fazendo tarefas num produto ou protótipo: exploratório, avaliativo, comparativo ou validativo · Task-based testing | DPL 03 · Métodos de pesquisa |
+| Moderado × não moderado | Moderated vs unmoderated | Com ou sem alguém conduzindo a sessão em tempo real · With or without a facilitator | DPL 03 · Métodos de pesquisa |
+| Teste de cinco segundos / primeiro clique | Five-second / first-click test | Primeira impressão de uma tela / onde a pessoa clicaria primeiro para fazer a tarefa · Quick usability tests | DPL 03 · Métodos de pesquisa |
+| Survey (questionário online) | Survey | Questionário para amostras quantitativas grandes; rápido, mas raso · Online questionnaire | DPL 03 · Métodos de pesquisa |
+| Amostra / população | Sample / population | Subconjunto consultado / todos que compartilham a característica estudada · Who you ask vs who exists | DPL 03 · Métodos de pesquisa |
+| Margem de erro / grau de confiança | Margin of error / confidence level | Parâmetros estatísticos que definem o tamanho da amostra · Sample size parameters | DPL 03 · Métodos de pesquisa |
+| Grupo focal | Focus group | Sessão com um grupo de pessoas e um moderador; rápido, mas com risco de viés de grupo · Group interview | DPL 03 · Métodos de pesquisa |
+| Viés de grupo | Group bias | A maioria (ou quem fala mais) cala opiniões diferentes · Majority drowns others | DPL 03 · Métodos de pesquisa |
 | Partes interessadas | Stakeholders | No curso de TW: pessoas interessadas no projeto de documentação, com quem se alinham expectativas · People invested in the doc project | Alura TW 02 · Refinamento e alinhamento |
 | Definição de pronto | Definition of Done (DoD) | Conceito do Scrum: quando a entrega é considerada pronta; ajuda a alinhar expectativas sobre a documentação · When work counts as done | Alura TW 02 · Refinamento e alinhamento |
 | Cultura de documentação | Documentation culture | Fazer a documentação ser vista como importante por todos, não só por Tech Writers (ex.: documentação como critério de aceite) · Docs valued by everyone | Alura TW 02 · Construindo uma cultura de documentação |
