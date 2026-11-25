@@ -139,16 +139,16 @@ flowchart TD
 
 ~~~mermaid
 flowchart LR
-    C1["🟡 01 Estratégias, ferramentas e boas práticas<br/>5 de 5 aulas · falta 1 exercício"] --> C2["⬜ 02 Documentação do zero com DDLC"]
+    C1["✅ 01 Estratégias, ferramentas e boas práticas<br/>concluído em 25/11/2026"] --> C2["⬜ 02 Documentação do zero com DDLC"]
 ~~~
 
-### Curso 01: Aprenda estratégias, ferramentas e boas práticas 🟡
+### Curso 01: Aprenda estratégias, ferramentas e boas práticas ✅
 
 ~~~mermaid
 flowchart TD
     A1["✅ 1 O que é Technical Writing?"] --> A2["✅ 2 Tipos de documentação técnica"] --> A3["✅ 3 Boas práticas de escrita"]
-    A3 --> A4["🟡 4 Outros formatos (falta 1 exercício)"] --> A5["✅ 5 Planejamento e análise"]
-    A5 --> B{{"🔒 Badge: Curso 01 de Technical Writing"}}
+    A3 --> A4["✅ 4 Outros formatos de conteúdo técnico"] --> A5["✅ 5 Planejamento e análise"]
+    A5 --> B{{"🔓 Badge: Curso 01 de Technical Writing"}}
 ~~~
 
 | Skill | Aula que desbloqueia / Unlocked by | Situação |

@@ -6,7 +6,7 @@
 | Curso / Course | Formação Technical Writing (2 cursos, 18 h) / Technical Writing track (2 courses) |
 | Módulo / Module | 01 · Technical Writing: aprenda estratégias, ferramentas e boas práticas (10 h, introdutório) |
 | Instrutora / Instructor | Mari Moreira (líder de Developer Communications no Mercado Pago) |
-| Situação / Status | 🟡 Em andamento · 68% na Alura · Aulas 01 a 03 concluídas / In progress · lessons 1–3 done |
+| Situação / Status | ✅ Concluído na Alura em 25/11/2026 (100%) · faltam os quizzes comentados das Aulas 04 e 05 e conferir os erros dos quizzes |
 | Fonte / Source | [Alura: Technical Writing: aprenda estratégias, ferramentas e boas práticas](https://cursos.alura.com.br/course/technical-writing-estrategias-ferramentas-boas-praticas) (login) |
 
 🇧🇷 Sobre o curso (texto da plataforma): entender o que é Technical Writing e a diferença para UX Writing, conhecer boas práticas e os principais tipos de documentação técnica em TI, aplicar arquitetura da informação, desenvolver documentações como release notes, troubleshooting e tutoriais, e aprender a planejar e analisar documentações.
@@ -20,7 +20,7 @@
 | 1 | O que é Technical Writing? | 12 | ✅ 12/12 na Alura · falta conferir o quiz |
 | 2 | Tipos de documentação técnica | 11 | ✅ 11/11 na Alura · falta conferir o quiz |
 | 3 | Boas práticas de escrita para documentação | 11 | ✅ 11/11 na Alura · falta conferir o quiz |
-| 4 | Outros formatos de conteúdo técnico | 7 | 🟡 Lida, falta exercício + quiz |
+| 4 | Outros formatos de conteúdo técnico | 7 | ✅ 7/7 na Alura · falta conferir o quiz |
 | 5 | Planejamento e análise de documentações | 9 | ✅ 9/9 na Alura · falta conferir o quiz |
 
 ---
@@ -688,7 +688,12 @@ flowchart TD
 
 ### 5. Documentação mais indicada (exercício da plataforma)
 
-⬜ Exercício de múltipla escolha da Alura. Fica para a Letícia responder.
+✅ Respondido pela Letícia na plataforma, na segunda tentativa.
+
+- **Pergunta:** quem acabou de entrar num time e precisa de uma **visão geral** das funcionalidades e da navegação básica, como **novo usuário**, deve usar qual documentação?
+- ❌ **Primeira escolha: Guia do Usuário.** Errado porque o guia do usuário é mais detalhado e abrangente do que uma introdução rápida precisa; serve para explorar funcionalidades específicas a fundo.
+- ✅ **Resposta certa: Guia de Início Rápido**, porque dá uma visão geral rápida do básico para quem está no ponto zero e quer começar.
+- 💡 **Lição:** as palavras-chave "novos usuários" e "começar" apontam para o início rápido; "todos os aspectos do produto" apontaria para o guia do usuário.
 
 ### 6. Faça como eu fiz: escolha um dos formatos da aula para completar o projeto
 

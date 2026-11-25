@@ -3,7 +3,7 @@
 | Campo / Field | Valor / Value |
 |---|---|
 | Aplica / Applies | [Alura · Technical Writing 01: estratégias, ferramentas e boas práticas](../../cursos-courses/alura/technical-writing/01-estrategias-ferramentas-boas-praticas.md) |
-| Situação / Status | 🟡 Em andamento / In progress |
+| Situação / Status | ✅ Entregas do curso feitas; troubleshooting e release notes são extras opcionais |
 | Papel / Role | Tech Writer da Bytebank, um banco digital **fictício** usado no curso |
 | Inspiração / Reference | [Repositório do projeto do curso (alura-cursos/projeto-alura)](https://github.com/alura-cursos/projeto-alura) |
 
