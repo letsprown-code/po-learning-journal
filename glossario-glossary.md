@@ -217,3 +217,13 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Pivotar | Pivot | Mudar a rota com base no aprendizado, de preferência cedo · Change course | DPL 03 · Customer Development |
 | Painkiller × vitamina | Painkiller vs vitamin | Resolve uma dor real (need to have) × é só "legal de ter" (nice to have) · Need vs nice to have | DPL 03 · Customer Development |
 | Jobs to be Done (JTBD) | Jobs to be Done | As pessoas "contratam" produtos para realizar uma tarefa; escreve-se verbo + objeto + contexto · The job behind the purchase | DPL 03 · Customer Development |
+| Product-market fit (PMF) | Product-market fit | Encaixe produto-mercado: um mercado bom e grande quer o produto (aquisição, retenção, pagamento) · Market wants your product | DPL 03 · Product-Market Fit |
+| Problem-solution fit | Problem-solution fit | Uma solução resolve um problema conhecido para um grupo identificável; vem antes do PMF · Solution fits a real problem | DPL 03 · Product-Market Fit |
+| Early adopters | Early adopters | Primeiros usuários, dispostos a testar soluções incompletas · First users | DPL 03 · Product-Market Fit |
+| HiPPO | HiPPO (highest paid person's opinion) | Decidir pela opinião de quem ganha mais na sala, em vez de por métricas · Opinion over data | DPL 03 · Product-Market Fit |
+| Métrica de vaidade | Vanity metric | Número bonito que não indica valor (downloads, likes); evite pareando métricas · Looks good, means little | DPL 03 · Product-Market Fit |
+| Unit economics | Unit economics | Receita e custos por cliente (ex.: LTV ÷ CAC) · Per-unit profitability | DPL 03 · Product-Market Fit |
+| Teste de Sean Ellis (40%) | Sean Ellis test | PMF se 40% ou mais ficariam muito desapontados sem o produto · "Very disappointed" survey | DPL 03 · Product-Market Fit |
+| Lean Canvas | Lean Canvas | Variação do Business Model Canvas (Ash Maurya) que separa problema, solução e proposta de valor · Canvas for new products | DPL 03 · Product-Market Fit |
+| Alternativas existentes | Existing alternatives | Como as pessoas já resolvem o problema hoje, até manualmente · Current workarounds | DPL 03 · Product-Market Fit |
+| Comprar crescimento | Buying growth | Crescer à base de aquisição paga, mascarando a falta de retenção · Paid growth illusion | DPL 03 · Product-Market Fit |

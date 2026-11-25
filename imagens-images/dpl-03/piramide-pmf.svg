@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="t d" font-family="Inter, sans-serif">
+  <title id="t">Pirâmide do product-market fit (Dan Olsen)</title>
+  <desc id="d">Pirâmide em cinco camadas, construída de baixo para cima. Mercado (a base): 1, cliente-alvo; 2, necessidades não atendidas ou mal atendidas. Produto (o topo): 3, proposta de valor (o benefício, não a feature); 4, conjunto de funcionalidades, onde entra o MVP; 5, experiência do usuário (UX). A base dá mais trabalho e tem mais risco; quando o produto testado se encaixa no mercado, há product-market fit. Começar pelo topo é como pôr a pirâmide de cabeça para baixo: ela tomba.</desc>
+  <rect width="960" height="600" fill="#FFFFFF"/>
+  <text x="40" y="58" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">A pirâmide do</text>
+  <rect x="263" y="32" width="300" height="34" rx="3" fill="#DFFF00"/>
+  <text x="413" y="58" text-anchor="middle" font-size="32" font-weight="900" letter-spacing="-0.8" fill="#0D0D0D">product-market fit</text>
+  <text x="40" y="88" font-size="14" font-weight="700" letter-spacing="1.6" fill="#5E5E5E">DAN OLSEN · CONSTRUA DE BAIXO PARA CIMA</text>
+
+  <g stroke="#0D0D0D" stroke-width="2" fill="#FFFFFF">
+    <polygon points="300,120 360,120 384,190 276,190"/>
+    <polygon points="276,190 384,190 412,270 248,270"/>
+    <polygon points="248,270 412,270 440,350 220,350"/>
+    <polygon points="200,370 460,370 490,450 170,450"/>
+    <polygon points="170,450 490,450 520,530 140,530"/>
+  </g>
+  <g font-size="22" font-weight="900" fill="#0D0D0D" text-anchor="middle">
+    <text x="330" y="164">5</text><text x="330" y="238">4</text><text x="330" y="318">3</text><text x="330" y="418">2</text><text x="330" y="498">1</text>
+  </g>
+
+  <g font-size="16" fill="#0D0D0D">
+    <text x="560" y="152" font-weight="700">5 · Experiência do usuário (UX)</text>
+    <text x="560" y="174" font-size="14" fill="#5E5E5E">detalhes como cor e interação: por último</text>
+    <text x="560" y="226" font-weight="700">4 · Conjunto de funcionalidades</text>
+    <text x="560" y="248" font-size="14" fill="#5E5E5E">aqui entra o MVP</text>
+    <text x="560" y="306" font-weight="700">3 · Proposta de valor</text>
+    <text x="560" y="328" font-size="14" fill="#5E5E5E">o benefício que se entrega, não a feature</text>
+    <text x="560" y="406" font-weight="700">2 · Necessidades não atendidas</text>
+    <text x="560" y="428" font-size="14" fill="#5E5E5E">ou mal atendidas (as dores)</text>
+    <text x="560" y="486" font-weight="700">1 · Cliente-alvo</text>
+    <text x="560" y="508" font-size="14" fill="#5E5E5E">quem tem as dores em comum</text>
+  </g>
+
+  <g stroke="#A0B300" stroke-width="2" fill="none">
+    <path d="M 120 122 L 108 122 L 108 348 L 120 348"/>
+    <path d="M 120 372 L 108 372 L 108 528 L 120 528"/>
+  </g>
+  <g font-size="13" font-weight="700" letter-spacing="1.4" fill="#0D0D0D">
+    <text x="94" y="240" text-anchor="middle" transform="rotate(-90 94 240)">PRODUTO</text>
+    <text x="94" y="450" text-anchor="middle" transform="rotate(-90 94 450)">MERCADO</text>
+  </g>
+  <text x="330" y="364" text-anchor="middle" font-size="13" font-weight="700" fill="#5E5E5E">↕ testar o produto no mercado = encaixe (PMF)</text>
+  <text x="40" y="570" font-size="15" fill="#0D0D0D">A base dá mais trabalho e tem mais risco: mercado vem antes do produto. Pirâmide de ponta-cabeça tomba.</text>
+</svg>
