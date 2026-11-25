@@ -208,3 +208,12 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Especialista no assunto | Subject Matter Expert (SME) | Pessoa que conhece o assunto a fundo e dá contexto e informações para a documentação · Domain expert | Alura TW 02 · Planejamento da documentação |
 | Demonstração | Demo | Quando uma pessoa desenvolvedora apresenta tecnicamente como funciona uma solução; vale gravar para consulta · Technical walkthrough | Alura TW 02 · Planejamento da documentação |
 | Revisão de texto | Proofreading | Ler e validar se o que está escrito atende ao que foi planejado (etapa 4 do DDLC) · Checking the text against the plan | Alura TW 02 · O que é o DDLC |
+| Discovery (descoberta de produto) | Product discovery | Investigar o porquê dos dados: comportamentos, dores e motivações, gerando hipóteses · Exploring the why | DPL 03 · Os dados levantam perguntas |
+| Customer Development | Customer Development | Processo de Steve Blank para achar o product/market fit: discovery, validation, creation, company building · Search then execute | DPL 03 · Customer Development |
+| Matriz CSD | CSD matrix | Certezas, suposições e dúvidas sobre um problema · What you know, assume and doubt | DPL 03 · Customer Development |
+| Visão empírica / validada / plausível | Empirical / validated / plausible vision | Convicção sem evidência / com muita evidência (risco de discovery eterno) / fortalecida por evidências em ciclos curtos · Conviction vs evidence | DPL 03 · Customer Development |
+| Paradoxo do product manager | PM paradox | Apaixonar-se pela solução sem evidências e só descobrir o erro após lançar · Falling for your solution | DPL 03 · Customer Development |
+| Answer First / Answer Last | Answer First / Answer Last | Já ter respostas e partir para validar / precisar de discovery para aprender sobre o problema · Validate vs discover | DPL 03 · Customer Development |
+| Pivotar | Pivot | Mudar a rota com base no aprendizado, de preferência cedo · Change course | DPL 03 · Customer Development |
+| Painkiller × vitamina | Painkiller vs vitamin | Resolve uma dor real (need to have) × é só "legal de ter" (nice to have) · Need vs nice to have | DPL 03 · Customer Development |
+| Jobs to be Done (JTBD) | Jobs to be Done | As pessoas "contratam" produtos para realizar uma tarefa; escreve-se verbo + objeto + contexto · The job behind the purchase | DPL 03 · Customer Development |

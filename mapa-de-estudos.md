@@ -136,6 +136,31 @@ flowchart TD
 | Escrever **consultas SQL básicas** (SELECT, WHERE, ORDER BY, LIMIT, IN, BETWEEN, LIKE, IS NULL) a partir de uma pergunta de negócio | 9 SQL para PMs | 🔓 |
 | Definir objetivos e KPIs de um negócio novo com **OGSM** e metas **SMART** (caso TeraMove) | 11 Desafio KPI | 🔓 |
 
+## DPL · Módulo 03: Introdução a Product Discovery 🟡
+
+~~~mermaid
+flowchart TD
+    D1["✅ 1 Os dados levantam perguntas"] --> D2["✅ 2 Customer Development"] --> D3["⬜ 3 Product-Market Fit"] --> D4["⬜ 4 MVP"]
+    D4 --> D5["⬜ 5 Hipóteses e leitura de dados"] --> D6["⬜ 6 Métodos de pesquisa"] --> D7["⬜ 7 Consolidação de pesquisa"]
+    D7 --> D8["⬜ 8 Personas"] --> D9["⬜ 9 Mapa da jornada"] --> D10["⬜ 10 Q&A Persona"] --> D11["⬜ 11 Q&A Jornada"]
+    D11 --> D12["⬜ 12 Cultura de experimentação"] --> D13["⬜ 13 Design de experimentos"] --> D14["⬜ 14 Q&A Experimentação"]
+    D14 --> D15["⬜ 15 Prototipagem rápida"] --> D16["⬜ 16 Arquitetura da informação"] --> D17["⬜ 17 Mitigação de riscos"]
+    D17 --> D18["⬜ 18 Continuous Discovery"] --> D19["⬜ 19 Q&A Prototipagem"] --> D20["⬜ 20 Conclusão + teste"] --> D21["⬜ 21 Desafio do mercado"]
+    D21 --> B3{{"🔒 Badge: Product Discovery"}}
+    classDef done fill:#d4edda,stroke:#155724,color:#155724
+    classDef todo fill:#f8f9fa,stroke:#6c757d,color:#343a40
+    class D1,D2 done
+    class D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,B3 todo
+~~~
+
+### Skills do módulo / Module skills
+
+| Skill | Aula que desbloqueia / Unlocked by | Situação |
+|---|---|---|
+| Passar de "o que está acontecendo" (métricas) para "por quê" (discovery), com perguntas e escuta ativa | 1 Os dados levantam perguntas | 🔓 |
+| Montar uma **visão inicial do problema** com fatos e evidências (matriz CSD, visão empírica × validada × plausível, Answer First × Last) | 2 Customer Development | 🔓 |
+| Aplicar as 4 etapas do **Customer Development**, declarar problema e **hipóteses** testáveis e escrever um **job to be done** | 2 Customer Development | 🔓 |
+
 ## Alura · Formação Technical Writing 🟡
 
 ~~~mermaid
