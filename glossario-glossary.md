@@ -162,6 +162,9 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | CRUD | CRUD | Create, Retrieve, Update, Delete; a PM costuma só ler (retrieve) · Four data operations | DPL 02 · SQL para PMs |
 | Alias | Alias | Apelido dado a uma coluna com AS · Column nickname | DPL 02 · SQL para PMs |
 | Coringa | Wildcard (%) | Representa um ou mais caracteres numa busca com LIKE · Matches any characters | DPL 02 · SQL para PMs |
+| OGSM | OGSM (Objectives, Goals, Strategies, Measures) | Objetivo macro, metas, estratégias e medições; usada por grandes empresas para o longo prazo · Long-term planning framework | DPL 02 · Desafio KPI |
+| Desbancarizado | Unbanked | Pessoa sem conta em banco, que usa dinheiro físico · No bank account | DPL 02 · Desafio KPI |
+| Money-out | Money-out | Saída de dinheiro da conta, como transferências · Outgoing funds | DPL 02 · Desafio KPI |
 | Escrita técnica | Technical Writing (TW) | Comunicar informações complexas para quem precisa realizar uma tarefa ou atingir um objetivo (definição da Society for Technical Communication) · Communicating complex information to those who need it to accomplish a task or goal | Alura TW 01 · O que é Technical Writing |
 | Escrita de UX | UX Writing | Escrita amigável e conversacional da interface (microtextos, tom e voz), mais próxima dos times de UX e Design · Friendly, conversational interface copy | Alura TW 01 · Technical Writing x UX Writing |
 | Microtextos | Microcopy | Frases curtas que aparecem nas etapas de um aplicativo, como botões e campos · Short texts in an app's screens | Alura TW 01 · Technical Writing x UX Writing |

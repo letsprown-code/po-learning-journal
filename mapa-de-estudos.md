@@ -106,12 +106,12 @@ flowchart TD
     N1["✅ 1 Depois da base, é hora de medir"] --> N2["✅ 2 Introdução aos Dados"] --> N3["✅ 3 Introdução aos KPIs"]
     N3 --> N4["✅ 4 Definição e Comunicação de KPIs"] --> N5["✅ 5 Métricas para Produtos e Negócios"] --> N6["✅ 6 Teste de Hipóteses"]
     N6 --> N7["✅ 7 Tracking Plan"] --> N8["✅ 8 Cultura de Analytics"] --> N9["✅ 9 SQL para PMs"]
-    N9 --> N10["⬜ 10 Conclusão + teste"] --> N11["⬜ 11 Desafio: decisão com KPI"]
+    N9 --> N10["⬜ 10 Conclusão + teste"] --> N11["✅ 11 Desafio: decisão com KPI"]
     N11 --> B2{{"🔒 Badge: Métricas"}}
     classDef done fill:#d4edda,stroke:#155724,color:#155724
     classDef todo fill:#f8f9fa,stroke:#6c757d,color:#343a40
-    class N1,N2,N3,N4,N5,N6,N7,N8,N9 done
-    class N10,N11,B2 todo
+    class N1,N2,N3,N4,N5,N6,N7,N8,N9,N11 done
+    class N10,B2 todo
 ~~~
 
 ### Skills do módulo / Module skills
@@ -134,6 +134,7 @@ flowchart TD
 | Montar um **tracking plan**: definir o que medir em colaboração, padronizar nomes de eventos e parâmetros, documentar e validar a coleta (GTM, dataLayer, debuggers) | 7 Tracking Plan | 🔓 |
 | Transformar ideias em **hipóteses testáveis** (Test Card, métrica de saúde, critério de sucesso) e conduzir um **processo de experimentação** do objetivo à documentação | 8 Cultura de Analytics | 🔓 |
 | Escrever **consultas SQL básicas** (SELECT, WHERE, ORDER BY, LIMIT, IN, BETWEEN, LIKE, IS NULL) a partir de uma pergunta de negócio | 9 SQL para PMs | 🔓 |
+| Definir objetivos e KPIs de um negócio novo com **OGSM** e metas **SMART** (caso TeraMove) | 11 Desafio KPI | 🔓 |
 
 ## Alura · Formação Technical Writing 🟡
 
