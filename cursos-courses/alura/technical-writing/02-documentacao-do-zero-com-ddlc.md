@@ -19,7 +19,7 @@
 | # | Aula / Lesson | Atividades / Activities | Situação / Status |
 |---|---|---|---|
 | 1 | Iniciando seu processo de documentação | 10 | ✅ 10/10 na Alura · falta quiz |
-| 2 | Estruturando sua documentação | 8 | 🟡 Lida, falta exercício + quiz |
+| 2 | Estruturando sua documentação | 8 | ✅ 8/8 na Alura · falta quiz |
 | 3 | Escrita e revisão | 9 | ⬜ |
 | 4 | Publicação | 7 | ⬜ |
 | 5 | Medindo a eficácia da sua documentação | 9 | ⬜ |
@@ -224,7 +224,11 @@ flowchart TD
 
 ### 5. Quiz de alternativas para fixar conhecimentos (exercício da plataforma)
 
-⬜ Exercício da Alura (documentação de um app de saúde e bem-estar). Fica para a Letícia responder.
+✅ Respondido pela Letícia na plataforma (acertou: B e D). Explicações da plataforma:
+
+- ✅ **D. Valorizar a formatação visual:** é crucial para comunicar bem, principalmente em saúde; uma apresentação organizada ajuda a compreensão e a adesão, e ignorá-la prejudica a documentação e a experiência da pessoa usuária.
+- ✅ **B. Envolver especialistas em saúde desde o início:** escolha da Letícia, aceita pela plataforma.
+- ❌ **C. Estruturar só pelas características técnicas:** desconsiderar a experiência da pessoa usuária e os benefícios para a saúde pode deixar a informação inacessível ou menos motivadora; a abordagem deve ser holística. *(Esta alternativa foi marcada por engano do Claude ao clicar, não pela Letícia.)*
 
 ### 6. Para saber mais: dicas para criar e editar imagens, diagramas e vídeos
 
