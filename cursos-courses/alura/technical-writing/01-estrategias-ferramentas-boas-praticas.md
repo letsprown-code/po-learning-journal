@@ -6,7 +6,7 @@
 | Curso / Course | Formação Technical Writing (2 cursos, 18 h) / Technical Writing track (2 courses) |
 | Módulo / Module | 01 · Technical Writing: aprenda estratégias, ferramentas e boas práticas (10 h, introdutório) |
 | Instrutora / Instructor | Mari Moreira (líder de Developer Communications no Mercado Pago) |
-| Situação / Status | 🟡 Em andamento · Aulas 01 a 03 de 5 lidas / In progress · lessons 1–3 of 5 read |
+| Situação / Status | 🟡 Em andamento · 68% na Alura · Aulas 01 a 03 concluídas / In progress · lessons 1–3 done |
 | Fonte / Source | [Alura: Technical Writing: aprenda estratégias, ferramentas e boas práticas](https://cursos.alura.com.br/course/technical-writing-estrategias-ferramentas-boas-praticas) (login) |
 
 🇧🇷 Sobre o curso (texto da plataforma): entender o que é Technical Writing e a diferença para UX Writing, conhecer boas práticas e os principais tipos de documentação técnica em TI, aplicar arquitetura da informação, desenvolver documentações como release notes, troubleshooting e tutoriais, e aprender a planejar e analisar documentações.
@@ -17,9 +17,9 @@
 
 | # | Aula / Lesson | Atividades / Activities | Situação / Status |
 |---|---|---|---|
-| 1 | O que é Technical Writing? | 12 | 🟡 Lida, falta conversa + quiz |
-| 2 | Tipos de documentação técnica | 11 | 🟡 Lida, falta conversa + quiz |
-| 3 | Boas práticas de escrita para documentação | 11 | 🟡 Lida, falta conversa + quiz |
+| 1 | O que é Technical Writing? | 12 | ✅ 12/12 na Alura · falta conferir o quiz |
+| 2 | Tipos de documentação técnica | 11 | ✅ 11/11 na Alura · falta conferir o quiz |
+| 3 | Boas práticas de escrita para documentação | 11 | ✅ 11/11 na Alura · falta conferir o quiz |
 | 4 | Outros formatos de conteúdo técnico | 7 | ⬜ |
 | 5 | Planejamento e análise de documentações | 9 | ⬜ |
 
@@ -389,7 +389,7 @@ flowchart TD
 
 ### 11. O que aprendemos? (exercício da plataforma)
 
-⬜ Atividade aberta da Alura: explicar com as próprias palavras os principais conceitos da aula. Fica para a Letícia responder na plataforma.
+✅ Resposta aberta enviada na plataforma (texto aprovado pela Letícia). O retorno da Alura elogiou a diferença entre tutorial (aprendizado) e how-to (tarefa) e o uso da matriz Diátaxis.
 
 ### Quiz comentado da Aula 02 / Lesson 2 quiz
 
