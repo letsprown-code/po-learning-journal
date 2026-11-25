@@ -235,3 +235,8 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Construir → medir → aprender | Build-measure-learn | Ciclo da Startup Enxuta: entregas pequenas que acumulam aprendizado · Lean Startup loop | DPL 03 · MVP |
 | Ótimo mercado | Great market | Grande (ticket médio × quem pagaria), em crescimento e não saturado · Big, growing, underserved | DPL 03 · MVP |
 | TAM | Total Addressable Market | Mercado total de uma indústria; usado sozinho para dizer que o mercado é grande, é armadilha · Top-down market size | DPL 03 · MVP |
+| Framing do problema | Problem framing | Habilidade de definir bem o problema, ligando a dor do cliente ao objetivo do negócio · Defining the right problem | DPL 03 · Hipóteses e leitura de dados |
+| 5 porquês | 5 whys | Perguntar "por quê?" a cada resposta para chegar à causa do problema · Root-cause technique | DPL 03 · Hipóteses e leitura de dados |
+| Árvore de oportunidades | Opportunity solution tree | Do impacto às oportunidades, hipóteses e soluções; para baixo responde "como?", para cima "por quê?" · Outcome-to-solution tree | DPL 03 · Hipóteses e leitura de dados |
+| Produto instrumentalizado | Instrumented product | Produto que registra os dados de uso para análises futuras · Tracking built in | DPL 03 · Hipóteses e leitura de dados |
+| Segmentação de dados | Data segmentation | Agrupar dados quanti e quali para achar padrões e insights · Grouping to find patterns | DPL 03 · Hipóteses e leitura de dados |
