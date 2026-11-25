@@ -172,3 +172,15 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Scrum of Writers | Scrum of Writers | Modelo com um time dedicado de TWs atuando de forma transversal em vários times de produto · Dedicated cross-team writers group | Alura TW 01 · Tipos de entregas em TW |
 | Documentação como código | Docs as Code | Tratar a documentação como um projeto de software, com versões, revisões e entrega contínua no mesmo ecossistema do código · Treating docs like software | Alura TW 01 · Docs as Code |
 | Linguagem de marcação | Markup language | Linguagem que usa símbolos para formatar texto, como Markdown e XML · Uses symbols to format text | Alura TW 01 · Habilidades e perfil de um Tech Writer |
+| Fonte única da verdade | Single Source of Truth | Fonte fiel e confiável onde a pessoa encontra as principais informações de um produto · A trusted single source | Alura TW 01 · O que é uma documentação técnica? |
+| Documentação funcional | Functional / overview documentation | Contextualiza e apresenta um produto, serviço ou recurso; costuma abrir os portais de documentação · Introduces and contextualizes | Alura TW 01 · Documentação funcional |
+| Sumário | Table of contents | Lista, no início do documento, os assuntos que ele aborda · List of topics at the top | Alura TW 01 · Documentação funcional |
+| Tutorial | Tutorial | Passo a passo detalhado, com os porquês, orientado à aprendizagem (estudo) · Learning-oriented steps | Alura TW 01 · Tutoriais e guias how-to |
+| Guia prático | How-to guide | Passo a passo direto, focado em realizar uma tarefa (trabalho) · Task-oriented steps | Alura TW 01 · Tutoriais e guias how-to |
+| Diátaxis | Diátaxis | Framework de documentação de Daniele Procida com quatro formas: tutorial, guia prático, referência e explicação · Four-part documentation framework | Alura TW 01 · Tutoriais e guias how-to / Diátaxis |
+| Resolução de problemas | Troubleshooting | Lista possíveis erros do produto e apresenta as soluções · Known errors and their fixes | Alura TW 01 · Troubleshooting |
+| Referência de API | API reference | Documento com as especificações técnicas de uma API: recursos, métodos, endpoints, requisições, respostas e erros · Technical specs of an API | Alura TW 01 · Documentação de API |
+| Empresa API-first | API-first company | Empresa cujo negócio principal é criar APIs para outras empresas (ex.: Adyen, Stripe) · Business built on APIs | Alura TW 01 · Documentação de API |
+| Versão maior / menor | Major / minor release | Major: mudança grande (1.0 → 2.0); minor: mudança menor (1.0 → 1.1) · Big vs small version change | Alura TW 01 · Release notes |
+| Problemas conhecidos | Known issues | Erros já mapeados em versões anteriores que ainda estão sendo resolvidos · Mapped but unresolved bugs | Alura TW 01 · Release notes |
+| Correções de bugs | Bug fixes | Erros encontrados na aplicação e corrigidos pelo time · Fixed errors | Alura TW 01 · Release notes |

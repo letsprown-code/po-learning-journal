@@ -6,7 +6,7 @@
 | Curso / Course | Formação Technical Writing (2 cursos, 18 h) / Technical Writing track (2 courses) |
 | Módulo / Module | 01 · Technical Writing: aprenda estratégias, ferramentas e boas práticas (10 h, introdutório) |
 | Instrutora / Instructor | Mari Moreira (líder de Developer Communications no Mercado Pago) |
-| Situação / Status | 🟡 Em andamento · Aula 01 de 5 lida, aguardando conversa e quiz / In progress · lesson 1 of 5 read |
+| Situação / Status | 🟡 Em andamento · Aulas 01 e 02 de 5 lidas / In progress · lessons 1–2 of 5 read |
 | Fonte / Source | [Alura: Technical Writing: aprenda estratégias, ferramentas e boas práticas](https://cursos.alura.com.br/course/technical-writing-estrategias-ferramentas-boas-praticas) (login) |
 
 🇧🇷 Sobre o curso (texto da plataforma): entender o que é Technical Writing e a diferença para UX Writing, conhecer boas práticas e os principais tipos de documentação técnica em TI, aplicar arquitetura da informação, desenvolver documentações como release notes, troubleshooting e tutoriais, e aprender a planejar e analisar documentações.
@@ -18,7 +18,7 @@
 | # | Aula / Lesson | Atividades / Activities | Situação / Status |
 |---|---|---|---|
 | 1 | O que é Technical Writing? | 12 | 🟡 Lida, falta conversa + quiz |
-| 2 | Tipos de documentação técnica | 11 | ⬜ |
+| 2 | Tipos de documentação técnica | 11 | 🟡 Lida, falta conversa + quiz |
 | 3 | Boas práticas de escrita para documentação | 11 | ⬜ |
 | 4 | Outros formatos de conteúdo técnico | 7 | ⬜ |
 | 5 | Planejamento e análise de documentações | 9 | ⬜ |
@@ -219,8 +219,188 @@ flowchart LR
 
 ---
 
+## Aula 02 · Tipos de documentação técnica / Types of technical documentation
+
+### 1. Preparando o ambiente
+
+🇧🇷 A aula indica o **repositório do projeto do curso** ([alura-cursos/projeto-alura](https://github.com/alura-cursos/projeto-alura)), com todas as documentações da Bytebank criadas nesta aula, para usar como "guia de bolso" e inspiração.
+
+### 2. O que é uma documentação técnica? / What technical documentation is
+
+🇧🇷 O curso foca nas documentações técnicas comuns no **desenvolvimento de software**, que é o que quem começa como Tech Writer encontra no mercado. (Em design ou produto existem outros tipos de documento.)
+
+- 🇧🇷 **Documentação** é um documento que pode reunir vários outros, com informações importantes sobre como usar um produto ou serviço.
+- 🇧🇷 **Cada documento precisa de um objetivo claro.** É tentador escrever muitas coisas num só documento, mas separar os assuntos facilita para quem lê.
+- 🇧🇷 Ações mais comuns que uma documentação apoia: **configurar, instalar, personalizar, conhecer/entender, adicionar e eliminar** (não é uma lista fechada).
+
+**Fonte única da verdade (Single Source of Truth).** A pessoa usuária pode achar muitas fontes sobre o produto na internet. A documentação cria uma fonte **fiel e confiável**, tanto para o público externo quanto para o time interno e outras áreas.
+
+**Níveis de documentação de software** (desenho do blog Prototypr mostrado na aula):
+
+~~~mermaid
+flowchart TD
+  S["Documentação de software"] --> P["Documentação de processos<br/>(bastidores: cronograma, estimativas,<br/>como o processo funciona)"]
+  S --> R["Documentação de produto<br/>(mergulha no produto: como funciona,<br/>características, como usar)"]
+  R --> SIS["Documentação de sistema<br/>(técnica: framework, arquitetura,<br/>como construir a solução)"]
+  R --> U["Documentação da pessoa usuária<br/>(para o público do software)"]
+  U --> F["Pessoa usuária final<br/>(ex.: quem entra numa reunião no Zoom)"]
+  U --> A["Administradores do sistema<br/>(pessoa usuária mais técnica, ex.: devs)"]
+~~~
+
+🇧🇷 Exemplo da instrutora: numa empresa onde trabalhou, ela escrevia documentação de produto para administradores do sistema, porque o público eram pessoas desenvolvedoras (produto técnico para público técnico).
+
+🇺🇸 Each document needs one clear goal; documentation builds a single source of truth.
+
+### 3. Documentação funcional / Functional documentation
+
+🇧🇷 Também chamada de **documentação de produto** ou **de visão geral (overview)**. Objetivo: **contextualizar e apresentar** um assunto (produto, serviço, funcionalidade, recurso). Costuma abrir os portais de documentação, porque é por ela que a pessoa se situa.
+
+**Tópicos comuns:**
+1. **O que é o produto** (pode se chamar "Visão geral" ou "Overview"), com um breve contexto de uso e a lista dos tópicos que vêm a seguir.
+2. **Recursos disponíveis** (ex.: num banco, os serviços oferecidos e a descrição de cada um).
+3. **Para que e para quem serve**, o que direciona o público da documentação.
+4. **Principais conceitos**: pode ser um glossário em outra página, com link.
+
+**Exemplos:**
+- 🇧🇷 GitHub, "Introdução à sua conta do GitHub": é extensa **de propósito**, para dar o máximo de contexto.
+- 🇧🇷 Projeto Bytebank: título, breve descrição do banco e um **sumário (table of contents)** com "Serviços disponíveis", "Para quem é a Bytebank?" e "Como criar sua conta". No fim, "Crie sua conta" leva ao tutorial.
+
+**Sumário (table of contents):** lista, no início do documento, todos os assuntos que ele aborda, antecipando para a pessoa o que ela vai encontrar. A aula destaca que é muito valioso numa documentação funcional.
+
+### 4. Tutoriais e guias how-to / Tutorials and how-to guides
+
+🇧🇷 A definição de cada tipo pode variar conforme o **framework de documentação**. A aula usa o **Diátaxis**, criado por **Daniele Procida** (diretor de engenharia, muito conhecido na comunidade de TW), para simplificar a classificação e dar objetivos mais claros a quatro grandes grupos de documentação.
+
+**Semelhança:** os dois são **passo a passo** para a pessoa atingir um objetivo. Perguntas que guiam a escrita: qual ação precisa ser realizada e quais passos levam até ela.
+
+**Diferença** (segundo Procida): o **tutorial serve ao estudo** (a obrigação é uma experiência de aprendizagem bem-sucedida); o **guia how-to serve ao trabalho** (a obrigação é ajudar a realizar uma tarefa). Estudando, temos tempo para detalhes; trabalhando, precisamos ser rápidos.
+
+| Tutorial | Guia how-to |
+|---|---|
+| Passo a passo **com mais detalhes** | Passo a passo focado **só na tarefa** |
+| Dá os **porquês** de cada ação | Não se preocupa em contextualizar as etapas |
+| Quando você está **aprendendo** algo em programação | Quando você **já programa** e quer recapitular como fazer algo |
+| — | Título costuma começar com "Como…" ou com um verbo direto ("Criar uma conta na Bytebank") |
+
+**Exemplos:**
+- 🇧🇷 **Tutorial** da Microsoft, "Criar suas próprias medidas no Power BI Desktop": sumário, contexto do porquê, pré-requisitos dizendo para quem é, textos mais longos e imagens em cada passo.
+- 🇧🇷 **Guia how-to** da Microsoft, "Editar modelos de dados no serviço Power BI": direto ao ponto, sem explicar para quem é.
+- 🇧🇷 Bytebank: o **tutorial** tem visão geral da criação de conta, contexto, objetivos, pré-requisitos e passos com imagens; o **how-to** "Como criar uma conta na Bytebank" tem só pré-requisitos e passos. É o mesmo assunto, estruturado para objetivos diferentes.
+
+### 5. Para saber mais: a matriz Diátaxis
+
+🇧🇷 O Diátaxis organiza a documentação para facilitar a compreensão, com foco em qualidade, e deriva sua estrutura de **quatro formas de documentação**.
+
+~~~mermaid
+flowchart LR
+  D["Diátaxis"] --> PR
+  D --> E["Explicação<br/>conceitos e princípios"]
+  D --> R["Referência<br/>informação detalhada<br/>para consulta"]
+  subgraph PR["Eixo dos passos práticos"]
+    T["Tutorial<br/>orientado à aprendizagem<br/>(estudo)"]
+    H["Guia how-to<br/>orientado à tarefa<br/>(trabalho)"]
+  end
+~~~
+
+| Forma | Para que serve | Exemplo da atividade |
+|---|---|---|
+| **Tutorial** | Passos sequenciais para iniciantes, no aprendizado prático | Configurar um editor de fotos novo, do download aos efeitos básicos |
+| **Guia prático (how-to)** | Instruções claras e diretas para uma tarefa específica no trabalho | Criar uma planilha dinâmica numa ferramenta de planilhas online |
+| **Referência** | Informações detalhadas sobre um sistema, linguagem ou produto, para consulta | Manual de um sistema operacional com configurações avançadas, comandos e requisitos |
+| **Explicação** | Visão mais profunda: conceitos, princípios e relações | Material sobre os princípios da inteligência artificial |
+
+**Elementos essenciais da matriz:** objetivo (declaração clara do propósito), público-alvo (adaptar linguagem e conteúdo ao conhecimento do público) e estrutura hierárquica (títulos e subtítulos).
+
+### 6. Troubleshooting (resolução de problemas)
+
+🇧🇷 Documentação que **lista possíveis erros do produto e apresenta as soluções**. Por que não só corrigir no produto? Porque alguns erros acontecem por várias razões, às vezes de causa pouco conhecida ou atípica, mas cuja solução já se sabe. Escrever o troubleshooting **antecipa a dor** da pessoa usuária.
+
+**Estrutura:** **problema** (geralmente o título; ou o título é "Troubleshooting" e cada problema vira um tópico) → **solução** → **links relacionados**. Pode ser uma página por problema ou uma página única com todos, numa seção própria do portal (ou de suporte).
+
+**Onde achar os erros:**
+
+~~~mermaid
+flowchart LR
+  T["Tickets de suporte<br/>(com o time de atendimento)"] --> TS["Troubleshooting"]
+  F["Feedback das pessoas usuárias<br/>(internas ou externas: polegar<br/>para cima/baixo, comentários)"] --> TS
+  Q["Testes no produto<br/>(algo que escapou do QA)"] --> TS
+~~~
+
+**Exemplos:** Google Cloud ("Chrome Insider: Troubleshooting with Chrome Browser", com perguntas como "funciona numa janela anônima?" levando a extensões ou cache/cookies); StackSpot (seção "Troubleshooting" em que cada problema é um título); Bytebank ("Erro ao acessar sua conta", com soluções e links relacionados).
+
+### 7. Documentação de API / API documentation
+
+🇧🇷 Documento que descreve as **especificações técnicas de uma API** (também chamado de **referência de API**). Quem vai integrar a API precisa entender exatamente como ela funciona. A aula compara a uma **receita de bolo**: quem segue tem que conseguir replicar e o bolo sair igual.
+
+**O que costuma ter:**
+- 🇧🇷 **Recursos** disponíveis na API.
+- 🇧🇷 **Métodos** de cada recurso: os verbos GET, POST, PUT, DELETE.
+- 🇧🇷 **Endpoints**, que executam ações específicas.
+- 🇧🇷 **Requisições**, geralmente no formato **cURL**.
+- 🇧🇷 **Respostas** de cada chamada.
+- 🇧🇷 **Erros possíveis**, cada um com seu código (400, 500…), mensagem e como resolver. O código **200** indica que deu certo.
+
+**Formatos e contexto:**
+- 🇧🇷 **API-first company**: empresa cujo negócio principal é criar APIs para outras empresas (ex.: **Adyen** e **Stripe**). Além da referência, têm **guias e casos de uso**, porque querem que a API seja usada de muitas formas.
+- 🇧🇷 **REST API** (arquitetura REST, chamadas por HTTP/HTTPS) pode ser documentada com a especificação **OpenAPI**, que permite usar ferramentas como o **Swagger**.
+- 🇧🇷 Boa prática: componentes e trechos de código **fáceis de copiar e colar** melhoram a experiência de devs.
+
+**Exemplos:** VTEX Developers ("API do provedor antifraude": filtros por método, índice dos fluxos antifraude e de autenticação OAuth, e cada endpoint com cabeçalho, campos da requisição e exemplos de requisição e resposta). Bytebank: usa uma API pública do Mercado Pago, só como exercício didático, com autenticação e autorização, recurso de pagamentos, lista de endpoints e, em cada um, corpo da chamada, campos (obrigatórios ou não), exemplo de requisição e duas respostas (sucesso e erro).
+
+### 8. Release notes (notas de versão)
+
+🇧🇷 Apresenta as **principais mudanças de uma nova versão (release)** de um produto ou serviço. Exemplo do dia a dia: o texto "o que mudou" ao atualizar o WhatsApp na loja de aplicativos. Feita por Tech Writers, costuma ser mais técnica e detalhada.
+
+**Tipos de release:**
+- 🇧🇷 **Major release**: mudança grande, como da versão 1.0 para a 2.0.
+- 🇧🇷 **Minor release**: mudança menor, como de 1.0 para 1.1, ou de 1.1 para 1.1.2.
+
+**Estrutura:**
+
+~~~mermaid
+flowchart TD
+  D["Descrição da nova versão"] --> N["Novas features"] --> M["Melhorias"] --> B["Bug fixes<br/>(correções)"] --> O["Opcional: descontinuado<br/>e known issues"]
+~~~
+
+🇧🇷 **Known issues** (problemas conhecidos) são erros já mapeados em versões anteriores e que ainda estão sendo resolvidos.
+
+**Exemplos:** StackSpot (página única por mês, como linha do tempo, separando features, mudanças e **mudanças na documentação**, que avisam conteúdo novo mesmo sem mudança no produto); Bytebank (versão 1.0.1 hipotética, com melhorias no serviço de investimentos e correção de bugs no carregamento do app).
+
+### Resumo da aula: qual documentação usar? / Which doc to use?
+
+| Se o objetivo é… | Use |
+|---|---|
+| Apresentar e contextualizar um produto ou serviço | Documentação funcional |
+| Ensinar alguém que está aprendendo, com os porquês | Tutorial |
+| Ajudar a fazer uma tarefa rápido, direto ao ponto | Guia how-to |
+| Resolver erros conhecidos | Troubleshooting |
+| Descrever as especificações técnicas para integração | Documentação (referência) de API |
+| Comunicar o que mudou numa nova versão | Release notes |
+
+### 9. Escolhendo o modelo de documentação ideal (exercício da plataforma)
+
+⬜ Exercício de múltipla escolha da Alura (qual documentação usar numa API de streaming de música). Fica para a Letícia responder na plataforma.
+
+### 10. Faça como eu fiz: monte uma documentação funcional
+
+🇧🇷 Criar uma documentação funcional para o projeto, usando as documentações do repositório do curso como inspiração.
+
+⬜ Projeto prático: a fazer em `projetos-projects/`.
+
+### 11. O que aprendemos? (exercício da plataforma)
+
+⬜ Atividade aberta da Alura: explicar com as próprias palavras os principais conceitos da aula. Fica para a Letícia responder na plataforma.
+
+### Quiz comentado da Aula 02 / Lesson 2 quiz
+
+⬜ A fazer na nossa conversa sobre a aula.
+
+---
+
 ## Livros e links indicados pela aula / Recommended by the course
 
 - 📘 *The Product is Docs* (citado como leitura primordial para quem trabalha com TW).
 - 🔗 Society for Technical Communication (definição de TW).
 - 🔗 Artigo do blog da Alura sobre Markdown.
+- 🔗 [Repositório do projeto do curso (projeto-alura)](https://github.com/alura-cursos/projeto-alura).
+- 🔗 Diátaxis, de Daniele Procida (framework de documentação citado na Aula 02).
