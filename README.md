@@ -14,9 +14,10 @@ As notas são resumos próprios. Os materiais originais pertencem a cada escola,
 po-learning-journal/
 ├── cursos-courses/            Cursos, separados por escola ou plataforma
 │   └── tera/                  Tera
-│       └── digital-product-leadership/   Um curso
-│           └── 01-fundamentos-de-product-management.md   Nota do módulo
-├── imagens-images/            Diagramas e ilustrações que nós fazemos
+│       └── digital-product-leadership/   Curso (README com a lista de módulos)
+│           └── 01-fundamentos-de-product-management/   Módulo (README com a lista de aulas)
+│               ├── 03-fundamentos-de-produto.md         Uma nota por aula
+│               └── imagens/                             Diagramas e ilustrações do módulo
 ├── projetos-projects/         Um projeto prático para cada módulo concluído
 ├── mapa-de-estudos.md         Mapa do que foi estudado e skills desbloqueadas
 ├── glossario-glossary.md      Termos de produto em português e inglês
@@ -24,7 +25,7 @@ po-learning-journal/
 └── exemplos-examples/         Exercícios e artefatos que eu fiz praticando
 ```
 
-**Regra para cursos novos:** `cursos-courses/<escola>/<curso>/<número>-<módulo>.md`, com nomes em letras minúsculas e palavras separadas por hífen. Toda nota começa com uma tabela que diz a escola, o curso, o módulo, a situação e o link da fonte original.
+**Regra para cursos novos:** organizar como na plataforma, `cursos-courses/<escola>/<curso>/<número>-<módulo>/<número>-<aula>.md`, com nomes em letras minúsculas e palavras separadas por hífen. O curso tem um README com os módulos; cada módulo tem um README com a tabela de cabeçalho (escola, curso, módulo, situação e link da fonte), a lista de aulas e uma pasta `imagens/`.
 
 Algumas pastas só aparecem no GitHub quando recebem o primeiro arquivo.
 
