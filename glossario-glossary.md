@@ -250,6 +250,17 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Margem de erro / grau de confiança | Margin of error / confidence level | Parâmetros estatísticos que definem o tamanho da amostra · Sample size parameters | DPL 03 · Métodos de pesquisa |
 | Grupo focal | Focus group | Sessão com um grupo de pessoas e um moderador; rápido, mas com risco de viés de grupo · Group interview | DPL 03 · Métodos de pesquisa |
 | Viés de grupo | Group bias | A maioria (ou quem fala mais) cala opiniões diferentes · Majority drowns others | DPL 03 · Métodos de pesquisa |
+| Síntese de pesquisa | Research synthesis | Dar sentido aos dados coletados: priorizar achados, compartilhar histórias e chegar a consenso · Making sense of findings | DPL 03 · Consolidação de pesquisa |
+| Insight | Insight | Revelação inesperada, baseada em dados reais, que aponta direções; é parte de uma ideia, não a ideia · Data-based revelation | DPL 03 · Consolidação de pesquisa |
+| Cartão de insight | Insight card | Registro de um insight com tema, fonte e fato · Documented insight | DPL 03 · Consolidação de pesquisa |
+| Ponto de vista (POV) | Point of view | "[Usuário] precisa de [necessidade] porque [insight]" · Problem statement | DPL 03 · Consolidação de pesquisa |
+| Como nós podemos…? | How might we (HMW) | Pergunta que transforma um insight em desafio de design, sem sugerir a solução · Design challenge question | DPL 03 · Consolidação de pesquisa |
+| Debriefing (download) | Debriefing | Documentar e compartilhar as histórias logo depois das entrevistas · Post-interview share-out | DPL 03 · Consolidação de pesquisa |
+| Mapa de afinidades | Affinity map | Agrupar fragmentos de pesquisa em temas para achar padrões · Clustering findings | DPL 03 · Consolidação de pesquisa |
+| Jornada as-is | As-is journey | A jornada como ela é hoje, com dores e lacunas · Current-state journey | DPL 03 · Consolidação de pesquisa |
+| Modelo mental | Mental model | Como a pessoa imagina que algo funciona, a partir de experiências anteriores · How users think it works | DPL 03 · Consolidação de pesquisa |
+| Design principles | Design principles | Direcionadores de experiência que saem dos insights e orientam o design · Experience guidelines | DPL 03 · Consolidação de pesquisa |
+| Dados sensíveis (LGPD) | Sensitive data | Dados que identificam a pessoa ou podem expô-la a discriminação; colete só o necessário e anonimize · Protect personal data | DPL 03 · Consolidação de pesquisa |
 | Partes interessadas | Stakeholders | No curso de TW: pessoas interessadas no projeto de documentação, com quem se alinham expectativas · People invested in the doc project | Alura TW 02 · Refinamento e alinhamento |
 | Definição de pronto | Definition of Done (DoD) | Conceito do Scrum: quando a entrega é considerada pronta; ajuda a alinhar expectativas sobre a documentação · When work counts as done | Alura TW 02 · Refinamento e alinhamento |
 | Cultura de documentação | Documentation culture | Fazer a documentação ser vista como importante por todos, não só por Tech Writers (ex.: documentação como critério de aceite) · Docs valued by everyone | Alura TW 02 · Construindo uma cultura de documentação |

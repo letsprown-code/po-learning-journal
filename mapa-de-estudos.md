@@ -141,7 +141,7 @@ flowchart TD
 ~~~mermaid
 flowchart TD
     D1["✅ 1 Os dados levantam perguntas"] --> D2["✅ 2 Customer Development"] --> D3["✅ 3 Product-Market Fit"] --> D4["✅ 4 MVP"]
-    D4 --> D5["✅ 5 Hipóteses e leitura de dados"] --> D6["✅ 6 Métodos de pesquisa"] --> D7["⬜ 7 Consolidação de pesquisa"]
+    D4 --> D5["✅ 5 Hipóteses e leitura de dados"] --> D6["✅ 6 Métodos de pesquisa"] --> D7["✅ 7 Consolidação de pesquisa"]
     D7 --> D8["⬜ 8 Personas"] --> D9["⬜ 9 Mapa da jornada"] --> D10["⬜ 10 Q&A Persona"] --> D11["⬜ 11 Q&A Jornada"]
     D11 --> D12["⬜ 12 Cultura de experimentação"] --> D13["⬜ 13 Design de experimentos"] --> D14["⬜ 14 Q&A Experimentação"]
     D14 --> D15["⬜ 15 Prototipagem rápida"] --> D16["⬜ 16 Arquitetura da informação"] --> D17["⬜ 17 Mitigação de riscos"]
@@ -149,8 +149,8 @@ flowchart TD
     D21 --> B3{{"🔒 Badge: Product Discovery"}}
     classDef done fill:#d4edda,stroke:#155724,color:#155724
     classDef todo fill:#f8f9fa,stroke:#6c757d,color:#343a40
-    class D1,D2,D3,D4,D5,D6 done
-    class D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,B3 todo
+    class D1,D2,D3,D4,D5,D6,D7 done
+    class D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,B3 todo
 ~~~
 
 ### Skills do módulo / Module skills
@@ -164,6 +164,7 @@ flowchart TD
 | Escolher o **tipo de MVP** (landing page, pré-venda, vídeo, piecemeal, SaaS/PaaS, manual/Mágico de Oz) conforme a incerteza a reduzir | 4 MVP | 🔓 |
 | Fazer o **framing do problema** (5 porquês), estruturar hipóteses com **árvore de oportunidades** e **matriz CSD** e validá-las lendo dados (coleta, segmentação, regras de negócio, visualização) | 5 Hipóteses e leitura de dados | 🔓 |
 | Escolher o **método de pesquisa** (atitudinal × comportamental, quali × quanti, contexto) e planejar desk research, **teste de usabilidade**, entrevista, survey e grupo focal sem vieses | 6 Métodos de pesquisa | 🔓 |
+| **Sintetizar** uma pesquisa: debriefing, cartões de insight, mapa de afinidades, POV e perguntas "Como nós podemos…?" | 7 Consolidação de pesquisa | 🔓 |
 
 ## Alura · Formação Technical Writing 🟡
 
