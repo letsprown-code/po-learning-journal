@@ -166,11 +166,11 @@ flowchart TD
 | Escolher o **método de pesquisa** (atitudinal × comportamental, quali × quanti, contexto) e planejar desk research, **teste de usabilidade**, entrevista, survey e grupo focal sem vieses | 6 Métodos de pesquisa | 🔓 |
 | **Sintetizar** uma pesquisa: debriefing, cartões de insight, mapa de afinidades, POV e perguntas "Como nós podemos…?" | 7 Consolidação de pesquisa | 🔓 |
 
-## Alura · Formação Technical Writing 🟡
+## Alura · Formação Technical Writing ✅
 
 ~~~mermaid
 flowchart LR
-    C1["✅ 01 Estratégias, ferramentas e boas práticas<br/>concluído em 25/11/2026"] --> C2["🟡 02 Documentação do zero com DDLC<br/>Aulas 01 a 05 de 5 lidas"]
+    C1["✅ 01 Estratégias, ferramentas e boas práticas<br/>concluído em 25/11/2026"] --> C2["✅ 02 Documentação do zero com DDLC<br/>concluído em 25/11/2026"]
 ~~~
 
 ### Curso 01: Aprenda estratégias, ferramentas e boas práticas ✅
@@ -193,19 +193,19 @@ flowchart TD
 | Desenvolver release notes, troubleshooting, tutoriais e mais | Aulas 02 a 04 | 🔓 (projeto: funcional, tutorial, how-to e FAQ; faltam troubleshooting e release notes, opcionais) |
 | Planejar e analisar documentações | Aula 05 | 🔓 |
 
-### Curso 02: Crie uma documentação do zero com DDLC 🟡
+### Curso 02: Crie uma documentação do zero com DDLC ✅
 
 ~~~mermaid
 flowchart TD
     D1["✅ 1 Iniciando seu processo de documentação"] --> D2["✅ 2 Estruturando sua documentação"] --> D3["✅ 3 Escrita e revisão"]
-    D3 --> D4["✅ 4 Publicação"] --> D5["🟡 5 Medindo a eficácia"]
-    D5 --> B2{{"🔒 Badge: Curso 02 de Technical Writing"}}
+    D3 --> D4["✅ 4 Publicação"] --> D5["✅ 5 Medindo a eficácia"]
+    D5 --> B2{{"🔓 Badge: Curso 02 de Technical Writing"}}
 ~~~
 
 | Skill | Aula que desbloqueia / Unlocked by | Situação |
 |---|---|---|
 | Explicar o DDLC e suas 6 etapas | Aula 01 | 🔓 |
 | Planejar uma documentação (público, SMEs, ferramentas) | Aula 01 | 🔓 |
-| Criar uma documentação técnica com o framework DDLC | Aulas 02 a 04 | 🟡 Aulas 02 e 03 lidas |
+| Criar uma documentação técnica com o framework DDLC | Aulas 02 a 04 | 🔓 |
 | Criar um plano de comunicação para divulgar a documentação | Aula 04 | 🔓 |
-| Planejar indicadores de sucesso da documentação | Aula 05 | 🟡 lida, falta exercício |
+| Planejar indicadores de sucesso da documentação | Aula 05 | 🔓 |

@@ -6,7 +6,7 @@
 | Curso / Course | Formação Technical Writing (2 cursos, 18 h) / Technical Writing track |
 | Módulo / Module | 02 · Technical Writing: crie uma documentação do zero com DDLC (8 h, intermediário) |
 | Instrutora / Instructor | Mari Moreira (líder de Developer Communications no Mercado Pago) |
-| Situação / Status | 🟡 Em andamento / In progress |
+| Situação / Status | ✅ Concluído na Alura em 25/11/2026 (100%) · faltam os quizzes comentados |
 | Fonte / Source | [Alura: Technical Writing: crie uma documentação do zero com DDLC](https://cursos.alura.com.br/course/technical-writing-crie-documentacao-zero-ddlc) (login) |
 | Pré-requisito / Prerequisite | [Curso 01: estratégias, ferramentas e boas práticas](01-estrategias-ferramentas-boas-praticas.md) ✅ |
 
@@ -22,7 +22,7 @@
 | 2 | Estruturando sua documentação | 8 | ✅ 8/8 na Alura · falta quiz |
 | 3 | Escrita e revisão | 9 | ✅ 9/9 na Alura · falta quiz |
 | 4 | Publicação | 7 | ✅ 7/7 na Alura · falta quiz |
-| 5 | Medindo a eficácia da sua documentação | 9 | 🟡 Lida, falta exercício + quiz |
+| 5 | Medindo a eficácia da sua documentação | 9 | ✅ 9/9 na Alura · falta quiz |
 
 ---
 
@@ -516,7 +516,13 @@ flowchart LR
 
 ### 6. Quiz sobre os assuntos abordados ao longo das aulas (exercício da plataforma)
 
-⬜ Exercício da Alura (indicadores de sucesso, 3 alternativas). Fica para a Letícia responder.
+✅ Respondido na plataforma. Pergunta: quais são bons indicativos de sucesso da documentação no contexto do DDLC? (3 alternativas)
+
+Marcadas: B, C e E. Explicações da plataforma:
+- ✅ **B. Taxa de rejeição no site:** pode indicar a relevância inicial da documentação, **mas atenção**: sozinha não diz nada sobre a compreensão ou a utilidade do conteúdo.
+- ✅ **E. Número de downloads:** é um grande indicativo da demanda e do interesse pela documentação.
+- ❌ **C. Tempo médio de resposta do suporte:** pode ser influenciado por vários fatores, não só pela documentação; é um indicador indireto e não específico.
+- ⬜ **A. Frequência de atualizações** e **D. Número total de palavras:** não foram marcadas, e a plataforma não mostrou explicação para elas.
 
 ### 7. Faça como eu fiz: defina as métricas de sucesso e as formas de obtê-las
 
