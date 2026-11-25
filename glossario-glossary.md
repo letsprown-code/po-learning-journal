@@ -184,3 +184,12 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Versão maior / menor | Major / minor release | Major: mudança grande (1.0 → 2.0); minor: mudança menor (1.0 → 1.1) · Big vs small version change | Alura TW 01 · Release notes |
 | Problemas conhecidos | Known issues | Erros já mapeados em versões anteriores que ainda estão sendo resolvidos · Mapped but unresolved bugs | Alura TW 01 · Release notes |
 | Correções de bugs | Bug fixes | Erros encontrados na aplicação e corrigidos pelo time · Fixed errors | Alura TW 01 · Release notes |
+| Arquitetura da informação (A.I.) | Information architecture (IA) | Arte de organizar e estruturar a informação para que fique acessível e intuitiva · Organizing information so it is accessible and intuitive | Alura TW 01 · A.I. para documentação técnica |
+| Trechos de código | Code snippets | Componentes que mostram código na documentação, prontos para copiar e colar · Copyable code blocks | Alura TW 01 · Componentes, estrutura e organização |
+| Diagrama UML | UML diagram | Diagrama (Unified Modeling Language) usado para mostrar o funcionamento de uma API · Diagram showing how an API works | Alura TW 01 · Componentes, estrutura e organização |
+| Classificação de cartões | Card sorting | Pesquisa em que as próprias pessoas usuárias agrupam as informações segundo a lógica delas · Users group content themselves | Alura TW 01 · Tipos de pesquisa para A.I. |
+| Teste A/B | A/B test | Comparar duas versões de uma estrutura de documentação para ver qual funciona melhor · Comparing two versions | Alura TW 01 · Tipos de pesquisa para A.I. |
+| Voz ativa / ordem direta | Active voice | Escrever com a ação na ordem direta, sem ambiguidade ("Instale o software…") · Direct, unambiguous sentences | Alura TW 01 · Boas práticas de escrita para TW |
+| Jargão | Jargon | Termo técnico que o público pode não conhecer; evite ou explique no glossário · Unfamiliar technical term | Alura TW 01 · Boas práticas de escrita para TW |
+| Guia de estilo | Style guide | Documento com as orientações de comunicação e escrita de uma marca (tom e voz, persona, boas práticas), para padronizar a escrita · Brand writing guidelines | Alura TW 01 · Guia de estilo |
+| Modelo de documentação | Documentation template | Estrutura pré-definida que padroniza documentos de base parecida e economiza tempo · Predefined doc structure | Alura TW 01 · Templates de documentação |

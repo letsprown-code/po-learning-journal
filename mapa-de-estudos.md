@@ -146,7 +146,7 @@ flowchart LR
 
 ~~~mermaid
 flowchart TD
-    A1["🟡 1 O que é Technical Writing?"] --> A2["🟡 2 Tipos de documentação técnica"] --> A3["⬜ 3 Boas práticas de escrita"]
+    A1["🟡 1 O que é Technical Writing?"] --> A2["🟡 2 Tipos de documentação técnica"] --> A3["🟡 3 Boas práticas de escrita"]
     A3 --> A4["⬜ 4 Outros formatos de conteúdo técnico"] --> A5["⬜ 5 Planejamento e análise"]
     A5 --> B{{"🔒 Badge: Curso 01 de Technical Writing"}}
 ~~~
@@ -158,6 +158,6 @@ flowchart TD
 | Criar um repositório de documentações no GitHub | Aula 01 | 🟡 lida, falta projeto |
 | Reconhecer as habilidades e o perfil de um Tech Writer | Aula 01 | 🟡 lida, falta quiz |
 | Conhecer os principais tipos de documentação técnica em TI | Aula 02 | 🟡 lida, falta quiz |
-| Aplicar arquitetura da informação e boas práticas de escrita | Aula 03 | 🔒 |
-| Desenvolver release notes, troubleshooting, tutoriais e mais | Aulas 02 a 04 | 🟡 Aula 02 lida, falta projeto |
+| Aplicar arquitetura da informação e boas práticas de escrita | Aula 03 | 🟡 lida, falta quiz |
+| Desenvolver release notes, troubleshooting, tutoriais e mais | Aulas 02 a 04 | 🟡 Aulas 02 e 03 lidas, falta projeto |
 | Planejar e analisar documentações | Aula 05 | 🔒 |

@@ -6,7 +6,7 @@
 | Curso / Course | Formação Technical Writing (2 cursos, 18 h) / Technical Writing track (2 courses) |
 | Módulo / Module | 01 · Technical Writing: aprenda estratégias, ferramentas e boas práticas (10 h, introdutório) |
 | Instrutora / Instructor | Mari Moreira (líder de Developer Communications no Mercado Pago) |
-| Situação / Status | 🟡 Em andamento · Aulas 01 e 02 de 5 lidas / In progress · lessons 1–2 of 5 read |
+| Situação / Status | 🟡 Em andamento · Aulas 01 a 03 de 5 lidas / In progress · lessons 1–3 of 5 read |
 | Fonte / Source | [Alura: Technical Writing: aprenda estratégias, ferramentas e boas práticas](https://cursos.alura.com.br/course/technical-writing-estrategias-ferramentas-boas-praticas) (login) |
 
 🇧🇷 Sobre o curso (texto da plataforma): entender o que é Technical Writing e a diferença para UX Writing, conhecer boas práticas e os principais tipos de documentação técnica em TI, aplicar arquitetura da informação, desenvolver documentações como release notes, troubleshooting e tutoriais, e aprender a planejar e analisar documentações.
@@ -19,7 +19,7 @@
 |---|---|---|---|
 | 1 | O que é Technical Writing? | 12 | 🟡 Lida, falta conversa + quiz |
 | 2 | Tipos de documentação técnica | 11 | 🟡 Lida, falta conversa + quiz |
-| 3 | Boas práticas de escrita para documentação | 11 | ⬜ |
+| 3 | Boas práticas de escrita para documentação | 11 | 🟡 Lida, falta conversa + quiz |
 | 4 | Outros formatos de conteúdo técnico | 7 | ⬜ |
 | 5 | Planejamento e análise de documentações | 9 | ⬜ |
 
@@ -443,6 +443,134 @@ flowchart TD
 
 ---
 
+## Aula 03 · Boas práticas de escrita para documentação / Writing best practices
+
+### 1. Preparando o ambiente
+
+🇧🇷 De novo o link para o [repositório do projeto do curso](https://github.com/alura-cursos/projeto-alura), agora com as documentações das Aulas 02 e 03.
+
+### 2. Arquitetura da informação (A.I.) para documentação técnica / Information architecture
+
+> 🇧🇷 **Arquitetura da informação** é a arte de organizar e estruturar uma informação de forma que ela se torne **acessível e intuitiva** para quem usa.
+> 🇺🇸 The art of organizing and structuring information so it becomes accessible and intuitive.
+
+🇧🇷 **Exemplo visual: globo.com antes e depois.** O site antigo (por volta de 2010–2014) misturava, colados, links de "astral", "brindes", "busca" e "chat" com notícias de TV, viagem, música, um player de vídeo e o GloboChat. Resultado: confusão, sem saber por onde começar nem qual informação é a mais importante, e provavelmente ruim para quem usa leitor de tela. O site atual, mesmo cheio de conteúdo, tem **espaços entre títulos e imagens, colunas bem delimitadas** e **cores por editoria** (ex.: notícia do Botafogo em verde = GE, Globo Esporte).
+
+🇧🇷 **A informação como peças de um quebra-cabeça:** o trabalho de TW é montar as peças para o resultado ficar claro, acessível, útil e intuitivo. A.I. está na escolha das palavras do título e do subtítulo, na forma de organizar o texto, em decidir se vai ter mais de um subtítulo ou dividir em seções, e no uso de recursos além do texto.
+
+**Por que fazer:**
+- 🇧🇷 Tornar o texto **fácil de entender**.
+- 🇧🇷 Melhorar a **experiência de aprendizagem** do produto ou serviço.
+- 🇧🇷 **Agilizar a adoção do produto**, o que também é um diferencial competitivo num mercado com muita concorrência.
+
+🇧🇷 **Exemplo na documentação:** a página inicial da documentação do GitHub agrupa os tópicos **por categorias em colunas** ("Get Started", "Collaborative coding", "CI/CD and DevOps"), em vez de uma lista contínua. Dentro de "Introdução à sua conta do GitHub": título, subtítulo, título da parte 1, texto corrido e tópicos.
+
+### 3. Componentes, estrutura e organização / Components
+
+🇧🇷 Quais recursos usar para facilitar a transmissão da informação. **A escolha depende da informação** e é critério de quem escreve; "não há uma ciência exata para documentar", e tudo bem se a primeira documentação não ficar tão fluida.
+
+| Componente | Quando ajuda | Exemplo da aula |
+|---|---|---|
+| **Listas** com marcadores (bullets) | Ordenar tópicos relacionados sem ordem obrigatória; mais visual que o texto corrido | GitHub, "Sobre controle de versão e o Git": quais alterações, quem fez, quando e por quê |
+| **Listas numeradas** | Passos em sequência (passo 1, 2, 3), muito úteis em tutoriais | — |
+| **Tabelas** | Comparar e classificar informações de forma visual | Mercado Pago, Checkout Pro: requisitos (conta de vendedor, credenciais, certificado SSL) com descrição e se é obrigatório |
+| **Diagramas** | Mostrar funcionamento técnico; o **diagrama UML** (Unified Modeling Language) mostra como uma API funciona | Mercado Pago: da pessoa no navegador até a API, com as chamadas do checkout |
+| **Trechos de código** (code snippets) | Documentações com configuração técnica; a pessoa copia e cola. Muito úteis em how-to | Flutter, "Hello world", com botão **Run** que mostra o resultado |
+| **Hiperlinks** | Ligar documentações e facilitar a navegação, no texto e no sumário | Microsoft, "Introdução ao Microsoft Teams para administradores" |
+
+### 4. Para saber mais: tipos de pesquisa que ajudam na A.I.
+
+| Pesquisa | O que faz | Exemplo da atividade |
+|---|---|---|
+| **Pesquisa com pessoas usuárias** (personas) | Alinha a documentação às necessidades de grupos específicos | Persona dev júnior pede mais detalhes e passo a passo; dev sênior, texto mais conciso e direto |
+| **Análise de dados de acesso** | Mostra os pontos mais acessados e os que precisam de ajuste | Mapa de calor de acesso; página pouco acessada ou com pouco tempo de visita precisa melhorar |
+| **Monitoramento automático de feedback** | Respostas rápidas e melhoria contínua | Muitos comentários sobre uma seção indicam que ela está confusa ou incompleta |
+| **Pesquisa semântica** | Entende o significado do que a pessoa busca (processamento de linguagem natural) | Busca por "erro 404" leva ao que é o erro e como corrigir |
+| **Testes A/B na estrutura** | Compara duas versões de uma seção para ver qual funciona melhor | Duas estruturas monitoradas em paralelo |
+| **Card sorting** | As próprias pessoas agrupam as informações conforme a lógica delas | Mostra a organização mais intuitiva para o público |
+
+### 5. Boas práticas de escrita para TW / Writing tips
+
+🇧🇷 O foco não é gramática detalhada, e sim práticas objetivas para aplicar já no projeto.
+
+| # | Boa prática | ❌ Evite | ✅ Prefira |
+|---|---|---|---|
+| 1 | **Ordem direta (voz ativa)**: sem ambiguidade nem duplo sentido | "O programa será iniciado depois de o software ser instalado." | "Instale o software e, em seguida, inicie o programa." |
+| 2 | **Informação principal no início** (como o lide do jornalismo: o quê, quando, onde, por quê) | "Para customizar o seu layout, será necessário realizar etapas de configurações obrigatórias para quem usa o software na versão 1.0." | Título "Como customizar o seu layout?" + "Para seguir com esta customização, primeiro faça as configurações obrigatórias da versão 1.0 do software." |
+| 3 | **Segunda pessoa (você)**: quem lê está sozinho, então chame a pessoa | "Vamos adicionar este componente na interface." | "Adicione este componente na interface quando for criar a aplicação." |
+| 4 | **Evite jargões que o público não conhece** | "O parâmetro string é chamado no momento de realizar a chamada da API." | "Ao chamar uma API, você precisa informar o parâmetro string (para saber mais sobre este parâmetro, consulte o glossário)." |
+
+**Detalhes de cada dica:**
+- 🇧🇷 **Ordem direta:** a melhor dica é **ler em voz alta** para ver se está fluido; se preciso, encurte as frases.
+- 🇧🇷 **Você × nós:** o "nós" é tentador, mas quem lê está sozinho. O "nós" cabe quando é de fato da empresa: "entre em contato com o **nosso** suporte".
+- 🇧🇷 **Jargões:** quando não tiver certeza de que a pessoa conhece um termo, crie um **glossário** separado e aponte para ele no texto.
+
+### 6. Guia de estilo / Style guide
+
+🇧🇷 Documento que **reúne as principais orientações de comunicação e escrita de uma marca**. Funciona como uma **bússola** para escrever para o público. Nele aparecem tom e voz, persona e boas práticas de escrita: tudo o que a Aula 03 mostrou "culmina" no guia de estilo.
+
+🇧🇷 **Por que existe:** como no trabalho em grupo da escola, um texto escrito a várias mãos fica evidente. Uma documentação pode ser escrita por muitas pessoas, mas **para quem lê não pode parecer**. O guia de estilo responde: como escrever em cada situação, como abreviar, como escrever palavras em inglês, como formatar o texto. Ajuda a tirar dúvidas e a **padronizar** a escrita do time todo.
+
+🇧🇷 A aula **não ensina a criar um guia do zero**: é um projeto extenso, feito com várias áreas (UX, escrita, negócios, branding). Para quem está começando, o caminho é **aprender com guias públicos**, como os do **Google** e da **Microsoft**.
+
+**O que a aula mostra em cada guia:**
+
+| Guia | Seções destacadas |
+|---|---|
+| **Google** | Nomes de produtos (como escrever e abreviar, não usar nome como verbo); princípios gerais, como acessibilidade e **evitar reivindicações excessivas** (adjetivos como "este tutorial é muito difícil", porque o texto deve ser neutro e objetivo); **linguagem inclusiva**, com tabelas do que é e do que não é recomendado; tom e voz; gramática (abreviações, voz ativa, preposições) |
+| **Microsoft** | Voz da marca; lista de termos de A a Z; conteúdo para devs (mesmo técnico, o texto pode ser fluido e agradável); formatação de texto e URLs; escolha de palavras |
+
+**Dica de acessibilidade (do guia da Microsoft):** ao criar um hiperlink, **não use "clique aqui" ou "aqui"**. Quem usa leitor de tela não entende o destino. Coloque o link na palavra que diz para onde ele leva (ex.: "credenciais").
+
+🇧🇷 Recado final da aula: escrever **com intenção**, pensando em como cada recurso ajuda quem lê a entender o texto.
+
+### 7. Para saber mais: templates de documentação
+
+- 🇧🇷 **Fim da tela em branco:** o template dá uma estrutura pré-definida e deixa você focar no conteúdo. Ex.: um guia de instalação sempre com introdução → requisitos do sistema → passo a passo → solução de problemas comuns. A consistência deixa a experiência **previsível** e facilita achar as informações.
+- 🇧🇷 **Personalizar para o público:** o mesmo template de tutorial pode ter explicações detalhadas e exemplos simples para iniciantes, ou técnicas avançadas e snippets mais complexos para quem já sabe.
+- 🇧🇷 **Uso real:** a Microsoft usa templates (ex.: documentação do Microsoft Azure).
+- 🇧🇷 **[The Good Docs Project](https://thegooddocsproject.dev/):** comunidade dedicada à qualidade da documentação técnica, que oferece templates.
+- 🇧🇷 Benefícios: simplificar a escrita, **padronizar** e **ganhar tempo** em documentos com base parecida.
+
+### 8. Implantando um novo template de documentação (exercício da plataforma)
+
+⬜ Exercício de múltipla escolha da Alura (como implantar templates e guia de estilo num time de devs). Fica para a Letícia responder na plataforma.
+
+### 9. Para saber mais: modelos de guia de estilo
+
+🇧🇷 O guia de estilo reúne **tom e voz da marca** e as principais **boas práticas de escrita**. O que ele traz, segundo a atividade:
+1. 🇧🇷 **Estrutura clara:** ex.: guia de usuário de um app com introdução e depois funcionalidades passo a passo.
+2. 🇧🇷 **Consistência:** terminologia e pontuação iguais em todos os manuais de uma empresa de eletrônicos, o que gera confiança.
+3. 🇧🇷 **Exemplo real:** os manuais da Apple, impressos ou online, com linguagem consistente.
+4. 🇧🇷 **Imagens de antes e depois** de aplicar o guia mostram o impacto da consistência.
+5. 🇧🇷 **Tom profissional:** ex.: documentos de uma consultoria, com escolha de palavras e estilo que transmitem confiança.
+
+**Guias públicos indicados pela aula:**
+- 🔗 [Google Developer Style Guide](https://developers.google.com/style): clareza e concisão, da escolha de palavras à formatação de código.
+- 🔗 [Microsoft Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/): de princípios a detalhes, para a voz da Microsoft ser uniforme.
+- 🔗 [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/): da estrutura de documentos à padronização de código.
+
+🇧🇷 Para quem está começando ou trabalha numa empresa sem diretrizes, esses guias são um bom ponto de partida.
+
+### 10. Faça como eu fiz: monte um tutorial e um guia how-to
+
+🇧🇷 Com a arquitetura da informação e os componentes da aula, criar um **tutorial** e um **guia how-to** para o projeto, usando o repositório do curso como inspiração.
+
+⬜ Projeto prático: a fazer em `projetos-projects/`.
+
+### 11. O que aprendemos?
+
+- ✅ Usar a arquitetura da informação a favor da redação técnica.
+- ✅ Conhecer componentes, estrutura e organização de documentações.
+- ✅ Aprofundar boas práticas de escrita para TW.
+- ✅ Entender o que é um guia de estilo e quais são os modelos mais conhecidos.
+
+### Quiz comentado da Aula 03 / Lesson 3 quiz
+
+⬜ A fazer na nossa conversa sobre a aula.
+
+---
+
 ## Livros e links indicados pela aula / Recommended by the course
 
 - 📘 *The Product is Docs* (citado como leitura primordial para quem trabalha com TW).
@@ -450,3 +578,5 @@ flowchart TD
 - 🔗 Artigo do blog da Alura sobre Markdown.
 - 🔗 [Repositório do projeto do curso (projeto-alura)](https://github.com/alura-cursos/projeto-alura).
 - 🔗 Diátaxis, de Daniele Procida (framework de documentação citado na Aula 02).
+- 🔗 [The Good Docs Project](https://thegooddocsproject.dev/) (templates de documentação, Aula 03).
+- 🔗 Guias de estilo: [Google](https://developers.google.com/style), [Microsoft](https://learn.microsoft.com/en-us/style-guide/welcome/) e [GitLab](https://docs.gitlab.com/ee/development/documentation/styleguide/) (Aula 03).
