@@ -6,7 +6,7 @@
 | Curso / Course | Formação Technical Writing (2 cursos, 18 h) / Technical Writing track (2 courses) |
 | Módulo / Module | 01 · Technical Writing: aprenda estratégias, ferramentas e boas práticas (10 h, introdutório) |
 | Instrutora / Instructor | Mari Moreira (líder de Developer Communications no Mercado Pago) |
-| Situação / Status | ✅ Concluído na Alura em 25/11/2026 (100%) · faltam os quizzes comentados das Aulas 04 e 05 e conferir os erros dos quizzes |
+| Situação / Status | ✅ Concluído na Alura em 25/11/2026 (100%) · quizzes comentados prontos; falta registrar os erros dos quizzes |
 | Fonte / Source | [Alura: Technical Writing: aprenda estratégias, ferramentas e boas práticas](https://cursos.alura.com.br/course/technical-writing-estrategias-ferramentas-boas-praticas) (login) |
 
 🇧🇷 Sobre o curso (texto da plataforma): entender o que é Technical Writing e a diferença para UX Writing, conhecer boas práticas e os principais tipos de documentação técnica em TI, aplicar arquitetura da informação, desenvolver documentações como release notes, troubleshooting e tutoriais, e aprender a planejar e analisar documentações.
@@ -17,11 +17,11 @@
 
 | # | Aula / Lesson | Atividades / Activities | Situação / Status |
 |---|---|---|---|
-| 1 | O que é Technical Writing? | 12 | ✅ 12/12 na Alura · falta conferir o quiz |
-| 2 | Tipos de documentação técnica | 11 | ✅ 11/11 na Alura · falta conferir o quiz |
-| 3 | Boas práticas de escrita para documentação | 11 | ✅ 11/11 na Alura · falta conferir o quiz |
-| 4 | Outros formatos de conteúdo técnico | 7 | ✅ 7/7 na Alura · falta conferir o quiz |
-| 5 | Planejamento e análise de documentações | 9 | ✅ 9/9 na Alura · falta conferir o quiz |
+| 1 | O que é Technical Writing? | 12 | ✅ 12/12 na Alura · quiz pronto |
+| 2 | Tipos de documentação técnica | 11 | ✅ 11/11 na Alura · quiz pronto |
+| 3 | Boas práticas de escrita para documentação | 11 | ✅ 11/11 na Alura · quiz pronto |
+| 4 | Outros formatos de conteúdo técnico | 7 | ✅ 7/7 na Alura · quiz pronto |
+| 5 | Planejamento e análise de documentações | 9 | ✅ 9/9 na Alura · quiz pronto |
 
 ---
 
@@ -709,7 +709,28 @@ flowchart TD
 
 ### Quiz comentado da Aula 04 / Lesson 4 quiz
 
-⬜ A fazer na nossa conversa sobre a aula.
+<details><summary>1. Qual formato engloba TODOS os aspectos do produto num só lugar?</summary>
+
+- ✅ **Guia de usuário** (ex.: manual do iPhone).
+- ❌ Guia de início rápido: só o ponto zero, os primeiros passos.
+- ❌ FAQ: só as dúvidas mais comuns.
+- ❌ Release notes: o que mudou numa versão.
+</details>
+
+<details><summary>2. Qual NÃO é dica para escrever um guia de início rápido?</summary>
+
+- ✅ **Explicar em detalhes todos os caminhos possíveis**: contradiz a aula, que manda escolher o caminho mais simples.
+- ❌ Mapear a primeira tarefa, escolher o caminho mais fácil e rápido, dizer quanto tempo leva: são as três dicas da aula.
+</details>
+
+<details><summary>3. Qual pergunta de FAQ está melhor escrita (dica de Tom Johnson)?</summary>
+
+- ✅ **"Como criar uma conta na Bytebank pelo aplicativo?"**: estrutura objetivo/resposta.
+- ❌ "Como criar uma conta na Bytebank?": válida, mas é a versão ampla que a dica melhora.
+- ❌ "Contas" e "Tudo sobre contas na Bytebank": títulos de tema, não perguntas; o segundo arrisca virar o "depósito de conteúdo" que a instrutora critica.
+</details>
+
+**O que eu errei e por quê:** ⬜ a preencher depois que eu fizer o quiz.
 
 ---
 
@@ -803,7 +824,30 @@ flowchart LR
 
 ### Quiz comentado da Aula 05 / Lesson 5 quiz
 
-⬜ A fazer na nossa conversa sobre a aula.
+<details><summary>1. Qual é a ordem do planejamento e análise de documentações?</summary>
+
+- ✅ **Mapeamento (inventário) → escopo → plano de documentação.**
+- ❌ Plano → escopo → mapeamento e escopo → plano → mapeamento: começam sem saber o que já existe.
+- ❌ Mapeamento → plano → escopo: o escopo é a primeira parte do plano.
+</details>
+
+<details><summary>2. Quais são as três partes mínimas do plano de documentação?</summary>
+
+- ✅ **Escopo (o quê), cronograma (quando) e ferramentas de trabalho (como).**
+- ❌ Público, orçamento e equipe: o público entra no escopo; orçamento e equipe não são citados.
+- ❌ Tutorial, how-to e referência: são formas do Diátaxis.
+- ❌ URL, título e responsável: são campos do inventário de conteúdo.
+</details>
+
+<details><summary>3. Por que colocar a documentação na planning do time?</summary>
+
+- ✅ **Para facilitar a entrega contínua e a manutenção**: perto da rotina de desenvolvimento (mesma ideia do Documentation-Driven Development).
+- ❌ Para fazer só no fim: é o oposto do que a aula defende.
+- ❌ Para substituir histórias de usuário: não aparece na aula.
+- ❌ Para dispensar a revisão: o cronograma inclui tempo de revisão do time.
+</details>
+
+**O que eu errei e por quê:** ⬜ a preencher depois que eu fizer o quiz.
 
 ---
 
