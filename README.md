@@ -47,6 +47,7 @@ Algumas pastas só aparecem no GitHub quando recebem o primeiro arquivo.
 | Tera | Digital Product Leadership | 04. Product Delivery: construa a solução | A fazer |
 | Tera | Digital Product Leadership | 05. Liderança e Negociação | A fazer |
 | Tera | Digital Product Leadership | 06. (a confirmar) | A fazer |
+| Tera | MBA em Liderança e Estratégia de Produtos Digitais na Era da IA (Turma 9) | [01. Digital Strategy](cursos-courses/tera/mba-lideranca-estrategia-produtos-digitais-ia/01-digital-strategy/README.md) | 🟡 Em andamento (6 de 12 aulas já vistas no DPL; 0 de 4 encontros) |
 | Alura | Formação Technical Writing | [01. Aprenda estratégias, ferramentas e boas práticas](cursos-courses/alura/technical-writing/01-estrategias-ferramentas-boas-praticas.md) · [projeto](projetos-projects/02-bytebank-docs/README.md) | ✅ Concluído na Alura (25/11/2026) |
 | Alura | Formação Technical Writing | [02. Crie uma documentação do zero com DDLC](cursos-courses/alura/technical-writing/02-documentacao-do-zero-com-ddlc.md) · [projeto](projetos-projects/03-bytebank-gitbook/README.md) | ✅ Concluído na Alura (25/11/2026) |
 
