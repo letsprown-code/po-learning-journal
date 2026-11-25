@@ -6,7 +6,7 @@
 | Curso / Course | Formação Technical Writing (2 cursos, 18 h) / Technical Writing track |
 | Módulo / Module | 02 · Technical Writing: crie uma documentação do zero com DDLC (8 h, intermediário) |
 | Instrutora / Instructor | Mari Moreira (líder de Developer Communications no Mercado Pago) |
-| Situação / Status | ✅ Concluído na Alura em 25/11/2026 (100%) · quizzes comentados prontos; falta registrar os erros |
+| Situação / Status | ✅ Concluído na Alura em 25/11/2026 (100%) · quiz do curso: 10 de 10 ✅ |
 | Fonte / Source | [Alura: Technical Writing: crie uma documentação do zero com DDLC](https://cursos.alura.com.br/course/technical-writing-crie-documentacao-zero-ddlc) (login) |
 | Pré-requisito / Prerequisite | [Curso 01: estratégias, ferramentas e boas práticas](01-estrategias-ferramentas-boas-praticas.md) ✅ |
 
@@ -18,11 +18,11 @@
 
 | # | Aula / Lesson | Atividades / Activities | Situação / Status |
 |---|---|---|---|
-| 1 | Iniciando seu processo de documentação | 10 | ✅ 10/10 na Alura · quiz pronto |
-| 2 | Estruturando sua documentação | 8 | ✅ 8/8 na Alura · quiz pronto |
-| 3 | Escrita e revisão | 9 | ✅ 9/9 na Alura · quiz pronto |
-| 4 | Publicação | 7 | ✅ 7/7 na Alura · quiz pronto |
-| 5 | Medindo a eficácia da sua documentação | 9 | ✅ 9/9 na Alura · quiz pronto |
+| 1 | Iniciando seu processo de documentação | 10 | ✅ 10/10 na Alura · quiz ✅ |
+| 2 | Estruturando sua documentação | 8 | ✅ 8/8 na Alura · quiz ✅ |
+| 3 | Escrita e revisão | 9 | ✅ 9/9 na Alura · quiz ✅ |
+| 4 | Publicação | 7 | ✅ 7/7 na Alura · quiz ✅ |
+| 5 | Medindo a eficácia da sua documentação | 9 | ✅ 9/9 na Alura · quiz ✅ |
 
 ---
 
@@ -152,7 +152,7 @@ flowchart LR
 - ❌ Templates do The Good Docs Project: são modelos de documentação.
 </details>
 
-**O que eu errei e por quê:** ⬜ a preencher depois que eu fizer o quiz.
+**O que eu errei e por quê:** ✅ nada: acertei as 10 perguntas do quiz do curso (25/11/2026).
 
 ---
 
@@ -286,7 +286,7 @@ flowchart TD
 - ❌ Porque o guia de estilo proíbe: não aparece; o guia de estilo entra no nome "Nossos Serviços".
 </details>
 
-**O que eu errei e por quê:** ⬜ a preencher depois que eu fizer o quiz.
+**O que eu errei e por quê:** ✅ nada: acertei as 10 perguntas do quiz do curso (25/11/2026).
 
 ---
 
@@ -409,7 +409,7 @@ flowchart TD
 - ❌ Publicar o feedback na documentação: não aparece na aula.
 </details>
 
-**O que eu errei e por quê:** ⬜ a preencher depois que eu fizer o quiz.
+**O que eu errei e por quê:** ✅ nada: acertei as 10 perguntas do quiz do curso (25/11/2026).
 
 ---
 
@@ -425,6 +425,37 @@ flowchart TD
 | Repositório + gerador de site | A documentação fica no repositório, e a parte visual é gerada por um gerador de site |
 | Ferramenta ou servidor próprio | Ex.: no Mercado Pago, usam o GitHub com um servidor dedicado para o deploy e a publicação |
 | **Gitbook** | **Share → Publish to the web → "Publish this space to the web"**; depois, "Visit site" ou "Copy link" para compartilhar |
+
+
+**Fluxo de publicação no GitHub, passo a passo** (juntando o que os dois cursos ensinam; cada etapa indica a aula de onde veio):
+
+~~~mermaid
+flowchart TD
+  A["1. Criar o repositório<br/>(New → título único, público ou privado, README → Create repository)<br/><i>Curso 01 · Aula 01</i>"]
+  B["2. Criar o arquivo da documentação<br/>(Add file → Create new file → nome.md)<br/><i>Curso 01 · Aula 01</i>"]
+  C["3. Escrever em Markdown e conferir no Preview<br/>(# título, ## subtítulo)<br/><i>Curso 01 · Aula 01</i>"]
+  D["4. Salvar com commit<br/>(Commit changes + mensagem)<br/><i>Curso 01 · Aula 01 e Docs as Code</i>"]
+  E["5. Abrir um pull request com a mudança<br/><i>Curso 01 · Docs as Code; Curso 02 · Aula 04</i>"]
+  F["6. Revisão do pull request por outras pessoas<br/>(validação configurada no workflow do GitHub)<br/><i>Curso 02 · Aula 04</i>"]
+  G{"Aprovado?"}
+  H["7. Merge<br/>(histórico fica nos pull requests: versionamento)<br/><i>Curso 01 · Docs as Code; Curso 02 · Aula 04</i>"]
+  I["8. Conteúdo disponível"]
+  J["No próprio repositório"]
+  K["Num site, com gerador de site<br/>(ex.: Jekyll, motor do GitHub Pages)<br/><i>Curso 02 · Aulas 04 e 05</i>"]
+  L["Num servidor próprio de deploy<br/>(ex.: Mercado Pago)<br/><i>Curso 02 · Aula 04</i>"]
+  M["9. Divulgar (plano de comunicação)<br/><i>Curso 02 · Aula 04</i>"]
+  A --> B --> C --> D --> E --> F --> G
+  G -->|"não: ajustar"| C
+  G -->|"sim"| H --> I
+  I --> J
+  I --> K
+  I --> L
+  J --> M
+  K --> M
+  L --> M
+~~~
+
+🇧🇷 No Docs as Code (Curso 01), essa esteira pode ser automatizada (**entrega contínua**): a cada mudança aprovada na documentação, alguns passos acontecem sozinhos, e a documentação fica sincronizada com o produto.
 
 🇧🇷 A publicação **não é o fim**: é preciso divulgar.
 
@@ -504,7 +535,7 @@ flowchart LR
 - ❌ Não comunicar: vai contra o plano de comunicação.
 </details>
 
-**O que eu errei e por quê:** ⬜ a preencher depois que eu fizer o quiz.
+**O que eu errei e por quê:** ✅ nada: acertei as 10 perguntas do quiz do curso (25/11/2026).
 
 ---
 
@@ -616,7 +647,7 @@ Marcadas: B, C e E. Explicações da plataforma:
 - ❌ O Gitbook não mostra métricas: falso, tem Insights e Content scores.
 </details>
 
-**O que eu errei e por quê:** ⬜ a preencher depois que eu fizer o quiz.
+**O que eu errei e por quê:** ✅ nada: acertei as 10 perguntas do quiz do curso (25/11/2026).
 
 ---
 
