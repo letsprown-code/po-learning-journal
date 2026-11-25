@@ -23,6 +23,7 @@
 | 4 | Troubleshooting | — | Aula 02 | ⬜ |
 | 5 | Release notes | — | Aula 02 | ⬜ |
 | 6 | FAQ (perguntas por objetivo) | [faq.md](faq.md) | Aula 04 | ✅ |
+| 7 | Plano de documentação (inventário, escopo, cronograma, ferramentas) | [plano-de-documentacao.md](plano-de-documentacao.md) | Aula 05 | ✅ |
 
 ## Checklist de boas práticas usado em todos os documentos / Writing checklist
 

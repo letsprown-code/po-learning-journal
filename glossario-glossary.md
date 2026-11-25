@@ -196,3 +196,8 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | Guia de usuário | User guide | Documentação que reúne todos os aspectos do produto num só lugar (ex.: manual do iPhone) · Covers every aspect of a product | Alura TW 01 · Guia de usuário |
 | Guia de início rápido | Quick start guide | Leva a pessoa do ponto zero aos primeiros passos com o produto: visão geral, pré-requisitos, passos e próximos passos · First steps with a product | Alura TW 01 · Guia de início rápido |
 | Perguntas frequentes | FAQ | Perguntas e respostas com as dúvidas que mais travam o uso do produto; melhor escritas por objetivo · Frequently asked questions | Alura TW 01 · Perguntas frequentes |
+| Mapeamento de documentação | Documentation mapping | Pesquisar e listar todas as documentações que já existem · Finding and listing existing docs | Alura TW 01 · Mapeamento da documentação existente |
+| Inventário de conteúdo | Content inventory | Planilha com tudo o que foi mapeado: URL, título, tipo, objetivo, responsável e datas · Spreadsheet of existing content | Alura TW 01 · Mapeamento da documentação existente |
+| Escopo e não escopo | Scope and non-scope | O que entra e o que fica de fora da documentação, definido pelo público e pelo objetivo · What is in and out | Alura TW 01 · Definição do escopo |
+| Plano de documentação | Documentation plan | Escopo (o quê), cronograma (quando) e ferramentas de trabalho (como) · What, when and how | Alura TW 01 · Plano de documentação técnica |
+| Desenvolvimento orientado à documentação | Documentation-Driven Development (DDD) | A documentação guia o desenvolvimento desde o início, em vez de ficar para o fim · Docs lead development | Alura TW 01 · Para saber mais: DDD |

@@ -21,7 +21,7 @@
 | 2 | Tipos de documentação técnica | 11 | ✅ 11/11 na Alura · falta conferir o quiz |
 | 3 | Boas práticas de escrita para documentação | 11 | ✅ 11/11 na Alura · falta conferir o quiz |
 | 4 | Outros formatos de conteúdo técnico | 7 | 🟡 Lida, falta exercício + quiz |
-| 5 | Planejamento e análise de documentações | 9 | ⬜ |
+| 5 | Planejamento e análise de documentações | 9 | ✅ 9/9 na Alura · falta conferir o quiz |
 
 ---
 
@@ -708,6 +708,100 @@ flowchart TD
 
 ---
 
+## Aula 05 · Planejamento e análise de documentações / Planning and analyzing docs
+
+🇧🇷 A parte mais conceitual do curso: por onde começar a planejar e analisar as documentações que já existem e as que queremos criar.
+
+~~~mermaid
+flowchart LR
+  M["1. Mapeamento<br/>(conversas, pesquisas,<br/>outras fontes)"] --> I["Inventário<br/>de conteúdo"] --> E["2. Escopo<br/>e não escopo"] --> P["3. Plano de<br/>documentação"]
+~~~
+
+### 1. Preparando o ambiente
+
+🇧🇷 Último link do [repositório do projeto do curso](https://github.com/alura-cursos/projeto-alura), agora com todas as documentações da Bytebank.
+
+### 2. Mapeamento da documentação existente / Mapping existing docs
+
+🇧🇷 **Mapeamento** é o processo de **pesquisar e listar todas as documentações que já existem**. A instrutora compara com um GIF de alguém parado numa estação enquanto todo mundo passa: é normal sentir "paralisia" diante de tanta informação.
+
+**Por que mapear:**
+- 🇧🇷 Confirmar quais documentos já existem na empresa (muitas vezes viram insumo).
+- 🇧🇷 Avaliar se esses insumos ajudam a nova documentação, nem que seja como links relacionados.
+
+**Como começar:**
+1. 🇧🇷 **Defina prioridades** e comece com um **escopo pequeno** (provavelmente há muito conteúdo legado). Ex.: revitalizar um GitHub antigo ou listar as documentações para quem vai entrar no time.
+2. 🇧🇷 **Converse com as pessoas do time.** Sem gestão do conhecimento ativa, a história do projeto fica na cabeça de quem está há mais tempo: são **"documentações vivas"**, que também sabem onde estão os documentos espalhados.
+3. 🇧🇷 **Crie um inventário de conteúdo**: uma planilha (ou arquivo base) com tudo o que encontrou.
+
+**Campos do inventário de exemplo da aula** (não existe modelo certo ou errado; adicione ou tire campos):
+
+| URL | Título | Tipo de documentação | Objetivo da documentação | Responsável | Data de criação | Última atualização |
+|---|---|---|---|---|---|---|
+| link do tutorial | Crie uma conta na Bytebank | Tutorial | Apresentar o passo a passo para criar uma conta | (quem escreveu) | (data) | (data) |
+
+### 3. Definição do escopo e "não escopo" / Scope and non-scope
+
+🇧🇷 Depois do mapeamento, é preciso **filtrar**: decidir o que entra e o que fica de fora da documentação. Isso organiza o trabalho de TW e, principalmente, mostra à pessoa usuária **só o que é relevante para ela naquele momento**. É tentador incluir tudo o que foi mapeado, mas é preciso visão sistemática e crítica.
+
+**Como fazer o escopo:**
+1. 🇧🇷 **Identifique o público e o objetivo** da documentação. Saber quem lê e o que essa pessoa deve conseguir fazer define o quanto detalhar.
+2. 🇧🇷 **Defina os tipos de documento** que vai escrever. Como cada tipo tem um objetivo (Aula 02), fica mais fácil dividir as informações do inventário e saber o que entra e o que fica de fora em cada um.
+
+### 4. Construção/revisão do plano de documentação técnica / Documentation plan
+
+🇧🇷 O plano vale para criar ou revisar documentações. A aula dá **o mínimo necessário** para começar (a formação tem um conteúdo dedicado só a planejamento). A "tríade" do plano:
+
+| | Pergunta | O que considerar |
+|---|---|---|
+| **Escopo** | **O quê?** O que vamos documentar | Público e informações a documentar (o exercício do vídeo anterior). O público define o nível técnico. Em times ágeis, quebre o escopo nas **sprints** e coloque a documentação na **planning** junto com as outras entregas: isso facilita a entrega contínua e a manutenção |
+| **Cronograma** | **Quando?** Os prazos que dá para cumprir | Tempo para **escrever**, para **editar e revisar** (o time revisa e dá feedback) e para **publicar** (plataformas como o GitHub podem ter datas de deploy e release). Vale para documentação interna e externa |
+| **Ferramentas de trabalho** | **Como?** Onde a documentação fica | Google Docs, GitHub ou uma ferramenta que a empresa já contrata (veja se atende). Se não houver: comece pelo **teste gratuito (trial)** e, se for estratégica, negocie a contratação; ou faça um **benchmark** das ferramentas com o time |
+
+🇧🇷 **Desafio da aula:** o "exercício contrário". O repositório da Bytebank foi criado como se já houvesse um plano; agora é pensar como teria sido esse planejamento: público, entregáveis e prazos.
+
+### 5. Para saber mais: Desenvolvimento orientado à documentação (Documentation-Driven Development, DDD)
+
+🇧🇷 A documentação **não é uma etapa final**: ela é protagonista desde o início do desenvolvimento.
+
+1. 🇧🇷 **Documentação como arquiteta:** ao criar um novo módulo, a documentação descreve as funcionalidades e também como elas se conectam ao resto do sistema, como a planta de um prédio antes da obra.
+2. 🇧🇷 **Histórias que se desdobram:** a cada ciclo, a documentação guia devs enquanto as funcionalidades entram (ex.: a doc de autenticação nasce junto com o recurso).
+3. 🇧🇷 **Resultado:** fluxo de trabalho mais fluido, **menos retrabalho** e documentação que não é feita depois, às pressas.
+4. 🇧🇷 **Diagramas de fluxo** ajudam a mostrar a documentação evoluindo lado a lado com o código.
+
+~~~mermaid
+flowchart LR
+  D1["Documentação<br/>(define o que e como)"] --> C1["Código"] --> D2["Documentação<br/>atualizada"] --> C2["Próximo ciclo"]
+~~~
+
+🇧🇷 "Não é só uma prática, é uma **mudança de mentalidade**."
+
+### 6. Faça como eu fiz: monte um plano de documentação
+
+🇧🇷 Registrar o **inventário** dos documentos da Bytebank no modelo do curso e definir o **escopo**, para não criar documentações desnecessárias daqui para frente.
+
+✅ Projeto prático: [plano de documentação das Caixinhas](../../../projetos-projects/02-bytebank-docs/plano-de-documentacao.md) (inventário, escopo e não escopo, cronograma e ferramentas).
+
+### 7. Conteúdo complementar
+
+🔗 Artigo da Alura: [A importância da technical writing nas empresas: como aplicar e obter benefícios na gestão do conhecimento](https://www.alura.com.br/empresas/artigos/technical-writing) (o que é escrita técnica, tipos de documentação, boas práticas e diferença para UX writing).
+
+### 8. O que aprendemos?
+
+- ✅ Mapear uma documentação existente.
+- ✅ Entender a importância do escopo e do "não escopo".
+- ✅ Montar e revisar um plano de documentação técnica.
+
+### 9. Conclusão
+
+🇧🇷 Fechamento do curso: o que é TW, arquitetura da informação, boas práticas de escrita, tipos de documentação, outros formatos (como o guia do usuário) e, ligando tudo, planejamento e análise. A instrutora recomenda o **segundo curso da formação**, que cria e planeja uma documentação do zero com um framework de processo de documentação conhecido no mercado (o DDLC). Também pede a avaliação do curso.
+
+### Quiz comentado da Aula 05 / Lesson 5 quiz
+
+⬜ A fazer na nossa conversa sobre a aula.
+
+---
+
 ## Modelos do projeto do curso (Bytebank) / Course project templates
 
 🇧🇷 O repositório do curso ([alura-cursos/projeto-alura](https://github.com/alura-cursos/projeto-alura/)) tem um modelo para cada tipo de documentação. Cada arquivo começa com um **Contexto** (o que é aquele tipo) e depois traz o **Exemplo de documentação** da Bytebank. Resumo da estrutura de cada modelo:
@@ -737,3 +831,4 @@ flowchart TD
 - 🔗 [The Good Docs Project](https://thegooddocsproject.dev/) (templates de documentação, Aula 03).
 - 🔗 Guias de estilo: [Google](https://developers.google.com/style), [Microsoft](https://learn.microsoft.com/en-us/style-guide/welcome/) e [GitLab](https://docs.gitlab.com/ee/development/documentation/styleguide/) (Aula 03).
 - 🔗 Blog *I'd Rather Be Writing*, de Tom Johnson (dica de FAQ por objetivo, Aula 04).
+- 🔗 [Artigo da Alura sobre technical writing nas empresas](https://www.alura.com.br/empresas/artigos/technical-writing) (Aula 05).

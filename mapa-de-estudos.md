@@ -139,7 +139,7 @@ flowchart TD
 
 ~~~mermaid
 flowchart LR
-    C1["🟡 01 Estratégias, ferramentas e boas práticas<br/>Aula 01 de 5 lida"] --> C2["⬜ 02 Documentação do zero com DDLC"]
+    C1["🟡 01 Estratégias, ferramentas e boas práticas<br/>5 de 5 aulas · falta 1 exercício"] --> C2["⬜ 02 Documentação do zero com DDLC"]
 ~~~
 
 ### Curso 01: Aprenda estratégias, ferramentas e boas práticas 🟡
@@ -147,17 +147,17 @@ flowchart LR
 ~~~mermaid
 flowchart TD
     A1["✅ 1 O que é Technical Writing?"] --> A2["✅ 2 Tipos de documentação técnica"] --> A3["✅ 3 Boas práticas de escrita"]
-    A3 --> A4["🟡 4 Outros formatos de conteúdo técnico"] --> A5["⬜ 5 Planejamento e análise"]
+    A3 --> A4["🟡 4 Outros formatos (falta 1 exercício)"] --> A5["✅ 5 Planejamento e análise"]
     A5 --> B{{"🔒 Badge: Curso 01 de Technical Writing"}}
 ~~~
 
 | Skill | Aula que desbloqueia / Unlocked by | Situação |
 |---|---|---|
-| Definir Technical Writing e o objetivo de TW nas empresas | Aula 01 | 🟡 lida, falta quiz |
-| Diferenciar Technical Writing de UX Writing | Aula 01 | 🟡 lida, falta quiz |
-| Criar um repositório de documentações no GitHub | Aula 01 | 🟡 lida, falta projeto |
-| Reconhecer as habilidades e o perfil de um Tech Writer | Aula 01 | 🟡 lida, falta quiz |
-| Conhecer os principais tipos de documentação técnica em TI | Aula 02 | 🟡 lida, falta quiz |
-| Aplicar arquitetura da informação e boas práticas de escrita | Aula 03 | 🟡 lida, falta quiz |
-| Desenvolver release notes, troubleshooting, tutoriais e mais | Aulas 02 a 04 | 🟡 Aulas 02 a 04 lidas; projeto com funcional, tutorial, how-to e FAQ |
-| Planejar e analisar documentações | Aula 05 | 🔒 |
+| Definir Technical Writing e o objetivo de TW nas empresas | Aula 01 | 🔓 |
+| Diferenciar Technical Writing de UX Writing | Aula 01 | 🔓 |
+| Criar um repositório de documentações no GitHub | Aula 01 | 🔓 |
+| Reconhecer as habilidades e o perfil de um Tech Writer | Aula 01 | 🔓 |
+| Conhecer os principais tipos de documentação técnica em TI | Aula 02 | 🔓 |
+| Aplicar arquitetura da informação e boas práticas de escrita | Aula 03 | 🔓 |
+| Desenvolver release notes, troubleshooting, tutoriais e mais | Aulas 02 a 04 | 🔓 (projeto: funcional, tutorial, how-to e FAQ; faltam troubleshooting e release notes, opcionais) |
+| Planejar e analisar documentações | Aula 05 | 🔓 |
