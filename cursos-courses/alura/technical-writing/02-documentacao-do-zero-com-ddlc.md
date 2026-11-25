@@ -20,7 +20,7 @@
 |---|---|---|---|
 | 1 | Iniciando seu processo de documentação | 10 | ✅ 10/10 na Alura · falta quiz |
 | 2 | Estruturando sua documentação | 8 | ✅ 8/8 na Alura · falta quiz |
-| 3 | Escrita e revisão | 9 | ⬜ |
+| 3 | Escrita e revisão | 9 | 🟡 8/9 na Alura · falta "O que aprendemos?" + quiz |
 | 4 | Publicação | 7 | ⬜ |
 | 5 | Medindo a eficácia da sua documentação | 9 | ⬜ |
 
@@ -258,6 +258,114 @@ flowchart TD
 
 ---
 
+## Aula 03 · Escrita e revisão / Writing and review
+
+### 1. Começando a escrever sua documentação (etapa 3 do DDLC: desenvolvimento do conteúdo)
+
+🇧🇷 Agora se escreve, com base no planejamento, no mapeamento e na estrutura. O vídeo mostra a escrita da página de **Investimentos** no Gitbook (partindo do texto do documento de planejamento) e o raciocínio por trás dela.
+
+**Dicas de escrita da aula:**
+- 🇧🇷 **Escreva uma primeira versão**, mesmo pouco estruturada, e **leia em voz alta** para sentir se está fluida, se falta uma seção explicativa, se a ordem faz sentido e se as frases podem ser reescritas. Se travar, escreva tudo o que imaginou e depois decida o que fica.
+- 🇧🇷 **Comece dizendo o que a pessoa vai encontrar na página** (um subtítulo que antecipa o conteúdo). No Gitbook, isso vai na **Page description**: "Nesta seção, você encontra as principais informações sobre o serviço de Investimentos do aplicativo da Bytebank".
+- 🇧🇷 Como nem todo mundo conhece investimentos, a página começa com uma seção de **Contexto**.
+- 🇧🇷 **Hierarquia de títulos** (heading 1, 2, 3) define a estrutura que aparece na página. Na primeira tentativa, "Contexto" e "Comece a investir" ficaram como nível 2 e os passos como nível 3; depois de ver na **pré-visualização (Preview)**, a instrutora subiu "Contexto" e "Comece a investir" para nível 1 e os passos para nível 2, e o texto ficou mais fluido e destacado.
+- 🇧🇷 **A escrita é tentativa e erro:** a primeira versão não precisa ser perfeita; vá refinando.
+
+**Estrutura final da página de Investimentos:**
+
+~~~mermaid
+flowchart TD
+  T["Investimentos (título)<br/>+ descrição da página"] --> C["Contexto"]
+  T --> CI["Comece a investir"]
+  CI --> P1["Passo 1: Acesse a seção Investimentos"]
+  CI --> P2["Passo 2: Selecione o investimento"]
+  CI --> P3["Passo 3: Preencha as informações"]
+  T --> N["Próximos passos"]
+~~~
+
+🇧🇷 Dicas do Gitbook: ocultar a barra lateral (**Hide Sidebar**) para ver melhor o texto; os ícones ao lado do texto (atalho "^ + /") mudam o tipo de bloco (parágrafo, heading 1, 2, 3).
+
+### 2. Utilizando Inteligência Artificial (I.A.)
+
+🇧🇷 O uso de IA gera debate no mercado, mas a aula convida a vê-la como **aliada**: para destravar bloqueios na escrita e, principalmente, **acelerar a revisão**, refinando o texto antes de mandá-lo para a revisão formal e evitando refações.
+
+🇧🇷 **Exemplo com a [Clarice.ai](https://app.clarice.ai/sign-in)** (IA focada em produção de textos; tem versão paga e teste gratuito):
+- 🇧🇷 **Score do texto** com critérios como correção, clareza, concisão, força e originalidade, além de verificar plágio.
+- 🇧🇷 Sugestões que apareceram no texto de Investimentos: **pontuação final em falta**, **erro de crase** e **"substantivos rastejantes"** (muitos substantivos seguidos deixam o texto confuso; a dica é transformar substantivos e adjetivos em verbos, parecido com o que a autora Dad Squarisi chama de "fileirinha de dês").
+- 🇧🇷 Ao selecionar um trecho, dá para pedir: **simplificar, encurtar, melhorar ou mudar o tom**. Ex.: a frase de contexto virou "No campo de investimentos, você pode gerenciar e aplicar seu dinheiro de acordo com seu perfil de investidor e seus objetivos."
+- 🇧🇷 A Clarice não é feita especificamente para Tech Writers, mas reforça o trabalho.
+
+### 3. Definindo as etapas de revisão (etapa 4 do DDLC: edição e revisão)
+
+🇧🇷 **Revisão** é o momento de **validar os documentos antes de publicar**. Pontos importantes:
+
+1. 🇧🇷 **Confirmar quem valida** a documentação (ex.: SMEs). A conversa começou no planejamento; agora, com o conteúdo pronto, é preciso confirmar de novo.
+2. 🇧🇷 **Estipular prazos** para receber todos os feedbacks até a publicação. As pessoas têm dificuldade com prazos de revisão, então seja **assertiva**: se há 4 dias para o feedback, deixe claro, porque depois ainda é preciso tempo para os ajustes.
+3. 🇧🇷 **Se possível, usar ferramentas como IA** na primeira revisão, para achar erros de gramática, pontuação e outros detalhes.
+
+🇧🇷 Depois de consolidar o texto, compartilhe com quem avalia: SMEs, stakeholders, colegas ou outros Tech Writers. Alguns feedbacks entram já; outros ficam para uma próxima entrega. Faça uma revisão cuidadosa antes de enviar e **estimule os feedbacks**: quem escreve se acostuma com o texto e deixa passar detalhes, e tudo bem.
+
+### 4. Validação com stakeholders e ajustes finais
+
+**Como funciona:**
+- 🇧🇷 **Lembrar o escopo** definido no planejamento (alinhar expectativas). No mercado, é comum receber feedbacks **pouco palpáveis**, sem ação clara; é preciso analisar o que de fato é válido.
+- 🇧🇷 **Avaliar os feedbacks** recebidos: o que manter, o que é pertinente e o que não é.
+- 🇧🇷 **Manter histórico de comentários e alterações** (no Gitbook, o botão **Merge** salva o que foi escrito; no Google Docs, há recursos para ver o texto anterior e as mudanças). Isso preserva o histórico e ajuda a entender **o motivo** de cada sugestão.
+
+🇧🇷 O tempo entre revisão, ajustes e publicação costuma ser curto, então é preciso **parcimônia** para decidir o que entra.
+
+**Planilha de feedbacks do curso** (modelo disponível para baixar; guardado no repositório privado de materiais):
+
+| Nome | Página | Feedback | Responsável | Situação | Acionável | Cabe nessa sprint? | Prazo |
+|---|---|---|---|---|---|---|---|
+| Ricardo | Principais conceitos | "Senti falta de alguma coisa, acho que está muito vazia" | Stakeholder | Em análise | Não fica claro o que ele precisa | Não | A definir |
+| Diego | Como criar sua conta na Bytebank | Usou a CNH e o texto não dizia que ela não podia estar vencida | Usuário | Em análise | Adicionar uma observação para checar a validade dos documentos | Sim | 12/12/2023 |
+
+- 🇧🇷 **Ricardo (vago):** não dá para saber o que falta; precisaria de mais tempo para conversar e entender, e talvez nem caiba no prazo. Fica para depois.
+- 🇧🇷 **Diego (concreto):** um ajuste rápido que evita que outras pessoas tenham a mesma dúvida. Entra agora.
+
+### 5. Desenvolvendo o conteúdo (exercício da plataforma)
+
+✅ Respondido pela Letícia na plataforma (acertou). Pergunta: qual prática é recomendada na fase de revisão do DDLC?
+
+- ✅ **Envolver pessoas da equipe sem conhecimento técnico**, para ter uma perspectiva mais ampla. Explicação da plataforma: quem não é especialista técnico traz uma visão valiosa sobre a clareza e a compreensão da documentação para um público mais amplo.
+- ❌ Revisar só os trechos de código; ignorar a revisão porque o DDLC "garante" a precisão; achar que ferramentas automáticas de gramática bastam: a plataforma não mostrou explicação para as alternativas erradas.
+
+### 6. Para saber mais: lista de ferramentas de IA para escrita
+
+| Ferramenta | Para quê (segundo a atividade) | Versão gratuita? |
+|---|---|---|
+| [ChatGPT](https://chat.openai.com/) | Gerar textos técnicos; plugins de tradução, formatação, imagens na versão paga | Sim (com limitações) |
+| [Smodin](https://smodin.io/) | Artigos técnicos originais, sem plágio; escolhe tópico, idioma e tom | Sim, limitada |
+| [Sudowrite](https://www.sudowrite.com/) | Melhorar estilo, gramática e clareza; destravar bloqueio criativo | Só teste |
+| [Rytr](https://rytr.me/) | Assistência rápida na escrita técnica do dia a dia | Sim |
+| [Chibi AI](https://chibi.ai/) | Explorar novas perspectivas e estilos no texto técnico | Teste de 2.000 palavras |
+| [Surfer](https://surferseo.com/ai/) | Otimizar conteúdo para SEO, concorrência e palavras-chave | Não |
+| [Copy.AI](https://www.copy.ai/) | Gerar conteúdo técnico com rapidez e consistência | Sim |
+| [Jasper](https://www.jasper.ai/) | Conteúdo técnico original e sem plágio | Teste de 7 dias |
+| [Copymatic](https://copymatic.ai/) | Criação de textos técnicos | 10 créditos de teste |
+| [Trinka](https://www.trinka.ai/) | Escrita técnica acadêmica | Sim |
+
+### 7. Para saber mais: templates de documentação
+
+🇧🇷 O **[The Good Docs Project](https://thegooddocsproject.dev/)** ensina e capacita a criar documentação de qualidade para software de código aberto e áreas relacionadas, com **templates, recursos, boas práticas e ferramentas**. Baseia-se em tipos de documento, modelos de maturidade, estratégias de conteúdo e diretrizes de escrita, e orienta como personalizar os templates. É feito para devs, Tech Writers e donos de projeto; é colaborativo, com grupos no GitLab. "Os templates são como bússolas."
+
+### 8. Faça como eu fiz: escreva uma documentação e faça a revisão
+
+🇧🇷 Escrever a documentação do projeto e revisá-la, usando a IA como aliada (pode ser a versão gratuita do ChatGPT, com prompts claros e objetivos). A instrutora deixa a [página da Bytebank no Gitbook](https://bytebank-documentation.gitbook.io/bytebank/) como inspiração. Na opinião do instrutor: compartilhar com stakeholders (ou colegas, se o tema for do trabalho) para viver a experiência de revisão.
+
+✅ Projeto prático: [escrita e revisão](../../../projetos-projects/03-bytebank-gitbook/03-escrita-e-revisao.md), com a página de [Investimentos](../../../projetos-projects/03-bytebank-gitbook/docs/investimentos.md).
+
+### 9. O que aprendemos? (exercício da plataforma)
+
+⬜ Resposta aberta da Alura: explicar com as próprias palavras os principais conceitos da aula.
+
+### Quiz comentado da Aula 03 / Lesson 3 quiz
+
+⬜ A fazer na nossa conversa sobre a aula.
+
+---
+
 ## Livros e links indicados pela aula / Recommended by the course
 
 - 🔗 [Gitbook](https://www.gitbook.com/) (plataforma do projeto, plano gratuito).
@@ -265,3 +373,5 @@ flowchart TD
 - 📘 *Dominando a Redação Técnica: guia essencial para profissionais de tecnologia*, de Ellen Baldin (Aula 02).
 - 🔗 [The Good Docs Project](https://thegooddocsproject.dev/) (templates, Aula 02).
 - 🔗 [Octopus](https://octopus.do/) (estrutura visual da documentação, Aula 02).
+- 🔗 [Clarice.ai](https://app.clarice.ai/sign-in) (IA para textos, Aula 03).
+- 🔗 [Página da Bytebank no Gitbook, feita pela instrutora](https://bytebank-documentation.gitbook.io/bytebank/) (Aula 03).
