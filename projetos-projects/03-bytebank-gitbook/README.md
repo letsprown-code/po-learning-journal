@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 | 1 | Análise e planejamento | [01-planejamento.md](01-planejamento.md) | Aula 01 | ✅ |
 | 2 | Design / estruturação | [02-estrutura.md](02-estrutura.md) | Aula 02 | ✅ |
-| 3 | Desenvolvimento do conteúdo | [03-escrita-e-revisao.md](03-escrita-e-revisao.md) · [docs/investimentos.md](docs/investimentos.md) | Aula 03 | ✅ |
+| 3 | Desenvolvimento do conteúdo | [03-escrita-e-revisao.md](03-escrita-e-revisao.md) · [documentação completa em docs/](docs/README.md) | Aula 03 | ✅ |
 | 4 | Edição e revisão | [03-escrita-e-revisao.md](03-escrita-e-revisao.md) | Aula 03 | ✅ |
 | 5 | Publicação e comunicação | [04-publicacao-e-comunicacao.md](04-publicacao-e-comunicacao.md) | Aula 04 | ✅ |
 | 6 | Manutenção e métricas | [04-publicacao-e-comunicacao.md](04-publicacao-e-comunicacao.md) (manutenção) · [05-metricas.md](05-metricas.md) | Aulas 04 e 05 | ✅ |

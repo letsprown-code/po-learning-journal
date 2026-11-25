@@ -20,8 +20,8 @@
 | 1 | Documentação funcional | [documentacao-funcional.md](documentacao-funcional.md) | Aula 02 | ✅ |
 | 2 | Tutorial | [tutorial.md](tutorial.md) | Aulas 02 e 03 | ✅ |
 | 3 | Guia how-to | [guia-how-to.md](guia-how-to.md) | Aulas 02 e 03 | ✅ |
-| 4 | Troubleshooting | — | Aula 02 | ⬜ |
-| 5 | Release notes | — | Aula 02 | ⬜ |
+| 4 | Troubleshooting | [troubleshooting.md](troubleshooting.md) | Aula 02 | ✅ |
+| 5 | Release notes | [release-notes.md](release-notes.md) | Aula 02 | ✅ |
 | 6 | FAQ (perguntas por objetivo) | [faq.md](faq.md) | Aula 04 | ✅ |
 | 7 | Plano de documentação (inventário, escopo, cronograma, ferramentas) | [plano-de-documentacao.md](plano-de-documentacao.md) | Aula 05 | ✅ |
 
