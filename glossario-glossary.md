@@ -162,3 +162,13 @@ Product terms in Portuguese and English, explained as they appear in the courses
 | CRUD | CRUD | Create, Retrieve, Update, Delete; a PM costuma só ler (retrieve) · Four data operations | DPL 02 · SQL para PMs |
 | Alias | Alias | Apelido dado a uma coluna com AS · Column nickname | DPL 02 · SQL para PMs |
 | Coringa | Wildcard (%) | Representa um ou mais caracteres numa busca com LIKE · Matches any characters | DPL 02 · SQL para PMs |
+| Escrita técnica | Technical Writing (TW) | Comunicar informações complexas para quem precisa realizar uma tarefa ou atingir um objetivo (definição da Society for Technical Communication) · Communicating complex information to those who need it to accomplish a task or goal | Alura TW 01 · O que é Technical Writing |
+| Escrita de UX | UX Writing | Escrita amigável e conversacional da interface (microtextos, tom e voz), mais próxima dos times de UX e Design · Friendly, conversational interface copy | Alura TW 01 · Technical Writing x UX Writing |
+| Microtextos | Microcopy | Frases curtas que aparecem nas etapas de um aplicativo, como botões e campos · Short texts in an app's screens | Alura TW 01 · Technical Writing x UX Writing |
+| Notas de versão | Release notes | Comunicação de atualizações, mudanças e melhorias de um produto · Communicates product updates and changes | Alura TW 01 · Tipos de entregas em TW |
+| Registro de mudanças | Changelog | Lista das últimas atualizações de um produto, usada para manter a comunidade informada (ex.: GitHub) · List of latest product updates | Alura TW 01 · Tipos de entregas em TW |
+| Portal de desenvolvedores | Developer Portal | Site com todos os recursos que devs precisam saber de um produto, incluindo documentações · Site with everything developers need about a product | Alura TW 01 · Tipos de entregas em TW |
+| Participação direta | Direct participation | Modelo em que a TW integra um time de produto desde o início do desenvolvimento · TW embedded in one product team | Alura TW 01 · Tipos de entregas em TW |
+| Scrum of Writers | Scrum of Writers | Modelo com um time dedicado de TWs atuando de forma transversal em vários times de produto · Dedicated cross-team writers group | Alura TW 01 · Tipos de entregas em TW |
+| Documentação como código | Docs as Code | Tratar a documentação como um projeto de software, com versões, revisões e entrega contínua no mesmo ecossistema do código · Treating docs like software | Alura TW 01 · Docs as Code |
+| Linguagem de marcação | Markup language | Linguagem que usa símbolos para formatar texto, como Markdown e XML · Uses symbols to format text | Alura TW 01 · Habilidades e perfil de um Tech Writer |

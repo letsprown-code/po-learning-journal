@@ -134,3 +134,30 @@ flowchart TD
 | Montar um **tracking plan**: definir o que medir em colaboração, padronizar nomes de eventos e parâmetros, documentar e validar a coleta (GTM, dataLayer, debuggers) | 7 Tracking Plan | 🔓 |
 | Transformar ideias em **hipóteses testáveis** (Test Card, métrica de saúde, critério de sucesso) e conduzir um **processo de experimentação** do objetivo à documentação | 8 Cultura de Analytics | 🔓 |
 | Escrever **consultas SQL básicas** (SELECT, WHERE, ORDER BY, LIMIT, IN, BETWEEN, LIKE, IS NULL) a partir de uma pergunta de negócio | 9 SQL para PMs | 🔓 |
+
+## Alura · Formação Technical Writing 🟡
+
+~~~mermaid
+flowchart LR
+    C1["🟡 01 Estratégias, ferramentas e boas práticas<br/>Aula 01 de 5 lida"] --> C2["⬜ 02 Documentação do zero com DDLC"]
+~~~
+
+### Curso 01: Aprenda estratégias, ferramentas e boas práticas 🟡
+
+~~~mermaid
+flowchart TD
+    A1["🟡 1 O que é Technical Writing?"] --> A2["⬜ 2 Tipos de documentação técnica"] --> A3["⬜ 3 Boas práticas de escrita"]
+    A3 --> A4["⬜ 4 Outros formatos de conteúdo técnico"] --> A5["⬜ 5 Planejamento e análise"]
+    A5 --> B{{"🔒 Badge: Curso 01 de Technical Writing"}}
+~~~
+
+| Skill | Aula que desbloqueia / Unlocked by | Situação |
+|---|---|---|
+| Definir Technical Writing e o objetivo de TW nas empresas | Aula 01 | 🟡 lida, falta quiz |
+| Diferenciar Technical Writing de UX Writing | Aula 01 | 🟡 lida, falta quiz |
+| Criar um repositório de documentações no GitHub | Aula 01 | 🟡 lida, falta projeto |
+| Reconhecer as habilidades e o perfil de um Tech Writer | Aula 01 | 🟡 lida, falta quiz |
+| Conhecer os principais tipos de documentação técnica em TI | Aula 02 | 🔒 |
+| Aplicar arquitetura da informação e boas práticas de escrita | Aula 03 | 🔒 |
+| Desenvolver release notes, troubleshooting, tutoriais e mais | Aulas 02 a 04 | 🔒 |
+| Planejar e analisar documentações | Aula 05 | 🔒 |
