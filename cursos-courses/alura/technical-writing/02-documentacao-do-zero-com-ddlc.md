@@ -20,7 +20,7 @@
 |---|---|---|---|
 | 1 | Iniciando seu processo de documentação | 10 | ✅ 10/10 na Alura · falta quiz |
 | 2 | Estruturando sua documentação | 8 | ✅ 8/8 na Alura · falta quiz |
-| 3 | Escrita e revisão | 9 | 🟡 8/9 na Alura · falta "O que aprendemos?" + quiz |
+| 3 | Escrita e revisão | 9 | ✅ 9/9 na Alura · falta quiz |
 | 4 | Publicação | 7 | ⬜ |
 | 5 | Medindo a eficácia da sua documentação | 9 | ⬜ |
 
@@ -358,7 +358,7 @@ flowchart TD
 
 ### 9. O que aprendemos? (exercício da plataforma)
 
-⬜ Resposta aberta da Alura: explicar com as próprias palavras os principais conceitos da aula.
+✅ Resposta aberta enviada na plataforma (texto aprovado pela Letícia). O retorno da Alura elogiou a ligação entre contextualização, hierarquia dos títulos e escrita, e lembrou que manter o histórico de alterações garante a rastreabilidade das decisões.
 
 ### Quiz comentado da Aula 03 / Lesson 3 quiz
 
