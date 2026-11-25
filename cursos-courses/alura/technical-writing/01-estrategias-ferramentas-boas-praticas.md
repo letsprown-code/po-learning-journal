@@ -567,7 +567,55 @@ flowchart TD
 
 ### Quiz comentado da Aula 03 / Lesson 3 quiz
 
-⬜ A fazer na nossa conversa sobre a aula.
+<details><summary>1. Como a aula define arquitetura da informação?</summary>
+
+- ✅ **A arte de organizar e estruturar a informação para que fique acessível e intuitiva** (as peças do quebra-cabeça).
+- ❌ Estrutura de pastas de um repositório: a A.I. vale para qualquer documentação ou site.
+- ❌ Cores e fontes de uma marca: é identidade visual; as cores por editoria da globo.com são só um recurso de A.I.
+- ❌ Diagrama de como uma API funciona: é o diagrama UML, um componente.
+</details>
+
+<details><summary>2. Requisitos com descrição e "obrigatório/opcional": qual componente?</summary>
+
+- ✅ **Tabela** (exemplo do Checkout Pro do Mercado Pago).
+- ❌ Trecho de código: para código que se copia e cola.
+- ❌ Lista numerada: para passos em sequência.
+- ❌ Hiperlink: para ligar documentações e navegar.
+</details>
+
+<details><summary>3. Qual frase segue as boas práticas?</summary>
+
+- ✅ **"Instale o software e, em seguida, inicie o programa."** Ordem direta e falando com a pessoa.
+- ❌ "O programa será iniciado depois de o software ser instalado.": voz passiva, ordem confusa.
+- ❌ "Vamos adicionar este componente…": usa "nós", mas quem lê está sozinho.
+- ❌ "O parâmetro string é chamado…": jargão sem explicação nem glossário.
+</details>
+
+<details><summary>4. Quando o "nós" cabe numa documentação?</summary>
+
+- ✅ **Quando se refere à própria empresa**: "entre em contato com o nosso suporte".
+- ❌ Nos passos de um tutorial: aí a aula pede "você".
+- ❌ Sempre: a regra geral é a segunda pessoa.
+- ❌ Nunca: a aula diz que existem situações em que cabe.
+</details>
+
+<details><summary>5. Por que evitar "clique aqui" num hiperlink?</summary>
+
+- ✅ **Quem usa leitor de tela não entende o destino.** Coloque o link na palavra que diz para onde vai.
+- ❌ Texto longo demais: "clique aqui" é curto.
+- ❌ Links não devem ser usados: a aula recomenda hiperlinks.
+- ❌ "Clique" é jargão: o problema é o "aqui", que não diz o destino.
+</details>
+
+<details><summary>6. Qual caminho a aula recomenda para quem está começando, em relação ao guia de estilo?</summary>
+
+- ✅ **Aprender com guias públicos** (Google, Microsoft, GitLab).
+- ❌ Criar do zero, sozinho: é um projeto extenso, com várias áreas.
+- ❌ Não usar guia: ignora o objetivo de padronizar a escrita de várias pessoas.
+- ❌ Copiar o tom e voz de outra marca sem adaptar: não aparece na aula; os guias servem de referência e inspiração.
+</details>
+
+**O que eu errei e por quê:** ⬜ a preencher depois que eu fizer o quiz.
 
 ---
 
