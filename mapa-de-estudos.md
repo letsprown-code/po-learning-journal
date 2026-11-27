@@ -216,7 +216,7 @@ flowchart TD
 | Reconhecer as habilidades e o perfil de um Tech Writer | Aula 01 | 🔓 |
 | Conhecer os principais tipos de documentação técnica em TI | Aula 02 | 🔓 |
 | Aplicar arquitetura da informação e boas práticas de escrita | Aula 03 | 🔓 |
-| Desenvolver release notes, troubleshooting, tutoriais e mais | Aulas 02 a 04 | 🔓 (projeto: funcional, tutorial, how-to e FAQ; faltam troubleshooting e release notes, opcionais) |
+| Desenvolver release notes, troubleshooting, tutoriais e mais | Aulas 02 a 04 | 🔓 (projeto: funcional, tutorial, how-to, troubleshooting, release notes e FAQ) |
 | Planejar e analisar documentações | Aula 05 | 🔓 |
 
 ### Curso 02: Crie uma documentação do zero com DDLC ✅
